@@ -1,0 +1,3613 @@
+Destination ID,Attraction,Restaurant_Name      ,Location        ,Rating        , Price Range ,Province
+1,Mount Everest (Sagarmatha National Park),TOMODACHI Restaurant, Namche,4,Low (~$10–20),1
+1,Mount Everest (Sagarmatha National Park),Eat Smart,Namche ,3.8,Medium (~$35–60),1
+1,Mount Everest (Sagarmatha National Park),Namché Organics,Namche,4.1,High (~$90+),1
+2,Dantakali Temple (Dharan),mangalam dharane nanglo restaurant,"Mahananda Marg, Dharan 1",4,Low (~$10–20),1
+2,Dantakali Temple (Dharan),YOUBERRY RESTAURANT,"Ratna Road, Dharan 56700",3.7,Medium (~$35–60),1
+2,Dantakali Temple (Dharan),Hill Garden Restaurant,"R7PW+HF8, Dharan 56700",4.2,High (~$90+),1
+3,Koshi Tappu Wildlife Reserve,New Family Resort and Sekuwa Corner,"MW39+CR3, Unnamed Road, Kanchanrup 56400",4,Low (~$10–20),1
+3,Koshi Tappu Wildlife Reserve,Shikari than,"Prakashpur Road, Prakashpur 56713",4.1,Medium (~$35–60),1
+3,Koshi Tappu Wildlife Reserve,Safari Restaurant,"Chatara Road, Pashchim Kushaha 56713",4,High (~$90+),1
+4,Ilām Tea Gardens ,Tea Garden restaurant Ilam,"Narayansthan Marg, Ilam 57300",4.1,Low (~$10–20),1
+4,Ilām Tea Gardens ,Tea garden view hand,"WW5C+XXF, Ilam 57300",3.9,Medium (~$35–60),1
+4,Ilām Tea Gardens ,Ilam tea House (House of Organic Tea Varieties),Ilam 57300,4,High (~$90+),1
+5,Bhedetar,Top Hill Tree House,"R7QW+8R6, H08, Dharan 56700",4,Low (~$10–20),1
+5,Bhedetar,The Dharan View,Dharan 56700,4.1,Medium (~$35–60),1
+5,Bhedetar,Seven Eleven Chillhill,"H08, Dharan 56700",3.7,High (~$90+),1
+6,Limbu Villages ,No,No,No,No,1
+6,Limbu Villages ,No,No,No,No,1
+6,Limbu Villages ,No,No,No,No,1
+7,Hile,Subba sekuwa corner,"28H7+FCP, Koshi Hwy, Dhankuta 56806",4,Low (~$10–20),1
+7,Hile,Hang out restaurant & resort,"373G+HGC, H18, Pakhribas 56800",3.8,Medium (~$35–60),1
+7,Hile,AMBAR (LO) HOTEL,"2873+Q86, Dhankuta 56800",3.7,Medium (~$35–60),1
+8,Rhododendron Bloom Spots,No,No,No,No,1
+8,Rhododendron Bloom Spots,No,No,No,No,1
+8,Rhododendron Bloom Spots,No,No,No,No,1
+9,Didi-Baini Waterfall,No,No,No,No,1
+9,Didi-Baini Waterfall,No,No,No,No,1
+9,Didi-Baini Waterfall,No,No,No,No,1
+10,Barun Valley,No,No,No,No,1
+10,Barun Valley,No,No,No,No,1
+10,Barun Valley,No,No,No,No,1
+11,Makalu Barun National Park,No,No,No,No,1
+11,Makalu Barun National Park,No,No,No,No,1
+11,Makalu Barun National Park,No,No,No,No,1
+12,Triveni Dham,Ashok Hotel,"FW3H+WMC, Tribeni 33007",4,Low (~$10–20),1
+12,Triveni Dham,Gaurav restaurant and lounge,"CWX9+P5P, Tribeni 33007",3.7,Medium (~$35–60),1
+12,Triveni Dham,Momo land,"FW34+RFG, Tribeni 33007",4,High (~$90+),1
+13,Thamserku Viewpoint,No,No,No,No,1
+13,Thamserku Viewpoint,No,No,No,No,1
+13,Thamserku Viewpoint,No,No,No,No,1
+14,Taplejung Micro Temple,No,No,No,No,1
+14,Taplejung Micro Temple,No,No,No,No,1
+14,Taplejung Micro Temple,No,No,No,No,1
+15,Hile Tiny Viewpoint,No,No,No,No,1
+15,Hile Tiny Viewpoint,No,No,No,No,1
+15,Hile Tiny Viewpoint,No,No,No,No,1
+16,Sankhuwasabha Micro Waterfall,No,No,No,No,1
+16,Sankhuwasabha Micro Waterfall,No,No,No,No,1
+16,Sankhuwasabha Micro Waterfall,No,No,No,No,1
+17,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+17,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+17,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+17,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+17,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+18,Ilaka Bazaar Homestays,No,No,No,No,1
+18,Ilaka Bazaar Homestays,No,No,No,No,1
+18,Ilaka Bazaar Homestays,No,No,No,No,1
+18,Ilaka Bazaar Homestays,No,No,No,No,1
+18,Ilaka Bazaar Homestays,No,No,No,No,1
+19,Thulung Dudhkoshi Trek,No,No,No,No,1
+19,Thulung Dudhkoshi Trek,No,No,No,No,1
+19,Thulung Dudhkoshi Trek,No,No,No,No,1
+19,Thulung Dudhkoshi Trek,No,No,No,No,1
+19,Thulung Dudhkoshi Trek,No,No,No,No,1
+20,Himalayan Hot Springs,Sinduli Restaurant,"FMW3+RH2, Tatopani 33200",4.2,High (~$90+),1
+20,Himalayan Hot Springs,Khinga Restaurant,"FMW3+7C, Tatopani 33200",4,Low (~$10–20),1
+20,Himalayan Hot Springs,Bob Marley Restaurant,Tatopani Myagdi 33200,3.9,Medium (~$35–60),1
+21,Makalu Viewpoint,No,No,No,No,1
+21,Makalu Viewpoint,No,No,No,No,1
+21,Makalu Viewpoint,No,No,No,No,1
+22,Sabhapokhari,No,No,No,No,1
+22,Sabhapokhari,No,No,No,No,1
+22,Sabhapokhari,No,No,No,No,1
+17,"Rhododendron Trail (Tinjure, Milke, Jaljale)",No,No,No,No,1
+18,"Rhododendron Trail (Tinjure, Milke, Jaljale)",No,No,No,No,1
+18,"Rhododendron Trail (Tinjure, Milke, Jaljale)",No,No,No,No,1
+18,Local Mountain Viewpoints (Tehrathum/Panchthar),No,No,No,No,1
+18,Local Mountain Viewpoints (Tehrathum/Panchthar),No,No,No,No,1
+18,Local Mountain Viewpoints (Tehrathum/Panchthar),No,No,No,No,1
+19,Bantawa Village,Chiyabari View Hotel,"2884+M5, Chungwang 56800",4.2,High (~$90+),1
+19,Bantawa Village,Nimto Sekuwa Corner,"2884+M5, Chungwang 56800",4,Low (~$10–20),1
+19,Bantawa Village,Subba sekuwa corner,"28H7+FCP, Koshi Hwy, Dhankuta 56806",4,Medium (~$35–60),1
+19,Seasonal Waterfalls (Ilam/Taplejung),No,No,No,No,1
+19,Seasonal Waterfalls (Ilam/Taplejung),No,No,No,No,1
+20,Seasonal Waterfalls (Ilam/Taplejung),No,No,No,No,1
+20,Himalayan Viewpoint,No,No,No,No,1
+20,Himalayan Viewpoint,No,No,No,No,1
+20,Himalayan Viewpoint,No,No,No,No,1
+16,Phakumba,No,No,No,No,1
+16,Phakumba,No,No,No,No,1
+16,Phakumba,No,No,No,No,1
+17,Biratnagar,Trishna-The Craving Tales,"F7MF+XPM, Biratnagar 56613",4.1,Low (~$10–20),1
+17,Biratnagar,The epic dinner and grill,"Rainbow Galli, Sankhadhar Sakhwa Marg, Biratnagar 56613",4,Medium (~$35–60),1
+17,Biratnagar,Pizfire - Pipal Chowk,"F7JG+JVJ, Bargachhi Marg, Biratnagar 56613",3.9,High (~$90+),1
+18,Taplejung,Kabru Cafe and Restaurant,"9M49+23H, Phungling 57500",4,Low (~$10–20),1
+18,Taplejung,Aalu Cottage,Phungling 57500,3.8,Medium (~$35–60),1
+18,Taplejung,Cheap and Best Fast Food,"Birendra Chowk, Phungling 57500",4.1,High (~$90+),1
+19,Ilam,Sagun Restro,"WW6H+8XQ, Ilam 57300",4.1,Low (~$10–20),1
+19,Ilam,Chyangba hotel,"WW5G+RC2, Bhanu Path, Ilam 57300",4.2,Medium (~$35–60),1
+19,Ilam,Bhintuna Restro,"WRQP+X8C, Deumai 57300",4,High (~$90+),1
+20,Dhankuta,The Saze Restaurant & Bar,"Buddha Chowk, Dharan 56700",4,Low (~$10–20),1
+20,Dhankuta,Good day restaurant & cafe,"M59W+JRP, Ramdhuni Bhasi 1",3.9,Medium (~$35–60),1
+20,Dhankuta,The Basement Cafe & Bistro,"8 Himali Marg, Dharan 56700",4.1,High (~$90+),1
+21,Sankhuwasabha,No,No,No,No,1
+21,Sankhuwasabha,No,No,No,No,1
+21,Sankhuwasabha,No,No,No,No,1
+22,Ilaka Bazaar & Homestays (Bhojpur),No,No,No,No,1
+22,Ilaka Bazaar & Homestays (Bhojpur),No,No,No,No,1
+22,Ilaka Bazaar & Homestays (Bhojpur),No,No,No,No,1
+23,Khoping Pokhari,No,No,No,No,1
+23,Khoping Pokhari,No,No,No,No,1
+23,Khoping Pokhari,No,No,No,No,1
+24,Himalayan Hot Springs (Taplejung Sankhuwasabha),No,No,No,No,1
+24,Himalayan Hot Springs (Taplejung Sankhuwasabha),No,No,No,No,1
+24,Himalayan Hot Springs (Taplejung Sankhuwasabha),No,No,No,No,1
+25,Jhyau Pokhari ,No,No,No,No,1
+25,Jhyau Pokhari ,No,No,No,No,1
+25,Jhyau Pokhari ,No,No,No,No,1
+26,Nundhaki,No,No,No,No,1
+26,Nundhaki,No,No,No,No,1
+26,Nundhaki,No,No,No,No,1
+27,Mawadin,No,No,No,No,1
+27,Mawadin,No,No,No,No,1
+27,Mawadin,No,No,No,No,1
+28,Dudh Koshi River (Solukhumbu),Khushi Cafeteria,"CMM9+634, 56000",4,Low (~$10–20),1
+28,Dudh Koshi River (Solukhumbu),"Hotel Dream Lodge and Restaurant, Phaplu","Unnamed Road, 56000, Dudhakunda 56000",3.9,Medium (~$35–60),1
+28,Dudh Koshi River (Solukhumbu),Bastola Khaja Ghar,"9J2W+GVP, Necha Betghari Bideshi 56000",4.1,High (~$90+),1
+29,Namobuddha Monastery (BhojpurKhotang),No,No,No,No,1
+29,Namobuddha Monastery (BhojpurKhotang),No,No,No,No,1
+29,Namobuddha Monastery (BhojpurKhotang),No,No,No,No,1
+30,Bantawa Village (Dhankuta),No,No,No,No,1
+30,Bantawa Village (Dhankuta),No,No,No,No,1
+30,Bantawa Village (Dhankuta),No,No,No,No,1
+31,Sherpa Villages (Solukhumbu),Sherpa Village Lodge And Restaurant,"RPWX+CR5, Khumjung 56000",4.2,Low (~$10–20),1
+31,Sherpa Villages (Solukhumbu),Sherpa Land Lodge And Restaurant,"VDC, Khunde-Khumjung Path, Khumjung 56000",4.1,Medium (~$35–60),1
+31,Sherpa Villages (Solukhumbu),Hotel Sherpaland,"Namche Marg, Namche 56000",4,High (~$90+),1
+32,Limbu Villages (PanchtharTaplejung),Hangout Resort Pakhribas Dhankuta,"36GR+CQ3, Pakhribas 56800",4.2,Low (~$10–20),1
+32,Limbu Villages (PanchtharTaplejung),Chainpure Kaila,"374G+5W6, Pakhribas 56800",4.1,Medium (~$35–60),1
+32,Limbu Villages (PanchtharTaplejung),Kavreli dunot pasal,"28H7+93F, Hile - Belhara Rd, Dhankuta 56806",4,High (~$90+),1
+33,TempuHelambu Trek (SindhupalchokSolukhumbu border),No,No,No,No,1
+33,TempuHelambu Trek (SindhupalchokSolukhumbu border),No,No,No,No,1
+33,TempuHelambu Trek (SindhupalchokSolukhumbu border),No,No,No,No,1
+34,"Dantakali Temple (Sunsari, Dharan)",No,No,No,No,1
+34,"Dantakali Temple (Sunsari, Dharan)",No,No,No,No,1
+34,"Dantakali Temple (Sunsari, Dharan)",No,No,No,No,1
+35,Hile (Dhankuta),No,No,No,No,1
+35,Hile (Dhankuta),No,No,No,No,1
+35,Hile (Dhankuta),No,No,No,No,1
+36,Ethnic Villages (SankhuwasabhaBhojpur),No,No,No,No,1
+36,Ethnic Villages (SankhuwasabhaBhojpur),No,No,No,No,1
+36,Ethnic Villages (SankhuwasabhaBhojpur),No,No,No,No,1
+37,Gokyo Lakes,HighCamp Cafe,"Namche Marg, Namche 55666",4.3,Low (~$10–20),1
+37,Gokyo Lakes,Everest Bakery Cafe,Khumjung 56000,4.1,Medium (~$35–60),1
+37,Gokyo Lakes,Stupa Cafe,"RP35+8V, Namche 56000",4.2,High (~$90+),1
+38,Namche Bazaar,TOMODACHI Restaurant,"56000, Namche",4.3,Low (~$10–20),1
+38,Namche Bazaar,Trekker Cafe Namche Bazaar,Namche 56000,4.3,Medium (~$35–60),1
+38,Namche Bazaar,Tandoor Himalaya,"RP36+M4J, Namche Marg, Namche 56000",4.1,High (~$90+),1
+39,Kanyam Tea Garden,No,No,No,No,1
+39,Kanyam Tea Garden,No,No,No,No,1
+39,Kanyam Tea Garden,No,No,No,No,1
+40,Sherpa Villages ,No,No,No,No,1
+40,Sherpa Villages ,No,No,No,No,1
+40,Sherpa Villages ,No,No,No,No,1
+41,Sangu,Friends Café & Restaurant with Lodge,Phungling 57500,3.9,Low (~$10–20),1
+41,Sangu,No,No,No,No,1
+41,Sangu,No,No,No,No,1
+42,Dudh Koshi River Rafting,No,No,No,No,1
+42,Dudh Koshi River Rafting,No,No,No,No,1
+42,Dudh Koshi River Rafting,No,No,No,No,1
+43,Antu Danda,New Kanduk Restaurant,"V3W5+4VV, Suryodaya 57312",4,Low (~$10–20),1
+43,Antu Danda,Hurhure restaurant &bar,"9 Mechi Hwy, Suryodaya 57312",3.9,Medium (~$35–60),1
+43,Antu Danda,Jimbu lekali bhansa,"R3XP+W3X, Mechi Hwy, Suryodaya 57300",4.1,High (~$90+),1
+44,Maipokhari,Gurung Kirana & Khaja Ghar,Sakhejung 57300,4,Low (~$10–20),1
+44,Maipokhari,Ashok Khaja Ghar,"Millgolai puwamajhuwa road Sakhejung 7, Ilam",3.8,Medium (~$35–60),1
+44,Maipokhari,Pauwasartap,"H07, 57400",4.1,High (~$90+),1
+45,Kanchenjunga Conservation Area,सिंवा बजार (Sinwa),"CPV3+P39, 57500",4,Low (~$10–20),1
+45,Kanchenjunga Conservation Area,Panchkanya Kalika Hotel,"CQ86+7GX, Phungling 57500",4.1,Medium (~$35–60),1
+45,Kanchenjunga Conservation Area,Chaitanyas fast food corner,"CVWW+992 कञ्चनजङ्घा संरक्षण क्षेत्र, Lelep 57500",4.2,High (~$90+),1
+46,Sandakpur,Karma Tenjee Restaurant,"Kal pokhari, Ilam 57300",4.2,Low (~$10–20),1
+46,Sandakpur,Solu Restaurant,"22XH+6WF, Unnamed Road, Jamuna 57300",4.1,Medium (~$35–60),1
+46,Sandakpur,Thakuri Restaurant,"W4X7+6GR, Pashupatinagar 57303",4,High (~$90+),1
+47,"TMJ Ridge (Tinjure, Milke, Jaljale)",Darjeeling Hotel (Basbhote Niwas),"F40, 57104",4.2,Low (~$10–20),1
+47,"TMJ Ridge (Tinjure, Milke, Jaljale)",Thakali bhansha ghar & Sekuwa Corner,"4CP5+22J, F40, Tamaphok 56800",4.1,Medium (~$35–60),1
+47,"TMJ Ridge (Tinjure, Milke, Jaljale)",Sungava Hotel,"4CM5+X32, 57500",4,High (~$90+),1
+48,Halesi Mahadev Temple,No,No,No,No,1
+48,Halesi Mahadev Temple,No,No,No,No,1
+48,Halesi Mahadev Temple,No,No,No,No,1
+49,Dharan (Budhasubba & Pindeshwor),No,No,No,No,1
+49,Dharan (Budhasubba & Pindeshwor),No,No,No,No,1
+49,Dharan (Budhasubba & Pindeshwor),No,No,No,No,1
+50,Pathibhara Devi Temple ,No,No,No,No,1
+50,Pathibhara Devi Temple ,No,No,No,No,1
+50,Pathibhara Devi Temple ,No,No,No,No,1
+51,Barahachhetra,Koshi View Hotel,"R5X2+RP5, Barahakshetra Road, Barahakshetra",3.9,Low (~$10–20),1
+51,Barahachhetra,"Chula Restro, Koshi","V44X+2F6, Barahakshetra 56300",4,Medium (~$35–60),1
+51,Barahachhetra,Bardali Restro and Inn,"V44X+7HM, Koshi Bridge, Chatara 56300",3.8,High (~$90+),1
+52,Ilaka Bazaar & Village Homestays ,No,No,No,No,1
+52,Ilaka Bazaar & Village Homestays ,No,No,No,No,1
+52,Ilaka Bazaar & Village Homestays ,No,No,No,No,1
+53,Gorja,No,No,No,No,1
+53,Gorja,No,No,No,No,1
+53,Gorja,No,No,No,No,1
+54,Chhankhola Waterfall,No,No,No,No,1
+54,Chhankhola Waterfall,No,No,No,No,1
+54,Chhankhola Waterfall,No,No,No,No,1
+55,Mehele,No,No,No,No,1
+55,Mehele,No,No,No,No,1
+55,Mehele,No,No,No,No,1
+56,Okhre,No,No,No,No,1
+56,Okhre,No,No,No,No,1
+56,Okhre,No,No,No,No,1
+57,Gairi Pangma,No,No,No,No,1
+57,Gairi Pangma,No,No,No,No,1
+57,Gairi Pangma,No,No,No,No,1
+58,Bhedetar,No,No,No,No,1
+58,Bhedetar,No,No,No,No,1
+58,Bhedetar,No,No,No,No,1
+59,Nesum,No,No,No,No,1
+59,Nesum,No,No,No,No,1
+59,Nesum,No,No,No,No,1
+60,Change Hiti,No,No,No,No,1
+60,Change Hiti,No,No,No,No,1
+60,Change Hiti,No,No,No,No,1
+61,Banjhogara,No,No,No,No,1
+61,Banjhogara,No,No,No,No,1
+61,Banjhogara,No,No,No,No,1
+62,Dhankuta,No,No,No,No,1
+62,Dhankuta,No,No,No,No,1
+62,Dhankuta,No,No,No,No,1
+63,Panchami Danda,Sister Hotel pawai,Pawai 56000,4,Low (~$10–20),1
+63,Panchami Danda,"Dandagaun, Ridum Hotel",Sautang 56000,4.1,Medium (~$35–60),1
+63,Panchami Danda,Bamboo Cottage and Restaurant,"FQRF+6QQ, Sautang 56000",4,High (~$90+),1
+64,Yakthung civilization ,No,No,No,No,1
+64,Yakthung civilization ,No,No,No,No,1
+64,Yakthung civilization ,No,No,No,No,1
+65,Santhakra,No,No,No,No,1
+65,Santhakra,No,No,No,No,1
+65,Santhakra,No,No,No,No,1
+66,Gurase Pokhari,No,No,No,No,1
+66,Gurase Pokhari,No,No,No,No,1
+66,Gurase Pokhari,No,No,No,No,1
+67,Lingtep,No,No,No,No,1
+67,Lingtep,No,No,No,No,1
+67,Lingtep,No,No,No,No,1
+68,Thukima,No,No,No,No,1
+68,Thukima,No,No,No,No,1
+68,Thukima,No,No,No,No,1
+69,Halesi Mahadev Temple ,No,No,No,No,1
+69,Halesi Mahadev Temple ,No,No,No,No,1
+69,Halesi Mahadev Temple ,No,No,No,No,1
+70,Kipa Chyoling Gumba,No,No,No,No,1
+70,Kipa Chyoling Gumba,No,No,No,No,1
+70,Kipa Chyoling Gumba,No,No,No,No,1
+71,Nalbu,No,No,No,No,1
+71,Nalbu,No,No,No,No,1
+71,Nalbu,No,No,No,No,1
+72,Hile Tiny Viewpoint,No,No,No,No,1
+72,Hile Tiny Viewpoint,No,No,No,No,1
+72,Hile Tiny Viewpoint,No,No,No,No,1
+73,Tapethok,No,No,No,No,1
+73,Tapethok,No,No,No,No,1
+73,Tapethok,No,No,No,No,1
+74,Yamfudin,Karki Hotel,"CQ34+C23, Phungling 57500",3.9,Low (~$10–20),1
+74,Yamfudin,No,No,No,No,1
+74,Yamfudin,No,No,No,No,1
+75,Lelep,4Sister tea shop,"Q2F5+55, Lelep 57500",4,Low (~$10–20),1
+75,Lelep,"PaYaDo Hotel, Lodge And Grocery","Q38F+6V8, Lelep 57500",4.1,Medium (~$35–60),1
+75,Lelep,No,No,No,No,1
+76,Kumbhakarna,No,No,No,No,1
+76,Kumbhakarna,No,No,No,No,1
+76,Kumbhakarna,No,No,No,No,1
+77,Ekamba,Good day restaurant & cafe,"M59W+JRP, Ramdhuni Bhasi 1",4,Low (~$10–20),1
+77,Ekamba,Terrace Restaurant and Bar,"M692+FF7, Ramdhuni Bhasi 56709",4,Medium (~$35–60),1
+77,Ekamba,No,No,No,No,1
+78,Bhurkee,Mood Fresh Cottage,"J6QV+QV6, Madhelee 56709",4.1,Low (~$10–20),1
+78,Bhurkee,Khanar,"J7M6+C8, Itahari 56709",4,Medium (~$35–60),1
+78,Bhurkee,No,No,No,No,1
+79,Bahuni,Sizzling Fire Restaurant and Bar,"M99V+43C, Khorsane Chowk",4.2,Low (~$10–20),1
+79,Bahuni,Laxmi machha ghar & sekuwa corner,"Mahendra Hwy, Sundar Dulari 56600",4,Medium (~$35–60),1
+79,Bahuni,Foodshala Restaurant,"M78G+3H5, Itahari 56705",4.1,High (~$90+),1
+80,Keroun,No,No,No,No,1
+80,Keroun,No,No,No,No,1
+80,Keroun,No,No,No,No,1
+81,Daulatpur,No,No,No,No,2
+81,Daulatpur,No,No,No,No,2
+81,Daulatpur,No,No,No,No,2
+82,Dalelee Bazaar,Ritesh Khaja Ghar,"HF3V+9RH, Keroun 56600",3.7,Low (~$10–20),1
+82,Dalelee Bazaar,Bipin khaja ghar,"HF3V+FQ9, Keroun 56600",4,Medium (~$35–60),1
+82,Dalelee Bazaar,Limbu hotel,"HF3V+3VX, Keroun 56600",3.7,High (~$90+),1
+83,Maharaaj Thaan,No,No,No,No,1
+83,Maharaaj Thaan,No,No,No,No,1
+83,Maharaaj Thaan,No,No,No,No,1
+84,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+84,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+84,Kanchenjunga Base Camp Viewpoint,No,No,No,No,1
+85,Dohamna Bazaar,No,No,No,No,1
+85,Dohamna Bazaar,No,No,No,No,1
+85,Dohamna Bazaar,No,No,No,No,1
+86,Hoklabari,No,No,No,No,1
+86,Hoklabari,No,No,No,No,1
+86,Hoklabari,No,No,No,No,1
+87,Koshi Tappu Wetland (extension into Province 2),No,No,No,No,2
+87,Koshi Tappu Wetland (extension into Province 2),No,No,No,No,2
+87,Koshi Tappu Wetland (extension into Province 2),No,No,No,No,2
+88,Jholunge Pul Chisang,No,No,No,No,1
+88,Jholunge Pul Chisang,No,No,No,No,1
+88,Jholunge Pul Chisang,No,No,No,No,1
+89,Limbu Villages,No,No,No,No,1
+89,Limbu Villages,No,No,No,No,1
+89,Limbu Villages,No,No,No,No,1
+90,Dipu Chowk (Shiva Mandir),No,No,No,No,1
+90,Dipu Chowk (Shiva Mandir),No,No,No,No,1
+90,Dipu Chowk (Shiva Mandir),No,No,No,No,1
+91,Borabandh,Siptungkha Hotel,"HC6C+56H, Belbari 56600",4.2,Low (~$10–20),1
+91,Borabandh,Hamro Hotel Matiyari,"HC64+FP, Belbari 56600",4,Medium (~$35–60),1
+91,Borabandh,No,No,No,No,1
+92,Chulachuli,No,No,No,No,1
+92,Chulachuli,No,No,No,No,1
+92,Chulachuli,No,No,No,No,1
+93,Mahamai,No,No,No,No,1
+93,Mahamai,No,No,No,No,1
+93,Mahamai,No,No,No,No,1
+94,Danabari,Tamang Cottage,"Unnamed Road, Khudunabari 57300",4,Low (~$10–20),1
+94,Danabari,No,No,No,No,1
+94,Danabari,No,No,No,No,1
+95,Laxmipura,No,No,No,No,1
+95,Laxmipura,No,No,No,No,1
+95,Laxmipura,No,No,No,No,1
+96,Maghe,No,No,No,No,1
+96,Maghe,No,No,No,No,1
+96,Maghe,No,No,No,No,1
+97,Bhawanitole,New Kanduk Restaurant,"V3W5+4VV, Suryodaya 57312",3.7,Low (~$10–20),1
+97,Bhawanitole,Bhintuna Restaurant,"Premejung-Namsaling-Ilam Bypass, Suryodaya 57312",4,Medium (~$35–60),1
+97,Bhawanitole,Nigam Hotel,"V3VF+842, Mechi Hwy, Suryodaya 57312",4.1,High (~$90+),1
+98,Panchkanya,Sayon restaurant,"VXJM+GCM, गोदुक 57300",4.2,Low (~$10–20),1
+98,Panchkanya,No,No,No,No,1
+98,Panchkanya,No,No,No,No,1
+99,Premejung,LAFA KHAJA GHAR,"W3J5+C8X, Fikkal-Nayabazaar-Namsaling Road, Naya Bazar 57300",4.1,Low (~$10–20),1
+99,Premejung,Khoyapani Restaurant,"W3M5+XW4, Makarjung, Gorkhe 57300",3.8,Medium (~$35–60),1
+99,Premejung,Deepak Hotel,"W3R4+MGF, Fikkal-Nayabazaar-Namsaling Road, Gorkhe 57300",4,High (~$90+),1
+100,Shree Antu,No,No,No,No,1
+100,Shree Antu,No,No,No,No,1
+100,Shree Antu,No,No,No,No,1
+101,Samalbung,No,No,No,No,1
+101,Samalbung,No,No,No,No,1
+101,Samalbung,No,No,No,No,1
+102,"Jhandi Danda, Rambhyang",No,No,No,No,1
+102,"Jhandi Danda, Rambhyang",No,No,No,No,1
+102,"Jhandi Danda, Rambhyang",No,No,No,No,1
+103,Dhunge Dhara Mandir,Sibu's Thakali Bansha Ghar,Harkate Bazaar 57300,4,Low (~$10–20),1
+103,Dhunge Dhara Mandir,Hotel Nigam and Lodge,"3 H07, Harkate Bazaar 57300",4,Medium (~$35–60),1
+103,Dhunge Dhara Mandir,Karshong Bhansa Ghar,"R3HH+XRP, Kolbung 57300",3.8,High (~$90+),1
+104,Thalthale Pokhari (Targaun),No,No,No,No,1
+104,Thalthale Pokhari (Targaun),No,No,No,No,1
+104,Thalthale Pokhari (Targaun),No,No,No,No,1
+105,Fajeegoun,No,No,No,No,1
+105,Fajeegoun,No,No,No,No,1
+105,Fajeegoun,No,No,No,No,1
+106,Sankhuwasabha,August Moon Restaurant,"96G5+Q87, Hospital Rd, Khandbari 56900",4.3,Low (~$10–20),1
+106,Sankhuwasabha,SONAM Lodge & Restaurant,"TIMS Checkpoint Chhumowa - Everest Base Camp Trekking Route, Chhumowa 56000",4,Medium (~$35–60),1
+106,Sankhuwasabha,Trekker's Lodge & Restaurant,"PPR6+4WV, Phakding 56000",4.1,High (~$90+),1
+107,Pashupatinagar,Hamro bakery and bishal kitchen,Pashupatinagar 57303,4,Low (~$10–20),1
+107,Pashupatinagar,Nuwang Resturant,"W4X7+7HQ, Unnamed Road, Pashupatinagar 57303",4,Medium (~$35–60),1
+107,Pashupatinagar,New Bantawa Hotel,"W4X8+QWV, Phikkal-Pashupatinagar Road, Pashupatinagar 57303",4.2,High (~$90+),1
+108,Mankhim Mandir,No,No,No,No,1
+108,Mankhim Mandir,No,No,No,No,1
+108,Mankhim Mandir,No,No,No,No,1
+109,Pothukatla,No,No,No,No,1
+109,Pothukatla,No,No,No,No,1
+109,Pothukatla,No,No,No,No,1
+110,Sherpa Villages (Solukhumbu),No,No,No,No,1
+110,Sherpa Villages (Solukhumbu),No,No,No,No,1
+110,Sherpa Villages (Solukhumbu),No,No,No,No,1
+111,Rungsung,No,No,No,No,1
+111,Rungsung,No,No,No,No,1
+111,Rungsung,No,No,No,No,1
+112,Taplejung,No,No,No,No,1
+112,Taplejung,No,No,No,No,1
+112,Taplejung,No,No,No,No,1
+113,Ekamba,No,No,No,No,1
+113,Ekamba,No,No,No,No,1
+113,Ekamba,No,No,No,No,1
+114,Bhurkee,No,No,No,No,1
+114,Bhurkee,No,No,No,No,1
+114,Bhurkee,No,No,No,No,1
+115,Gorkhe,No,No,No,No,1
+115,Gorkhe,No,No,No,No,1
+115,Gorkhe,No,No,No,No,1
+116,Thamserku Viewpoint,No,No,No,No,1
+116,Thamserku Viewpoint,No,No,No,No,1
+116,Thamserku Viewpoint,No,No,No,No,1
+117,Jamuna,No,No,No,No,1
+117,Jamuna,No,No,No,No,1
+117,Jamuna,No,No,No,No,1
+118,Jogmai,No,No,No,No,1
+118,Jogmai,No,No,No,No,1
+118,Jogmai,No,No,No,No,1
+119,Mabu,No,No,No,No,1
+119,Mabu,No,No,No,No,1
+119,Mabu,No,No,No,No,1
+120,Maimajhuwa,No,No,No,No,1
+120,Maimajhuwa,No,No,No,No,1
+120,Maimajhuwa,No,No,No,No,1
+121,Chhintapu,No,No,No,No,1
+121,Chhintapu,No,No,No,No,1
+121,Chhintapu,No,No,No,No,1
+122,Bantedara,Khalangatar simane,"5R8J+H4M, Phidim 57400",4,Low (~$10–20),1
+122,Bantedara,Madan chok mayahomestay phalelung 5 hattikhemba,"5WJH+2R, Memeng 57400",4,Medium (~$35–60),1
+122,Bantedara,Restaurant,Phidim 57400,3.9,High (~$90+),1
+123,Sidin,No,No,No,No,1
+123,Sidin,No,No,No,No,1
+123,Sidin,No,No,No,No,1
+124,Lakhanpur,No,No,No,No,1
+124,Lakhanpur,No,No,No,No,1
+124,Lakhanpur,No,No,No,No,1
+125,Charchabari,No,No,No,No,1
+125,Charchabari,No,No,No,No,1
+125,Charchabari,No,No,No,No,1
+126,Chaudhari Gaun,Shova Restaurant And Bar,"MP4C+6Q Padajungi, Mahendra Hwy, Lakhanpur 57217",4,Low (~$10–20),1
+126,Chaudhari Gaun,Fishland Hotel,"JPV5+Q9, Lakhanpur 57200",4.2,Medium (~$35–60),1
+126,Chaudhari Gaun,H.G. House,"MPGX+H5F, Chulachuli 57200",4,High (~$90+),1
+127,Tumden Chowk,No,No,No,No,1
+127,Tumden Chowk,No,No,No,No,1
+127,Tumden Chowk,No,No,No,No,1
+128,Sanba,No,No,No,No,1
+128,Sanba,No,No,No,No,1
+128,Sanba,No,No,No,No,1
+129,Tiljung,No,No,No,No,1
+129,Tiljung,No,No,No,No,1
+129,Tiljung,No,No,No,No,1
+130,Papung,No,No,No,No,1
+130,Papung,No,No,No,No,1
+130,Papung,No,No,No,No,1
+131,Phungphunge Waterfall,No,No,No,No,1
+131,Phungphunge Waterfall,No,No,No,No,1
+131,Phungphunge Waterfall,No,No,No,No,1
+132,Dalaicha,No,No,No,No,1
+132,Dalaicha,No,No,No,No,1
+132,Dalaicha,No,No,No,No,1
+133,Dunge,No,No,No,No,1
+133,Dunge,No,No,No,No,1
+133,Dunge,No,No,No,No,1
+134,Tartong,No,No,No,No,1
+134,Tartong,No,No,No,No,1
+134,Tartong,No,No,No,No,1
+135,Papung Gumba,No,No,No,No,1
+135,Papung Gumba,No,No,No,No,1
+135,Papung Gumba,No,No,No,No,1
+136,Tokpegola,No,No,No,No,1
+136,Tokpegola,No,No,No,No,1
+136,Tokpegola,No,No,No,No,1
+137,Keemathnka,No,No,No,No,1
+137,Keemathnka,No,No,No,No,1
+137,Keemathnka,No,No,No,No,1
+138,Chepuwa,No,No,No,No,1
+138,Chepuwa,No,No,No,No,1
+138,Chepuwa,No,No,No,No,1
+139,Guthigumba,No,No,No,No,1
+139,Guthigumba,No,No,No,No,1
+139,Guthigumba,No,No,No,No,1
+140,Yaphu,No,No,No,No,1
+140,Yaphu,No,No,No,No,1
+140,Yaphu,No,No,No,No,1
+141,Seduwa,No,No,No,No,1
+141,Seduwa,No,No,No,No,1
+141,Seduwa,No,No,No,No,1
+142,Siva Mandir Managaun,No,No,No,No,1
+142,Siva Mandir Managaun,No,No,No,No,1
+142,Siva Mandir Managaun,No,No,No,No,1
+143,Hans Pokhari,Tayahang hotel,Mattim 56200,4,Low (~$10–20),1
+143,Hans Pokhari,Sushila Hotel,"5373+464, बिद्यालय मार्ग, Bhojpur 57000",3.9,Medium (~$35–60),1
+143,Hans Pokhari,NISHMA KHOMYUNGKHA STOR,"5XP7+9R, DANDA TOLL, Khawa 57000",3.8,High (~$90+),1
+144,Kholakharka,No,No,No,No,1
+144,Kholakharka,No,No,No,No,1
+144,Kholakharka,No,No,No,No,1
+145,Hatiya,No,No,No,No,1
+145,Hatiya,No,No,No,No,1
+145,Hatiya,No,No,No,No,1
+146,Dangok,No,No,No,No,1
+146,Dangok,No,No,No,No,1
+146,Dangok,No,No,No,No,1
+147,Bhotkhola,No,No,No,No,1
+147,Bhotkhola,No,No,No,No,1
+147,Bhotkhola,No,No,No,No,1
+148,Guthigumba,No,No,No,No,1
+148,Guthigumba,No,No,No,No,1
+148,Guthigumba,No,No,No,No,1
+149,Chyamtang,No,No,No,No,1
+149,Chyamtang,No,No,No,No,1
+149,Chyamtang,No,No,No,No,1
+150,Chepuwa,No,No,No,No,1
+150,Chepuwa,No,No,No,No,1
+150,Chepuwa,No,No,No,No,1
+151,Thudam,No,No,No,No,1
+151,Thudam,No,No,No,No,1
+151,Thudam,No,No,No,No,1
+152,Brihaspati Tal,No,No,No,No,1
+152,Brihaspati Tal,No,No,No,No,1
+152,Brihaspati Tal,No,No,No,No,1
+153,Rajarshi Tal,No,No,No,No,1
+153,Rajarshi Tal,No,No,No,No,1
+153,Rajarshi Tal,No,No,No,No,1
+154,Rukma,No,No,No,No,1
+154,Rukma,No,No,No,No,1
+154,Rukma,No,No,No,No,1
+155,Sibrung,No,No,No,No,1
+155,Sibrung,No,No,No,No,1
+155,Sibrung,No,No,No,No,1
+156,Limkhim Fall,No,No,No,No,1
+156,Limkhim Fall,No,No,No,No,1
+156,Limkhim Fall,No,No,No,No,1
+157,Baide,No,No,No,No,1
+157,Baide,No,No,No,No,1
+157,Baide,No,No,No,No,1
+158,Num,No,No,No,No,1
+158,Num,No,No,No,No,1
+158,Num,No,No,No,No,1
+159,Sabha Pokhari,No,No,No,No,1
+159,Sabha Pokhari,No,No,No,No,1
+159,Sabha Pokhari,No,No,No,No,1
+160,Nebare,No,No,No,No,1
+160,Nebare,No,No,No,No,1
+160,Nebare,No,No,No,No,1
+161,Mangkhim,No,No,No,No,1
+161,Mangkhim,No,No,No,No,1
+161,Mangkhim,No,No,No,No,1
+162,Syaksila,No,No,No,No,1
+162,Syaksila,No,No,No,No,1
+162,Syaksila,No,No,No,No,1
+163,Sempung,No,No,No,No,1
+163,Sempung,No,No,No,No,1
+163,Sempung,No,No,No,No,1
+164,Chainpur,Lanka sakuwa corner,"78J5+C4R, Basantapur - Chainpur - Khandbari, Chainpur 56900",4,Low (~$10–20),1
+164,Chainpur,Roshan nasta pasal,"767R+JQF, Chainpur 56900",4,Medium (~$35–60),1
+164,Chainpur,Paradise restaurant and sekuwa corner,"9 Tumlingtar Rd, Khandbari 56900",4.1,High (~$90+),1
+165,Siddhakali,No,No,No,No,1
+165,Siddhakali,No,No,No,No,1
+165,Siddhakali,No,No,No,No,1
+166,Mawadin,No,No,No,No,1
+166,Mawadin,No,No,No,No,1
+166,Mawadin,No,No,No,No,1
+167,Ambung,No,No,No,No,1
+167,Ambung,No,No,No,No,1
+167,Ambung,No,No,No,No,1
+168,Dhungesaghu,No,No,No,No,1
+168,Dhungesaghu,No,No,No,No,1
+168,Dhungesaghu,No,No,No,No,1
+169,Olangchung Gola,No,No,No,No,1
+169,Olangchung Gola,No,No,No,No,1
+169,Olangchung Gola,No,No,No,No,1
+170,Yangma,No,No,No,No,1
+170,Yangma,No,No,No,No,1
+170,Yangma,No,No,No,No,1
+171,Merak,4Sister tea shop,"Q2F5+55, Lelep 57500",4,Low (~$10–20),1
+171,Merak,No,No,No,No,1
+171,Merak,No,No,No,No,1
+172,Bajrangi Lake,No,No,No,No,1
+172,Bajrangi Lake,No,No,No,No,1
+172,Bajrangi Lake,No,No,No,No,1
+173,Hanuman Sagar,No,No,No,No,1
+173,Hanuman Sagar,No,No,No,No,1
+173,Hanuman Sagar,No,No,No,No,1
+174,Chhija,No,No,No,No,1
+174,Chhija,No,No,No,No,1
+174,Chhija,No,No,No,No,1
+175,Nup,No,No,No,No,1
+175,Nup,No,No,No,No,1
+175,Nup,No,No,No,No,1
+176,Tapethok,No,No,No,No,1
+176,Tapethok,No,No,No,No,1
+176,Tapethok,No,No,No,No,1
+177,Ghunsa,No,No,No,No,1
+177,Ghunsa,No,No,No,No,1
+177,Ghunsa,No,No,No,No,1
+178,Phungling,Golden View Guest House,"9M36+8FX, Phungling 57500",4,Low (~$10–20),1
+178,Phungling,Thumedin Hotel,"9M36+388, Phungling 57500",4,Medium (~$35–60),1
+178,Phungling,No,No,No,No,1
+179,Dokhu,No,No,No,No,1
+179,Dokhu,No,No,No,No,1
+179,Dokhu,No,No,No,No,1
+180,Sansari Danda,No,No,No,No,1
+180,Sansari Danda,No,No,No,No,1
+180,Sansari Danda,No,No,No,No,1
+181,Ghumaaune Dada,No,No,No,No,1
+181,Ghumaaune Dada,No,No,No,No,1
+181,Ghumaaune Dada,No,No,No,No,1
+182,Duhabi,Hotel Reshma,"H08, Hathimudha 56707",4.1,Low (~$10–20),1
+182,Duhabi,Hotel red chilli,भलुवा 56707,4,Medium (~$35–60),1
+182,Duhabi,D and D restaurant,"G7GF+6MJ, Tankisinuwari 56613",4.1,High (~$90+),1
+183,Sisabanibadahara,Hotel Indreni,"J7FF+352, Itahari",3.9,Low (~$10–20),1
+183,Sisabanibadahara,Jhumar baba hotel,"J79F+2R3, Dharan Rd, Itahari",4,Medium (~$35–60),1
+183,Sisabanibadahara,Balaji sakahari hotel,"J77F+GJ, Itahari",4,High (~$90+),1
+184,Dangraha,No,No,No,No,1
+184,Dangraha,No,No,No,No,1
+184,Dangraha,No,No,No,No,1
+185,Banigama,Majhi Traders/Majhi Hotel and Sekuwa Corner Gramthan 7 Netachok,"H9Q7+QF8, F062, Banigama 56600",3.7,Low (~$10–20),1
+185,Banigama,Classic restaurant & Bar,"Netachowk Grantham, 56616",4,Medium (~$35–60),1
+185,Banigama,No,No,No,No,1
+186,Dulari,No,No,No,No,1
+186,Dulari,No,No,No,No,1
+186,Dulari,No,No,No,No,1
+187,Binaya Tole Phimraha,No,No,No,No,1
+187,Binaya Tole Phimraha,No,No,No,No,1
+187,Binaya Tole Phimraha,No,No,No,No,1
+188,Khoksi,No,No,No,No,1
+188,Khoksi,No,No,No,No,1
+188,Khoksi,No,No,No,No,1
+189,Lati Jhora,No,No,No,No,1
+189,Lati Jhora,No,No,No,No,1
+189,Lati Jhora,No,No,No,No,1
+190,Sonapur,No,No,No,No,1
+190,Sonapur,No,No,No,No,1
+190,Sonapur,No,No,No,No,1
+191,Sai Man Basti,No,No,No,No,1
+191,Sai Man Basti,No,No,No,No,1
+191,Sai Man Basti,No,No,No,No,1
+192,Khanar,No,No,No,No,1
+192,Khanar,No,No,No,No,1
+192,Khanar,No,No,No,No,1
+193,Gaisar,Katuwal Hotel and Grill,"M73G+38Q, Itahari 56705",3.9,Low (~$10–20),1
+193,Gaisar,Swadilo kitchen,"M739+F2C, Sangam Marga, Itahari 56705",4.2,Medium (~$35–60),1
+193,Gaisar,Deurali Khaja Ghara,"M749+F4Q, Itahari 56705",4,High (~$90+),1
+194,Bhatti Toal,No,No,No,No,1
+194,Bhatti Toal,No,No,No,No,1
+194,Bhatti Toal,No,No,No,No,1
+195,Bajraha,No,No,No,No,1
+195,Bajraha,No,No,No,No,1
+195,Bajraha,No,No,No,No,1
+196,Ubdhi,No,No,No,No,1
+196,Ubdhi,No,No,No,No,1
+196,Ubdhi,No,No,No,No,1
+197,Lauhani,No,No,No,No,1
+197,Lauhani,No,No,No,No,1
+197,Lauhani,No,No,No,No,1
+198,Jhumka,SP BROTHER’S MACHHA HOUSE,"Ramdhuni - 1, Jhumka bazaar, Ramdhuni Bhasi 56709",4.1,Low (~$10–20),1
+198,Jhumka,Saina Khaja Ghar,"Sunsari-Morang Irrigation Project, Chatara Line, Ramdhuni Bhasi 56709",4,Medium (~$35–60),1
+198,Jhumka,HoTel Bardan & Roast House,"M694+P46, Ramdhuni Bhasi 56709",4.2,High (~$90+),1
+199,Diktel,Yellow House Restaurant,"Bhaban Gaira, Diktel 56200",3.9,Low (~$10–20),1
+199,Diktel,HOTEL BLOSSOM AND LODGE,"6Q7R+QX7, जी बी स मार्ग, Diktel 56200",3.7,Medium (~$35–60),1
+199,Diktel,शुभम खाजाघर,"Ratan Park, Diktel 56200",4,High (~$90+),1
+200,Nerpa,No,No,No,No,1
+200,Nerpa,No,No,No,No,1
+200,Nerpa,No,No,No,No,1
+201,Dorpachiuridada,No,No,No,No,1
+201,Dorpachiuridada,No,No,No,No,1
+201,Dorpachiuridada,No,No,No,No,1
+202,Lamidanda,The Lin restaurant,"42371, 44900",4,Low (~$10–20),1
+202,Lamidanda,Hotel Dungdelo,"5JRF+MMH, Diktel Sadak, Mahadevsthan 56200",4,Medium (~$35–60),1
+202,Lamidanda,Famous Rawa Khola Fish Point,Kubinde 56200,4.1,High (~$90+),1
+203,Sapteshwor,No,No,No,No,1
+203,Sapteshwor,No,No,No,No,1
+203,Sapteshwor,No,No,No,No,1
+204,Pipal Dada,No,No,No,No,1
+204,Pipal Dada,No,No,No,No,1
+204,Pipal Dada,No,No,No,No,1
+205,Rakha Dipsung,binesh restaurant,"8V34+P24, Baspani 56200",4.2,Low (~$10–20),1
+205,Rakha Dipsung,Hotel Sambriddhi,"8Q5F+FPQ, Jalapa 56200",4,Medium (~$35–60),1
+205,Rakha Dipsung,Doman khulal,"9QG4+RM5, Aiselukharka 56200",4,High (~$90+),1
+206,Sungdel,No,No,No,No,1
+206,Sungdel,No,No,No,No,1
+206,Sungdel,No,No,No,No,1
+207,Sitalpati,Himali khaja ghar,"C5G8+P7, Sitalpati 56900",4,Low (~$10–20),1
+207,Sitalpati,Topche Khaja Ghar,"C59P+C6W, Pangma Rd, Khandbari 56900",4.2,Medium (~$35–60),1
+207,Sitalpati,Pramod Store & Restaurant,"C59P+899, Pangma Rd, Khandbari 56900",4,High (~$90+),1
+208,Chiyabari,New Ghumti Bhansha Ghar,"VHM2+82J, Chiyabari 56300",3.9,Low (~$10–20),1
+208,Chiyabari,No,No,No,No,1
+208,Chiyabari,No,No,No,No,1
+209,Bagapati,No,No,No,No,1
+209,Bagapati,No,No,No,No,1
+209,Bagapati,No,No,No,No,1
+210,Inaruwa,Wow Mo:Mo & Biryani,"J522+H66, Inaruwa 56710",4.2,Low (~$10–20),1
+210,Inaruwa,Kunal Hotel,"J42X+FJ5, Inaruwa 56710",4.1,Medium (~$35–60),1
+210,Inaruwa,Family restourant & Biryani,"J42X+G57, Duhabi Road, Inaruwa 56710",3.9,High (~$90+),1
+211,Halesi Tole,No,No,No,No,1
+211,Halesi Tole,No,No,No,No,1
+211,Halesi Tole,No,No,No,No,1
+212,Badahara,Indian Chinese restaurant,"RPRH+V99, Lalmatiya 22404",3.7,Low (~$10–20),1
+212,Badahara,The Food Hub Restaurant & Lodge,"RMXM+JPM, Lalmatiya 22400",4.2,Medium (~$35–60),1
+212,Badahara,Sinki Cottage And Restaurant,"RPV7+Q9, Lalmatiya 22404",4.1,High (~$90+),1
+213,Barchhawa,No,No,No,No,1
+213,Barchhawa,No,No,No,No,1
+213,Barchhawa,No,No,No,No,1
+214,Madhesa,Highway Sekuwa Corner,"J5RG+FRM E W, Mahendra Hwy, Madhesa 56710",4.1,Low (~$10–20),1
+214,Madhesa,Adhikari Khaja Ghar,"J5PJ+XX, Janata Rd, Madhesa 56710",4,Medium (~$35–60),1
+214,Madhesa,Ramdhuni,"M52X+RMV, Ramdhuni Bhasi 56709",4.2,High (~$90+),1
+215,Chandbela,No,No,No,No,1
+215,Chandbela,No,No,No,No,1
+215,Chandbela,No,No,No,No,1
+216,Gaighat,Countryside Resto-Bar,"QPQ3+PXX, Gaighat Bus Park Rd, Gaighat 56300",4.1,Low (~$10–20),1
+216,Gaighat,shrestha aaktiti hotel,"QPQ3+V2G, Gaighat 56300",4.2,Medium (~$35–60),1
+216,Gaighat,Gaighatey Sekuwa Corner,"QMRX+3FV, Gaighat 56300",4,High (~$90+),1
+217,Valaya Danda,No,No,No,No,1
+217,Valaya Danda,No,No,No,No,1
+217,Valaya Danda,No,No,No,No,1
+218,Jalpachilaune,No,No,No,No,1
+218,Jalpachilaune,No,No,No,No,1
+218,Jalpachilaune,No,No,No,No,1
+219,Beldovan Waterfalls,No,No,No,No,1
+219,Beldovan Waterfalls,No,No,No,No,1
+219,Beldovan Waterfalls,No,No,No,No,1
+220,Murkuchi Bazar,Dahal Hotel (Murkuchi Roast),"VJVF+MF5 07 Murkuchi, Murkuchi Bazar 56300",4,Low (~$10–20),1
+220,Murkuchi Bazar,Thapa Hotel,"VJVG+V77, Murkuchi Bazar 56300",3.9,Medium (~$35–60),1
+220,Murkuchi Bazar,No,No,No,No,1
+221,Triyuga Bridge,No,No,No,No,1
+221,Triyuga Bridge,No,No,No,No,1
+221,Triyuga Bridge,No,No,No,No,1
+222,Rauta,No,No,No,No,1
+222,Rauta,No,No,No,No,1
+222,Rauta,No,No,No,No,1
+223,Pipra,Mithila palace family restaurant and hotel,"MVJ4+95J, Pipra 45700",3.8,Low (~$10–20),1
+223,Pipra,Gautam Chaumin Pasal,Pipra 45700,4.1,Medium (~$35–60),1
+223,Pipra,MANOKAMANA RESTAURANT And Party place,"MVW3+3FX, Pipra 45700",4.1,High (~$90+),1
+224,Saptakoshi,No,No,No,No,1
+224,Saptakoshi,No,No,No,No,1
+224,Saptakoshi,No,No,No,No,1
+225,Odraha,No,No,No,No,1
+225,Odraha,No,No,No,No,1
+225,Odraha,No,No,No,No,1
+226,Sakhubani,No,No,No,No,1
+226,Sakhubani,No,No,No,No,1
+226,Sakhubani,No,No,No,No,1
+227,Laxminarayan Temple,No,No,No,No,1
+227,Laxminarayan Temple,No,No,No,No,1
+227,Laxminarayan Temple,No,No,No,No,1
+228,Fatepur,Bhaudali Khatiwada Khaja Ghar,"1 Naya Bajar, Saptakoshi 56400",3.7,Low (~$10–20),1
+228,Fatepur,Bhanja cottage ambasi,"PWWP+68G, Tapeswori 56300",4,Medium (~$35–60),1
+228,Fatepur,Sajilo Bhanchha Ghar,"PWRM+PXM Zero point, Tapeswori 56300",4.2,High (~$90+),1
+229,Sirwani,No,No,No,No,1
+229,Sirwani,No,No,No,No,1
+229,Sirwani,No,No,No,No,1
+230,Sundarpur,No,No,No,No,1
+230,Sundarpur,No,No,No,No,1
+230,Sundarpur,No,No,No,No,1
+231,Bakdhauwa,"New Tharu Foodland, Mahuli","Mahendra Hwy, Jandaul 56400",3.7,Low (~$10–20),1
+231,Bakdhauwa,Mahuli Hotel (propriter:Bhagwan lal shah),"JRWC+74P, Bakdhauwa 56400",4.1,Medium (~$35–60),1
+231,Bakdhauwa,Poudel Hotel,"Mahendra Hwy, Kanchanrup 56400",3.8,High (~$90+),1
+232,Jandaul,No,No,No,No,1
+232,Jandaul,No,No,No,No,1
+232,Jandaul,No,No,No,No,1
+233,Mohanpur,No,No,No,No,1
+233,Mohanpur,No,No,No,No,1
+233,Mohanpur,No,No,No,No,1
+234,Mahuli Waterfall,No,No,No,No,1
+234,Mahuli Waterfall,No,No,No,No,1
+234,Mahuli Waterfall,No,No,No,No,1
+235,Harna River,No,No,No,No,1
+235,Harna River,No,No,No,No,1
+235,Harna River,No,No,No,No,1
+236,Krishnasavaran (Marauti) Temple,No,No,No,No,1
+236,Krishnasavaran (Marauti) Temple,No,No,No,No,1
+236,Krishnasavaran (Marauti) Temple,No,No,No,No,1
+237,Terahauta,No,No,No,No,1
+237,Terahauta,No,No,No,No,1
+237,Terahauta,No,No,No,No,1
+238,Lohajara,No,No,No,No,1
+238,Lohajara,No,No,No,No,1
+238,Lohajara,No,No,No,No,1
+239,Bengari,No,No,No,No,1
+239,Bengari,No,No,No,No,1
+239,Bengari,No,No,No,No,1
+240,Theliya,Parijat Hotel,"56400, Kanchanrup",4.1,Low (~$10–20),1
+240,Theliya,Annapurna Cafe And Biryani House,"JWJ6+79F, Kanchanrup 56400",3.7,Medium (~$35–60),1
+240,Theliya,Mama Kitchen,"JRVW+WR5, Kanchanrup 56404",4.2,High (~$90+),1
+241,Dhodhanpur,No,No,No,No,1
+241,Dhodhanpur,No,No,No,No,1
+241,Dhodhanpur,No,No,No,No,1
+242,Kamalpur,No,No,No,No,1
+242,Kamalpur,No,No,No,No,1
+242,Kamalpur,No,No,No,No,1
+243,Nargho,Jay shankar misthan bhandar & Baisnab Hotel,Chhinnamasta 56400,4.3,Low (~$10–20),1
+243,Nargho,Narayan Mehta,"GP59+FJC, Boriya 56400",4.1,Medium (~$35–60),1
+243,Nargho,Nitesh hotel jhurachook,Nargho 09817,4.1,High (~$90+),1
+244,Fakira,No,No,No,No,2
+244,Fakira,No,No,No,No,2
+244,Fakira,No,No,No,No,2
+245,Birpur Barahi,No,No,No,No,2
+245,Birpur Barahi,No,No,No,No,2
+245,Birpur Barahi,No,No,No,No,2
+246,Inarwa,No,No,No,No,2
+246,Inarwa,No,No,No,No,2
+246,Inarwa,No,No,No,No,2
+247,Gobargada,No,No,No,No,2
+247,Gobargada,No,No,No,No,2
+247,Gobargada,No,No,No,No,2
+248,Barsain,No,No,No,No,2
+248,Barsain,No,No,No,No,2
+248,Barsain,No,No,No,No,2
+249,Koiladi,No,No,No,No,2
+249,Koiladi,No,No,No,No,2
+249,Koiladi,No,No,No,No,2
+250,Deehibar Temple at Kusha,No,No,No,No,2
+250,Deehibar Temple at Kusha,No,No,No,No,2
+250,Deehibar Temple at Kusha,No,No,No,No,2
+251,Dalwa Park,No,No,No,No,2
+251,Dalwa Park,No,No,No,No,2
+251,Dalwa Park,No,No,No,No,2
+252,Sakarpura,No,No,No,No,2
+252,Sakarpura,No,No,No,No,2
+252,Sakarpura,No,No,No,No,2
+253,Bishahariya,No,No,No,No,2
+253,Bishahariya,No,No,No,No,2
+253,Bishahariya,No,No,No,No,2
+254,Deurimaruwa,No,No,No,No,2
+254,Deurimaruwa,No,No,No,No,2
+254,Deurimaruwa,No,No,No,No,2
+255,Farseth,No,No,No,No,2
+255,Farseth,No,No,No,No,2
+255,Farseth,No,No,No,No,2
+256,Deurimaruwa,No,No,No,No,2
+256,Deurimaruwa,No,No,No,No,2
+256,Deurimaruwa,No,No,No,No,2
+257,Rajbiraj,Khan's Kitchen,Rajbiraj 54600,4.3,Low (~$10–20),2
+257,Rajbiraj,Laziz Pizza,"Behind Shiv Shankar, Cinema Hall Road, Rajbiraj",3.6,Medium (~$35–60),2
+257,Rajbiraj,Royal Biryani,"GQQ2+V25, Rajbiraj 56400",3.8,High (~$90+),2
+258,Didhawa,No,No,No,No,2
+258,Didhawa,No,No,No,No,2
+258,Didhawa,No,No,No,No,2
+259,Pakari,No,No,No,No,2
+259,Pakari,No,No,No,No,2
+259,Pakari,No,No,No,No,2
+260,Maleth,No,No,No,No,2
+260,Maleth,No,No,No,No,2
+260,Maleth,No,No,No,No,2
+261,Basbiti,No,No,No,No,2
+261,Basbiti,No,No,No,No,2
+261,Basbiti,No,No,No,No,2
+262,Rayapur,No,No,No,No,2
+262,Rayapur,No,No,No,No,2
+262,Rayapur,No,No,No,No,2
+263,Hariharpur,No,No,No,No,2
+263,Hariharpur,No,No,No,No,2
+263,Hariharpur,No,No,No,No,2
+264,Prasabani,No,No,No,No,2
+264,Prasabani,No,No,No,No,2
+264,Prasabani,No,No,No,No,2
+265,Bishahariya,No,No,No,No,2
+265,Bishahariya,No,No,No,No,2
+265,Bishahariya,No,No,No,No,2
+266,Deurimaruwa,No,No,No,No,2
+266,Deurimaruwa,No,No,No,No,2
+266,Deurimaruwa,No,No,No,No,2
+267,Farseth,No,No,No,No,2
+267,Farseth,No,No,No,No,2
+267,Farseth,No,No,No,No,2
+268,Lahan,Orchid Cafe,"PF7H+FX7, Lahan Road, Lahan 56500",3.9,Low (~$10–20),2
+268,Lahan,Lahan Chulo Thakali Hotel,"Kushwaha Chowk, Lahan",4.7,Medium (~$35–60),2
+268,Lahan,dreamndrinks,Lahan,5,High (~$90+),2
+269,Govindpur Taregana,No,No,No,No,2
+269,Govindpur Taregana,No,No,No,No,2
+269,Govindpur Taregana,No,No,No,No,2
+270,Chure Mai Mandir,No,No,No,No,2
+270,Chure Mai Mandir,No,No,No,No,2
+270,Chure Mai Mandir,No,No,No,No,2
+271,Hardiya,No,No,No,No,2
+271,Hardiya,No,No,No,No,2
+271,Hardiya,No,No,No,No,2
+272,Kushaha,No,No,No,No,2
+272,Kushaha,No,No,No,No,2
+272,Kushaha,No,No,No,No,2
+273,Pansera,No,No,No,No,2
+273,Pansera,No,No,No,No,2
+273,Pansera,No,No,No,No,2
+274,Khojpur,No,No,No,No,2
+274,Khojpur,No,No,No,No,2
+274,Khojpur,No,No,No,No,2
+275,Banarjhula,No,No,No,No,2
+275,Banarjhula,No,No,No,No,2
+275,Banarjhula,No,No,No,No,2
+276,Malhanama,No,No,No,No,2
+276,Malhanama,No,No,No,No,2
+276,Malhanama,No,No,No,No,2
+277,Haripur,The Burger & Thakali Lounge,Lalbandi,4.7,Low (~$10–20),2
+277,Haripur,Firewood Sekuwa and Fast Food,Hariyon,4.5,Medium (~$35–60),2
+277,Haripur,Tapari Momo,Lalbandi,5,High (~$90+),2
+278,Tikuliya,No,No,No,No,2
+278,Tikuliya,No,No,No,No,2
+278,Tikuliya,No,No,No,No,2
+279,Sakhuwanankarkatti,No,No,No,No,2
+279,Sakhuwanankarkatti,No,No,No,No,2
+279,Sakhuwanankarkatti,No,No,No,No,2
+280,Itarhawa,No,No,No,No,2
+280,Itarhawa,No,No,No,No,2
+280,Itarhawa,No,No,No,No,2
+281,Nahara Rigoul,No,No,No,No,2
+281,Nahara Rigoul,No,No,No,No,2
+281,Nahara Rigoul,No,No,No,No,2
+282,Bhagwanpur,No,No,No,No,2
+282,Bhagwanpur,No,No,No,No,2
+282,Bhagwanpur,No,No,No,No,2
+283,Geruwaha,No,No,No,No,2
+283,Geruwaha,No,No,No,No,2
+283,Geruwaha,No,No,No,No,2
+284,Sothiyan,No,No,No,No,2
+284,Sothiyan,No,No,No,No,2
+284,Sothiyan,No,No,No,No,2
+285,Mauwahi,No,No,No,No,2
+285,Mauwahi,No,No,No,No,2
+285,Mauwahi,No,No,No,No,2
+286,Kachanari,No,No,No,No,2
+286,Kachanari,No,No,No,No,2
+286,Kachanari,No,No,No,No,2
+287,Navarajpur,No,No,No,No,2
+287,Navarajpur,No,No,No,No,2
+287,Navarajpur,No,No,No,No,2
+288,Majhaura,No,No,No,No,2
+288,Majhaura,No,No,No,No,2
+288,Majhaura,No,No,No,No,2
+289,Khoksi,No,No,No,No,2
+289,Khoksi,No,No,No,No,2
+289,Khoksi,No,No,No,No,2
+290,Janakinagar,Mithila Thali by Chef Santosh Shah,Ramanand Chowk,3.7,Low (~$10–20),2
+290,Janakinagar,Folsom Cafe and Restaurant,Shiva Chowk,3.7,Medium (~$35–60),2
+290,Janakinagar,Hotel Mithila Rasoi and Grill House,Janakpur,4.4,High (~$90+),2
+291,Bariyarpatti,No,No,No,No,2
+291,Bariyarpatti,No,No,No,No,2
+291,Bariyarpatti,No,No,No,No,2
+292,Tenuwapatti,No,No,No,No,2
+292,Tenuwapatti,No,No,No,No,2
+292,Tenuwapatti,No,No,No,No,2
+293,Gadha,No,No,No,No,2
+293,Gadha,No,No,No,No,2
+293,Gadha,No,No,No,No,2
+294,Aurahi,No,No,No,No,2
+294,Aurahi,No,No,No,No,2
+294,Aurahi,No,No,No,No,2
+295,Aurahi Minor Shrine,No,No,No,No,2
+295,Aurahi Minor Shrine,No,No,No,No,2
+295,Aurahi Minor Shrine,No,No,No,No,2
+296,Baba Haridwar Dham,No,No,No,No,2
+296,Baba Haridwar Dham,No,No,No,No,2
+296,Baba Haridwar Dham,No,No,No,No,2
+297,Baba Taal,No,No,No,No,2
+297,Baba Taal,No,No,No,No,2
+297,Baba Taal,No,No,No,No,2
+298,Barhathwa Heritage Street,Royal Garden Restaurant & Bar,Barahathawa,4,Low (~$10–20),2
+298,Barhathwa Heritage Street,Hotel Annapurna,Barahathawa Bus Station,4,Medium (~$35–60),2
+298,Barhathwa Heritage Street,Green Valley Restaurants,Murtiya,4,High (~$90+),2
+299,Bharat Lake,No,No,No,No,2
+299,Bharat Lake,No,No,No,No,2
+299,Bharat Lake,No,No,No,No,2
+300,Birgunj Heritage Sites,Infinity Lounge,"Ghantaghr, !st floor Pashupati Market",3.7,Low (~$10–20),2
+300,Birgunj Heritage Sites,Malt,"3rd floor, Adarshnagar Chowk, Rungta Mall",4.1,Medium (~$35–60),2
+300,Birgunj Heritage Sites,Magic Bells,Geeta Mandir Road,4,High (~$90+),2
+301,Chhath Ghat (Sunsari),Foodshala Restaurant,Itahari,4.2,Low (~$10–20),1
+301,Chhath Ghat (Sunsari),Bardali Restro,Itahari,3.9,Medium (~$35–60),1
+301,Chhath Ghat (Sunsari),The boat restaurant,"Labipur, Itahari-7",3.7,High (~$90+),1
+302,Chhinnamasta Riverbank Areas,No,No,No,No,2
+302,Chhinnamasta Riverbank Areas,No,No,No,No,2
+302,Chhinnamasta Riverbank Areas,No,No,No,No,2
+303,Chhinnamasta Temple,No,No,No,No,2
+303,Chhinnamasta Temple,No,No,No,No,2
+303,Chhinnamasta Temple,No,No,No,No,2
+304,Chhireshwor Temple,No,No,No,No,2
+304,Chhireshwor Temple,No,No,No,No,2
+304,Chhireshwor Temple,No,No,No,No,2
+305,Chitwan–Parsa Elephant Corridor,No,No,No,No,3
+305,Chitwan–Parsa Elephant Corridor,No,No,No,No,3
+305,Chitwan–Parsa Elephant Corridor,No,No,No,No,3
+306,Chure Hills (Eastern Belt),No,No,No,No,2
+306,Chure Hills (Eastern Belt),No,No,No,No,2
+306,Chure Hills (Eastern Belt),No,No,No,No,2
+307,Dhanushadham (Dhanusha),No,No,No,No,2
+307,Dhanushadham (Dhanusha),No,No,No,No,2
+307,Dhanushadham (Dhanusha),No,No,No,No,2
+308,Dhobi Tole (Janakpur),No,No,No,No,2
+308,Dhobi Tole (Janakpur),No,No,No,No,2
+308,Dhobi Tole (Janakpur),No,No,No,No,2
+309,Gadhi Mai Forest Area,No,No,No,No,2
+309,Gadhi Mai Forest Area,No,No,No,No,2
+309,Gadhi Mai Forest Area,No,No,No,No,2
+310,Gadhi Mai Temple (Bara),No,No,No,No,2
+310,Gadhi Mai Temple (Bara),No,No,No,No,2
+310,Gadhi Mai Temple (Bara),No,No,No,No,2
+311,Gadhimai Mela Ground,No,No,No,No,2
+311,Gadhimai Mela Ground,No,No,No,No,2
+311,Gadhimai Mela Ground,No,No,No,No,2
+312,Gamhariya Village,No,No,No,No,2
+312,Gamhariya Village,No,No,No,No,2
+312,Gamhariya Village,No,No,No,No,2
+313,Gaur,No,No,No,No,2
+313,Gaur,No,No,No,No,2
+313,Gaur,No,No,No,No,2
+314,Gaur (Rautahat) Heritage Sites,No,No,No,No,2
+314,Gaur (Rautahat) Heritage Sites,No,No,No,No,2
+314,Gaur (Rautahat) Heritage Sites,No,No,No,No,2
+315,Gaurighat Temple,No,No,No,No,2
+315,Gaurighat Temple,No,No,No,No,2
+315,Gaurighat Temple,No,No,No,No,2
+316,Hariharpur Village,No,No,No,No,2
+316,Hariharpur Village,No,No,No,No,2
+316,Hariharpur Village,No,No,No,No,2
+317,Jagdamba Temple,No,No,No,No,2
+317,Jagdamba Temple,No,No,No,No,2
+317,Jagdamba Temple,No,No,No,No,2
+318,Jaleshwar Dham,No,No,No,No,2
+318,Jaleshwar Dham,No,No,No,No,2
+318,Jaleshwar Dham,No,No,No,No,2
+319,Jaleshwor Mahadev Temple,No,No,No,No,2
+319,Jaleshwor Mahadev Temple,No,No,No,No,2
+319,Jaleshwor Mahadev Temple,No,No,No,No,2
+320,Janaki Temple Minor Complex,No,No,No,No,2
+320,Janaki Temple Minor Complex,No,No,No,No,2
+320,Janaki Temple Minor Complex,No,No,No,No,2
+321,Janakpur Dham,No,No,No,No,2
+321,Janakpur Dham,No,No,No,No,2
+321,Janakpur Dham,No,No,No,No,2
+322,Janakpur Ghats,No,No,No,No,2
+322,Janakpur Ghats,No,No,No,No,2
+322,Janakpur Ghats,No,No,No,No,2
+323,Kachorwa,No,No,No,No,2
+323,Kachorwa,No,No,No,No,2
+323,Kachorwa,No,No,No,No,2
+324,Kachorwa Tiny Ghat,No,No,No,No,2
+324,Kachorwa Tiny Ghat,No,No,No,No,2
+324,Kachorwa Tiny Ghat,No,No,No,No,2
+325,Kachorwa Village,No,No,No,No,2
+325,Kachorwa Village,No,No,No,No,2
+325,Kachorwa Village,No,No,No,No,2
+326,Kailashnath Mahadev Statue,No,No,No,No,2
+326,Kailashnath Mahadev Statue,No,No,No,No,2
+326,Kailashnath Mahadev Statue,No,No,No,No,2
+327,Kalyanpur Ghat,No,No,No,No,1
+327,Kalyanpur Ghat,No,No,No,No,1
+327,Kalyanpur Ghat,No,No,No,No,1
+328,Koshi Barrage,No,No,No,No,1
+328,Koshi Barrage,No,No,No,No,1
+328,Koshi Barrage,No,No,No,No,1
+329,Koshi Barrage Viewpoint,No,No,No,No,1
+329,Koshi Barrage Viewpoint,No,No,No,No,1
+329,Koshi Barrage Viewpoint,No,No,No,No,1
+330,Lahan / Shambhunath Temple,No,No,No,No,2
+330,Lahan / Shambhunath Temple,No,No,No,No,2
+330,Lahan / Shambhunath Temple,No,No,No,No,2
+331,Laukaha Border Market,No,No,No,No,2
+331,Laukaha Border Market,No,No,No,No,2
+331,Laukaha Border Market,No,No,No,No,2
+332,Local Homestays & Village Experiences,No,No,No,No,2
+332,Local Homestays & Village Experiences,No,No,No,No,2
+332,Local Homestays & Village Experiences,No,No,No,No,2
+333,Local Seasonal Festivals (Remote Villages),No,No,No,No,2
+333,Local Seasonal Festivals (Remote Villages),No,No,No,No,2
+333,Local Seasonal Festivals (Remote Villages),No,No,No,No,2
+334,Madhesh Museum & Cultural Center,No,No,No,No,2
+334,Madhesh Museum & Cultural Center,No,No,No,No,2
+334,Madhesh Museum & Cultural Center,No,No,No,No,2
+335,Minor Ghats & River Confluences,No,No,No,No,2
+335,Minor Ghats & River Confluences,No,No,No,No,2
+335,Minor Ghats & River Confluences,No,No,No,No,2
+336,Minor Heritage Sites,No,No,No,No,2
+336,Minor Heritage Sites,No,No,No,No,2
+336,Minor Heritage Sites,No,No,No,No,2
+337,Minor Village Temples (Sarlahi/Bara/Rautahat),No,No,No,No,2
+337,Minor Village Temples (Sarlahi/Bara/Rautahat),No,No,No,No,2
+337,Minor Village Temples (Sarlahi/Bara/Rautahat),No,No,No,No,2
+338,Mithila Art Sites,No,No,No,No,2
+338,Mithila Art Sites,No,No,No,No,2
+338,Mithila Art Sites,No,No,No,No,2
+339,Mithila Cultural Park,No,No,No,No,2
+339,Mithila Cultural Park,No,No,No,No,2
+339,Mithila Cultural Park,No,No,No,No,2
+340,Mithila Painting Workshop,No,No,No,No,2
+340,Mithila Painting Workshop,No,No,No,No,2
+340,Mithila Painting Workshop,No,No,No,No,2
+341,Parsa National Park,No,No,No,No,2
+341,Parsa National Park,No,No,No,No,2
+341,Parsa National Park,No,No,No,No,2
+342,Pipara (Historical Site),No,No,No,No,2
+342,Pipara (Historical Site),No,No,No,No,2
+342,Pipara (Historical Site),No,No,No,No,2
+343,Rajdevi Temple,No,No,No,No,2
+343,Rajdevi Temple,No,No,No,No,2
+343,Rajdevi Temple,No,No,No,No,2
+344,Ram Janaki Temple,No,No,No,No,2
+344,Ram Janaki Temple,No,No,No,No,2
+344,Ram Janaki Temple,No,No,No,No,2
+345,Raxaul / Bhitthamore Border,No,No,No,No,2
+345,Raxaul / Bhitthamore Border,No,No,No,No,2
+345,Raxaul / Bhitthamore Border,No,No,No,No,2
+346,Raxaul Border / Bhitthamore Market,No,No,No,No,2
+346,Raxaul Border / Bhitthamore Market,No,No,No,No,2
+346,Raxaul Border / Bhitthamore Market,No,No,No,No,2
+347,Sakhuwa Mahadev Temple,No,No,No,No,2
+347,Sakhuwa Mahadev Temple,No,No,No,No,2
+347,Sakhuwa Mahadev Temple,No,No,No,No,2
+348,Salhesh Botanical Garden,No,No,No,No,2
+348,Salhesh Botanical Garden,No,No,No,No,2
+348,Salhesh Botanical Garden,No,No,No,No,2
+349,Sarlahi,No,No,No,No,2
+349,Sarlahi,No,No,No,No,2
+349,Sarlahi,No,No,No,No,2
+350,Sarlahi Minor Cultural Site,No,No,No,No,2
+350,Sarlahi Minor Cultural Site,No,No,No,No,2
+350,Sarlahi Minor Cultural Site,No,No,No,No,2
+351,Shivala Temple,No,No,No,No,2
+351,Shivala Temple,No,No,No,No,2
+351,Shivala Temple,No,No,No,No,2
+352,Shivala Temple (Dhanusha),No,No,No,No,2
+352,Shivala Temple (Dhanusha),No,No,No,No,2
+352,Shivala Temple (Dhanusha),No,No,No,No,2
+353,Simraungadh,No,No,No,No,2
+353,Simraungadh,No,No,No,No,2
+353,Simraungadh,No,No,No,No,2
+354,Sirsia Bird Sanctuary,No,No,No,No,2
+354,Sirsia Bird Sanctuary,No,No,No,No,2
+354,Sirsia Bird Sanctuary,No,No,No,No,2
+355,Small Wetlands & Ponds (Saptari/Dhanusha),No,No,No,No,2
+355,Small Wetlands & Ponds (Saptari/Dhanusha),No,No,No,No,2
+355,Small Wetlands & Ponds (Saptari/Dhanusha),No,No,No,No,2
+356,Tharu Villages,No,No,No,No,2
+356,Tharu Villages,No,No,No,No,2
+356,Tharu Villages,No,No,No,No,2
+357,Tilathi Ghat,No,No,No,No,2
+357,Tilathi Ghat,No,No,No,No,2
+357,Tilathi Ghat,No,No,No,No,2
+358,Tilathi–Koilabas Border Village,No,No,No,No,2
+358,Tilathi–Koilabas Border Village,No,No,No,No,2
+358,Tilathi–Koilabas Border Village,No,No,No,No,2
+359,Tulsipur Cultural Center,No,No,No,No,2
+359,Tulsipur Cultural Center,No,No,No,No,2
+359,Tulsipur Cultural Center,No,No,No,No,2
+360,Chhinnamasta Riverbank Areas,No,No,No,No,2
+360,Chhinnamasta Riverbank Areas,No,No,No,No,2
+360,Chhinnamasta Riverbank Areas,No,No,No,No,2
+373,Tulsipur Cultural Center,No,No,No,No,2
+373,Tulsipur Cultural Center,No,No,No,No,2
+373,Tulsipur Cultural Center,No,No,No,No,2
+362,Small Wetlands & Ponds (Saptari/Dhanusha),No,No,No,No,2
+362,Small Wetlands & Ponds (Saptari/Dhanusha),No,No,No,No,2
+362,Small Wetlands & Ponds (Saptari/Dhanusha),No,No,No,No,2
+363,Birgunj Heritage Sites,No,No,No,No,2
+363,Birgunj Heritage Sites,No,No,No,No,2
+363,Birgunj Heritage Sites,No,No,No,No,2
+364,Dhobi Tole / Cultural Street,No,No,No,No,2
+364,Dhobi Tole / Cultural Street,No,No,No,No,2
+364,Dhobi Tole / Cultural Street,No,No,No,No,2
+365,Madhesh Museum & Cultural Center,No,No,No,No,2
+365,Madhesh Museum & Cultural Center,No,No,No,No,2
+365,Madhesh Museum & Cultural Center,No,No,No,No,2
+366,Tharu Villages,No,No,No,No,2
+366,Tharu Villages,No,No,No,No,2
+366,Tharu Villages,No,No,No,No,2
+367,Sakhuwa Mahadev Temple (Sarlahi),No,No,No,No,2
+367,Sakhuwa Mahadev Temple (Sarlahi),No,No,No,No,2
+367,Sakhuwa Mahadev Temple (Sarlahi),No,No,No,No,2
+368,Gamhariya Village,No,No,No,No,2
+368,Gamhariya Village,No,No,No,No,2
+368,Gamhariya Village,No,No,No,No,2
+369,Kalyanpur Ghat,No,No,No,No,2
+369,Kalyanpur Ghat,No,No,No,No,2
+369,Kalyanpur Ghat,No,No,No,No,2
+370,Rajdevi Temple,No,No,No,No,2
+370,Rajdevi Temple,No,No,No,No,2
+370,Rajdevi Temple,No,No,No,No,2
+371,Tilathi Ghat,No,No,No,No,2
+371,Tilathi Ghat,No,No,No,No,2
+371,Tilathi Ghat,No,No,No,No,2
+372,Shivala Temple,No,No,No,No,2
+372,Shivala Temple,No,No,No,No,2
+372,Shivala Temple,No,No,No,No,2
+373,Chure Hills (Eastern Belt),No,No,No,No,2
+373,Chure Hills (Eastern Belt),No,No,No,No,2
+373,Chure Hills (Eastern Belt),No,No,No,No,2
+374,Tilathi–Koilabas Border Village,No,No,No,No,2
+374,Tilathi–Koilabas Border Village,No,No,No,No,2
+374,Tilathi–Koilabas Border Village,No,No,No,No,2
+375,Simraungadh,No,No,No,No,2
+375,Simraungadh,No,No,No,No,2
+375,Simraungadh,No,No,No,No,2
+376,Sarlahi Minor Cultural Site,No,No,No,No,2
+376,Sarlahi Minor Cultural Site,No,No,No,No,2
+376,Sarlahi Minor Cultural Site,No,No,No,No,2
+377,Dhanushadham (Dhanusha),No,No,No,No,2
+377,Dhanushadham (Dhanusha),No,No,No,No,2
+377,Dhanushadham (Dhanusha),No,No,No,No,2
+378,Chinnamasta Bhagawati Temple,No,No,No,No,2
+378,Chinnamasta Bhagawati Temple,No,No,No,No,2
+378,Chinnamasta Bhagawati Temple,No,No,No,No,2
+379,Sarlahi,No,No,No,No,2
+379,Sarlahi,No,No,No,No,2
+379,Sarlahi,No,No,No,No,2
+380,Laukaha Border Market (Siraha),No,No,No,No,2
+380,Laukaha Border Market (Siraha),No,No,No,No,2
+380,Laukaha Border Market (Siraha),No,No,No,No,2
+381,Tulsipur Cultural Center (Mahottari),No,No,No,No,2
+381,Tulsipur Cultural Center (Mahottari),No,No,No,No,2
+381,Tulsipur Cultural Center (Mahottari),No,No,No,No,2
+382,Sakhuwa Mahadev Temple (Sarlahi),No,No,No,No,2
+382,Sakhuwa Mahadev Temple (Sarlahi),No,No,No,No,2
+382,Sakhuwa Mahadev Temple (Sarlahi),No,No,No,No,2
+383,Birgunj Heritage Sites (Parsa),No,No,No,No,2
+383,Birgunj Heritage Sites (Parsa),No,No,No,No,2
+383,Birgunj Heritage Sites (Parsa),No,No,No,No,2
+384,Bardibas,No,No,No,No,2
+384,Bardibas,No,No,No,No,2
+384,Bardibas,No,No,No,No,2
+385,Laxminiya,No,No,No,No,2
+385,Laxminiya,No,No,No,No,2
+385,Laxminiya,No,No,No,No,2
+386,Belgachhi,No,No,No,No,2
+386,Belgachhi,No,No,No,No,2
+386,Belgachhi,No,No,No,No,2
+387,Hathilet,No,No,No,No,2
+387,Hathilet,No,No,No,No,2
+387,Hathilet,No,No,No,No,2
+388,Dhalkebar,No,No,No,No,2
+388,Dhalkebar,No,No,No,No,2
+388,Dhalkebar,No,No,No,No,2
+389,Batauwa,No,No,No,No,2
+389,Batauwa,No,No,No,No,2
+389,Batauwa,No,No,No,No,2
+390,Bharatpur,No,No,No,No,2
+390,Bharatpur,No,No,No,No,2
+390,Bharatpur,No,No,No,No,2
+391,Fulakaha,No,No,No,No,2
+391,Fulakaha,No,No,No,No,2
+391,Fulakaha,No,No,No,No,2
+392,Birgunj,No,No,No,No,2
+392,Birgunj,No,No,No,No,2
+392,Birgunj,No,No,No,No,2
+393,Motisar,No,No,No,No,2
+393,Motisar,No,No,No,No,2
+393,Motisar,No,No,No,No,2
+394,Bhatauda,No,No,No,No,2
+394,Bhatauda,No,No,No,No,2
+394,Bhatauda,No,No,No,No,2
+395,Kalaiya,No,No,No,No,2
+395,Kalaiya,No,No,No,No,2
+395,Kalaiya,No,No,No,No,2
+396,Karaiya,No,No,No,No,2
+396,Karaiya,No,No,No,No,2
+396,Karaiya,No,No,No,No,2
+397,Maheshpur,No,No,No,No,2
+397,Maheshpur,No,No,No,No,2
+397,Maheshpur,No,No,No,No,2
+398,Dohari,No,No,No,No,2
+398,Dohari,No,No,No,No,2
+398,Dohari,No,No,No,No,2
+399,Bhodaha,No,No,No,No,2
+399,Bhodaha,No,No,No,No,2
+399,Bhodaha,No,No,No,No,2
+400,Haraiya,No,No,No,No,2
+400,Haraiya,No,No,No,No,2
+400,Haraiya,No,No,No,No,2
+401,Kolhabi,No,No,No,No,2
+401,Kolhabi,No,No,No,No,2
+401,Kolhabi,No,No,No,No,2
+402,Rangapur,No,No,No,No,2
+402,Rangapur,No,No,No,No,2
+402,Rangapur,No,No,No,No,2
+403,Chandrapur,No,No,No,No,2
+403,Chandrapur,No,No,No,No,2
+403,Chandrapur,No,No,No,No,2
+404,Paurai,No,No,No,No,2
+404,Paurai,No,No,No,No,2
+404,Paurai,No,No,No,No,2
+405,Pahritol,No,No,No,No,2
+405,Pahritol,No,No,No,No,2
+405,Pahritol,No,No,No,No,2
+406,Sakhuwa Dhamaura,No,No,No,No,2
+406,Sakhuwa Dhamaura,No,No,No,No,2
+406,Sakhuwa Dhamaura,No,No,No,No,2
+407,Pratappur Paltuwa,No,No,No,No,2
+407,Pratappur Paltuwa,No,No,No,No,2
+407,Pratappur Paltuwa,No,No,No,No,2
+408,Laxmipur Belbichawa,No,No,No,No,2
+408,Laxmipur Belbichawa,No,No,No,No,2
+408,Laxmipur Belbichawa,No,No,No,No,2
+409,Faparbari,No,No,No,No,2
+409,Faparbari,No,No,No,No,2
+409,Faparbari,No,No,No,No,2
+410,Balchanpur,No,No,No,No,2
+410,Balchanpur,No,No,No,No,2
+410,Balchanpur,No,No,No,No,2
+411,Nijgadh,No,No,No,No,2
+411,Nijgadh,No,No,No,No,2
+411,Nijgadh,No,No,No,No,2
+412,Dhiyal,No,No,No,No,2
+412,Dhiyal,No,No,No,No,2
+412,Dhiyal,No,No,No,No,2
+413,Kudawa,No,No,No,No,2
+413,Kudawa,No,No,No,No,2
+413,Kudawa,No,No,No,No,2
+414,Amarpatti,No,No,No,No,2
+414,Amarpatti,No,No,No,No,22
+414,Amarpatti,No,No,No,No,2
+415,Pathera,No,No,No,No,2
+415,Pathera,No,No,No,No,2
+415,Pathera,No,No,No,No,2
+416,Mahendra Adarsha,No,No,No,No,2
+416,Mahendra Adarsha,No,No,No,No,2
+416,Mahendra Adarsha,No,No,No,No,2
+417,Saunaraniya,No,No,No,No,2
+417,Saunaraniya,No,No,No,No,2
+417,Saunaraniya,No,No,No,No,2
+418,Paterwa,No,No,No,No,2
+418,Paterwa,No,No,No,No,2
+418,Paterwa,No,No,No,No,2
+419,Tedhakatti,No,No,No,No,2
+419,Tedhakatti,No,No,No,No,2
+419,Tedhakatti,No,No,No,No,2
+420,Tengraha,No,No,No,No,2
+420,Tengraha,No,No,No,No,2
+420,Tengraha,No,No,No,No,2
+421,Maryadpur,No,No,No,No,2
+421,Maryadpur,No,No,No,No,2
+421,Maryadpur,No,No,No,No,2
+422,Katahariya,No,No,No,No,2
+422,Katahariya,No,No,No,No,2
+422,Katahariya,No,No,No,No,2
+423,Dudhouli,No,No,No,No,2
+423,Dudhouli,No,No,No,No,2
+423,Dudhouli,No,No,No,No,2
+424,Bagahi,No,No,No,No,2
+424,Bagahi,No,No,No,No,2
+424,Bagahi,No,No,No,No,2
+425,Garuda,No,No,No,No,2
+425,Garuda,No,No,No,No,2
+425,Garuda,No,No,No,No,2
+426,Dharampur,No,No,No,No,2
+426,Dharampur,No,No,No,No,2
+426,Dharampur,No,No,No,No,2
+427,Sangrampur,No,No,No,No,2
+427,Sangrampur,No,No,No,No,2
+427,Sangrampur,No,No,No,No,2
+428,Bahuwa Madanpur,No,No,No,No,2
+428,Bahuwa Madanpur,No,No,No,No,2
+428,Bahuwa Madanpur,No,No,No,No,2
+429,Umarjan,No,No,No,No,2
+429,Umarjan,No,No,No,No,2
+429,Umarjan,No,No,No,No,2
+430,Rampurwa,No,No,No,No,2
+430,Rampurwa,No,No,No,No,2
+430,Rampurwa,No,No,No,No,2
+431,Laxminiya,No,No,No,No,2
+431,Laxminiya,No,No,No,No,2
+431,Laxminiya,No,No,No,No,2
+432,Kanakpur,No,No,No,No,2
+432,Kanakpur,No,No,No,No,2
+432,Kanakpur,No,No,No,No,2
+433,Chandrapur,No,No,No,No,2
+433,Chandrapur,No,No,No,No,2
+433,Chandrapur,No,No,No,No,2
+434,Lokaha,No,No,No,No,2
+434,Lokaha,No,No,No,No,2
+434,Lokaha,No,No,No,No,2
+435,Nuwakot Micro Lake,No,No,No,No,3
+435,Nuwakot Micro Lake,No,No,No,No,3
+435,Nuwakot Micro Lake,No,No,No,No,3
+436,Kaleshwor Mahadev Temple,No,No,No,No,3
+436,Kaleshwor Mahadev Temple,No,No,No,No,3
+436,Kaleshwor Mahadev Temple,No,No,No,No,3
+437,Bhimeshwor Temple,No,No,No,No,3
+437,Bhimeshwor Temple,No,No,No,No,3
+437,Bhimeshwor Temple,No,No,No,No,3
+438,Rasuwagadhi Fort,No,,4.1,Mid: $25–$45,3
+438,Rasuwagadhi Fort,No,,4,Low: $12–$25,3
+438,Rasuwagadhi Fort,No,,3.9,High: $40–$70,3
+439,Balthali Village,Foods and Flora,Panauti,4.1,Mid: $25–$45,3
+439,Balthali Village,Balthali Village Resort,Panauti-11,4.3,Low: $12–$25,3
+439,Balthali Village,Gwakhaa chhey Homestay and Khajaghar,Panauti,4.1,High: $40–$70,3
+440,Bajrabarahi Temple,Bajrabarahi Restaurant,Chapagaun,4,Mid: $25–$45,3
+440,Bajrabarahi Temple,Barahi Heritage,Chapagaun,4.2,Low: $12–$25,3
+440,Bajrabarahi Temple,Debhu Kitchen,Chapagaun,4.1,High: $40–$70,3
+441,Langtang Valley,Sunrise Guest House,Langtang,4,Mid: $25–$45,3
+441,Langtang Valley,Dorje Bakery Cafe and Coffee Center,Langtang,4.2,Low: $12–$25,3
+441,Langtang Valley,Pema Guest House,Langtang,4.1,High: $40–$70,3
+442,Phulchoki Viewpoints,No,No,No,No,3
+442,Phulchoki Viewpoints,No,No,No,No,3
+442,Phulchoki Viewpoints,No,No,No,No,3
+443,Lele Village,Hungry Treat Restaurant,"lele, Faidol",3.9,Mid: $25–$45,3
+443,Lele Village,Village Trout Mini Resort,Godawari,4.2,Low: $12–$25,3
+443,Lele Village,Lele kunda agro resort,"Lele Road, Lele",3.9,High: $40–$70,3
+444,Chisapani,No,No,No,No,3
+444,Chisapani,No,No,No,No,3
+444,Chisapani,No,No,No,No,3
+445,Gosaikunda Lesser Spots,No,No,No,No,3
+445,Gosaikunda Lesser Spots,No,No,No,No,3
+445,Gosaikunda Lesser Spots,No,No,No,No,3
+446,Paldor Peak Base Camp,No,No,No,No,3
+446,Paldor Peak Base Camp,No,No,No,No,3
+446,Paldor Peak Base Camp,No,No,No,No,3
+447,Ganga Jamuna Waterfall,No,No,No,No,3
+447,Ganga Jamuna Waterfall,No,No,No,No,3
+447,Ganga Jamuna Waterfall,No,No,No,No,3
+448,Sailung,Mitjiu Organic Farm Stay,Bhimeshwor Municipality,4.1,Mid: $25–$45,3
+448,Sailung,Hotel Shailung Highland,Magapauwa,4.1,Low: $12–$25,3
+448,Sailung,Laxmi Lodge,Bhimeshwor Municipality,4,High: $40–$70,3
+449,Kamalamai Temple,No,No,No,No,3
+449,Kamalamai Temple,No,No,No,No,3
+449,Kamalamai Temple,No,No,No,No,3
+450,Ayurvedic Spas (Kathmandu),No,No,No,No,3
+450,Ayurvedic Spas (Kathmandu),No,No,No,No,3
+450,Ayurvedic Spas (Kathmandu),No,No,No,No,3
+451,Yoga & Meditation Retreats (Nagarkot/Dhulikhel),No,No,No,No,3
+451,Yoga & Meditation Retreats (Nagarkot/Dhulikhel),No,No,No,No,3
+451,Yoga & Meditation Retreats (Nagarkot/Dhulikhel),No,No,No,No,3
+452,Garden of Dreams,Kaiser Cafe,Kathmandu,4,Mid: $25–$45,3
+452,Garden of Dreams,Samaya RoofTop Garden,Narsing Chowk Marga,4,Low: $12–$25,3
+452,Garden of Dreams,Dechenling Garden Restaurant,Keshar Mahal Marga,3.9,High: $40–$70,3
+453,Ruby Valley,No,No,No,No,3
+453,Ruby Valley,No,No,No,No,3
+453,Ruby Valley,No,No,No,No,3
+454,Nagarkot,Mandapgiri Restaurants,Nagarkot,4.1,Mid: $25–$45,3
+454,Nagarkot,,Nagarkot,4,Low: $12–$25,3
+454,Nagarkot,Hotel Country Villa,Nagarkot,4.1,High: $40–$70,3
+455,Changu Narayan Temple,Old Town Food,ChanguNarayan,4.2,Mid: $25–$45,3
+455,Changu Narayan Temple,The FUNKY HOUSE,Lohakilthali-1,4.2,Low: $12–$25,3
+455,Changu Narayan Temple,De Temple Cafe,Bhaktapur,4.1,High: $40–$70,3
+456,Bagh Bhairab Temple,SASA Twa,Kirtipur,4,Mid: $25–$45,3
+456,Bagh Bhairab Temple,Nandu Farma House and Restro,Kirtipur,4.2,Low: $12–$25,3
+456,Bagh Bhairab Temple,Newa:Lahana,Kirtipur,4.1,High: $40–$70,3
+457,Patan Durbar Square,Cafe De Patan,M8FF+5JX,4,Mid: $25–$45,3
+457,Patan Durbar Square,Patan Heritage Home & Restaurant,Mamaru Galli,4.1,Low: $12–$25,3
+457,Patan Durbar Square,Yala Garden Cafe & Restro,Kwalkhu near Golden Temple,4,High: $40–$70,3
+458,Kathmandu Durbar Square,Durbar View Restaurant,Basantapur,4,Mid: $25–$45,3
+458,Kathmandu Durbar Square,Royal Heritage ,Basantapur,4.2,Low: $12–$25,3
+458,Kathmandu Durbar Square,Revolution Cafe,Basantapur,4,High: $40–$70,3
+459,Namo Buddha Monastery,No,No,No,No,3
+459,Namo Buddha Monastery,No,No,No,No,3
+459,Namo Buddha Monastery,No,No,No,No,3
+460,Dakshinkali Temple,No,No,No,No,3
+460,Dakshinkali Temple,No,No,No,No,3
+460,Dakshinkali Temple,No,No,No,No,3
+461,Kulekhani Dam & Reservoir,No,No,No,No,3
+461,Kulekhani Dam & Reservoir,No,No,No,No,3
+461,Kulekhani Dam & Reservoir,No,No,No,No,
+462,Local Hilltop Viewpoints (Chapagaun/Lalitpur),No,No,No,No,3
+462,Local Hilltop Viewpoints (Chapagaun/Lalitpur),No,No,No,No,3
+462,Local Hilltop Viewpoints (Chapagaun/Lalitpur),No,No,No,No,3
+463,Dhulikhel Viewpoint,Hotel Himalayan Horizon,"Bansghari, Dhulikhel",4.1,Mid: $25–$45,3
+463,Dhulikhel Viewpoint,Langjang Sekuwa & Thakali Bhansa,Dhulikhel,3.9,Low: $12–$25,3
+463,Dhulikhel Viewpoint,Yummy De’ Restro,Dhulikhel,4,High: $40–$70,3
+464,Shivapuri Nagarjun National Park,Shivapuri Cottage Restaurant & Guest House,Jhule,4,Mid: $25–$45,3
+464,Shivapuri Nagarjun National Park,Prachin Restaurant,Kathmandu,3.8,Low: $12–$25,3
+464,Shivapuri Nagarjun National Park,Pauwa Garden Restaurant,Budhanilkantha,4.1,High: $40–$70,3
+465,Panauti,No,,4,Mid: $25–$45,3
+465,Panauti,No,,3.8,Low: $12–$25,3
+465,Panauti,No,,4,High: $40–$70,3
+466,Bhaktapur Durbar Square,De Temple Cafe,North side of Dattatraya Square,4.1,Mid: $25–$45,3
+466,Bhaktapur Durbar Square,North Rooftop Restaurant,Ittachhen - 1,3.9,Low: $12–$25,3
+466,Bhaktapur Durbar Square,KV Lounge & Jagati Chhoila Pasal,Kamalbinayak,3.8,High: $40–$70,3
+467,Kirtipur,SASA Twa,Kirtipur,4,Mid: $25–$45,3
+467,Kirtipur,Nandu Farma House and Restro,Kirtipur,4.3,Low: $12–$25,3
+467,Kirtipur,Newa:Lahana,Kirtipur,3.8,High: $40–$70,3
+468,Sangachok Village,No,No,No,Mid: $25–$45,3
+468,Sangachok Village,No,No,No,Low: $12–$25,3
+468,Sangachok Village,No,No,No,High: $40–$70,3
+469,Nagadesh Temple,No,No,No,Mid: $25–$45,3
+469,Nagadesh Temple,No,No,No,Low: $12–$25,3
+469,Nagadesh Temple,No,No,No,High: $40–$70,3
+470,Sankhu,The Burger House and Crunchy Fried Chicken,Mulpani - Sankhu Rd,4,Mid: $25–$45,3
+470,Sankhu,Thrill Grill & Swaad Thakali,Shankharapur -6,3.8,Low: $12–$25,3
+470,Sankhu,lasta resturant,"Sakwo Vintuna Pucha, Dhalanko Rd",4,High: $40–$70,3
+471,Khokana,No,No,No,Mid: $25–$45,3
+471,Khokana,No,No,No,Low: $12–$25,3
+471,Khokana,No,No,No,High: $40–$70,3
+472,Mahankal Temple,No,No,No,Mid: $25–$45,3
+472,Mahankal Temple,No,No,No,Low: $12–$25,3
+472,Mahankal Temple,No,No,No,High: $40–$70,3
+473,Chandeshwori Temple,No,No,No,Mid: $25–$45,3
+473,Chandeshwori Temple,No,No,No,Low: $12–$25,3
+473,Chandeshwori Temple,No,No,No,High: $40–$70,3
+474,Balkumari Temple,No,No,No,Mid: $25–$45,3
+474,Balkumari Temple,No,No,No,Low: $12–$25,3
+474,Balkumari Temple,No,No,No,High: $40–$70,3
+475,Sindhuligadhi,No,No,No,Mid: $25–$45,3
+475,Sindhuligadhi,No,No,No,Low: $12–$25,3
+475,Sindhuligadhi,No,No,No,High: $40–$70,3
+476,Manakamana Temple,No,No,No,Mid: $25–$45,3
+476,Manakamana Temple,No,No,No,Low: $12–$25,3
+476,Manakamana Temple,No,No,No,High: $40–$70,3
+477,Netra Lake,No,No,No,Mid: $25–$45,3
+477,Netra Lake,No,No,No,Low: $12–$25,3
+477,Netra Lake,No,No,No,High: $40–$70,3
+478,Tau Daha,Taudaha Universal Cafe and Banquet,Taudaha,4,Mid: $25–$45,3
+478,Tau Daha,U & Me Lakeside Restaurant,Taudaha,4.1,Low: $12–$25,3
+478,Tau Daha,Buddha Garden Restaurant & Bar,Taudaha,4,High: $40–$70,3
+479,Bungamati,No,No,No,Mid: $25–$45,3
+479,Bungamati,No,No,No,Low: $12–$25,3
+479,Bungamati,No,No,No,High: $40–$70,3
+480,Gosaikunda Lake,Cholangpaati,Gosaikunda,4,Mid: $25–$45,3
+480,Gosaikunda Lake,No,No,No,Low: $12–$25,3
+480,Gosaikunda Lake,No,No,No,High: $40–$70,3
+481,Daman,No,No,No,Mid: $25–$45,3
+481,Daman,No,No,No,Low: $12–$25,3
+481,Daman,No,No,No,High: $40–$70,3
+482,Phulchowki,No,No,No,Mid: $25–$45,3
+482,Phulchowki,No,No,No,Low: $12–$25,3
+482,Phulchowki,No,No,No,High: $40–$70,3
+483,Dhulikhel,No,No,No,Mid: $25–$45,3
+483,Dhulikhel,No,No,No,Low: $12–$25,3
+483,Dhulikhel,No,No,No,High: $40–$70,3
+484,Chandragiri Hills,Mandala Restaurant,Chandragiri,4,Mid: $25–$45,3
+484,Chandragiri Hills,The Lost Pluto Cafe and Restaurant,Chandragiri,4,Low: $12–$25,3
+484,Chandragiri Hills,The food studio,Chandragiri 03,4.1,High: $40–$70,3
+485,Chhahare Waterfall,No,No,No,Low: $12–$20,3
+485,Chhahare Waterfall,No,No,No,Mid: $30–$50,3
+485,Chhahare Waterfall,No,No,No,High: $55–$95,3
+486,Indrasarovar Lake,No,No,No,Low: $10–$20,3
+486,Indrasarovar Lake,No,No,No,Mid: $25–$45,3
+486,Indrasarovar Lake,No,No,No,High: $70–$120,3
+487,Pashupatinath Temple,OM PASHUPATINATH RESTAURANT,Kathmandu,3.8,Mid: $30–$50,3
+487,Pashupatinath Temple,Blue Coriander Restaurant,"6th floor, 310 Battisputali Rd",4.1,Low: $10–$20,3
+487,Pashupatinath Temple,Krishnarpan Nepali Restaurant,Battisputali Rd,4,Mid: $20–$40,3
+488,Chitwan National Park,KC's Restaurant & Home,RHINO STATUE,3.7,Mid: $25–$45,3
+488,Chitwan National Park,Wilderness.Sauraha,Badreni Chitwan National Park,4.2,Low: $12–$25,3
+488,Chitwan National Park,Wild Adventure Resort,"Badrehani 8, Sauraha",4,High: $40–$70,3
+489,Dhading Hidden Village Trail,No,No,No,Mid: $25–$45,3
+489,Dhading Hidden Village Trail,No,No,No,Low: $12–$25,3
+489,Dhading Hidden Village Trail,No,No,No,High: $40–$70,3
+490,Boudhanath Stupa,"Roadhouse Cafe, Boudha",Stupa,3.9,Mid: $25–$45,3
+490,Boudhanath Stupa,Lavie Garden,Ramhiti Boudha Rd,4,Low: $12–$25,3
+490,Boudhanath Stupa,"Pasa Deli By Roadhouse, Boudha",Stupa,4,High: $40–$70,3
+491,Swayambhunath Stupa (Monkey Temple),Lamee Coffee ,1 Swayambhu Marg,4.1,Mid: $25–$45,3
+491,Swayambhunath Stupa (Monkey Temple),Basuri Restaurant,Swoyambhu Marg,3.7,Low: $12–$25,3
+491,Swayambhunath Stupa (Monkey Temple),Sam-Ye Garden Restaurant & Bar,"Bijeswori, Swayambhu Marg",4,High: $40–$70,3
+492,Pharping,No,No,No,Mid: $25–$45,3
+492,Pharping,No,No,No,Low: $12–$25,3
+492,Pharping,No,No,No,High: $40–$70,3
+493,Nuwakot Palace,Nuwakot Tandoori & Restaurant,Tokha,3.8,Mid: $25–$45,3
+493,Nuwakot Palace,The Famous Farm Nuwakot,Nuwakot,4.1,Low: $12–$25,3
+493,Nuwakot Palace,Newa Hotel,Nuwakot Durbar Square,4,High: $40–$70,3
+494,Siddhi Ganesh Temple,No,No,No,No,3
+494,Siddhi Ganesh Temple,No,No,No,No,3
+494,Siddhi Ganesh Temple,No,No,No,No,3
+495,Seto Machhendranath Temple,No,No,No,No,3
+495,Seto Machhendranath Temple,No,No,No,No,3
+495,Seto Machhendranath Temple,No,No,No,No,3
+496,Thimi,The Biryani house,Madhyapur Thimi,3.9,Mid: $25–$45,3
+496,Thimi,Sawaa Garden Cafe,Madhyapur Thimi,4,Low: $12–$25,3
+496,Thimi,Restaurant Tusa,Bhaktapur,4,High: $40–$70,3
+497,Rolwaling Valley,No,No,No,No,3
+497,Rolwaling Valley,No,No,No,No,3
+497,Rolwaling Valley,No,No,No,No,3
+498,Kalinchowk Bhagwati,No,No,No,No,3
+498,Kalinchowk Bhagwati,No,No,No,No,3
+498,Kalinchowk Bhagwati,No,No,No,No,3
+499,Nagarkot Viewpoint,No,No,No,No,3
+499,Nagarkot Viewpoint,No,No,No,No,3
+499,Nagarkot Viewpoint,No,No,No,No,3
+500,Langtang Valley Upper Trek,No,No,No,No,3
+500,Langtang Valley Upper Trek,No,No,No,No,3
+500,Langtang Valley Upper Trek,No,No,No,No,3
+501,Lalitpur Tiny Temple,No,No,No,No,3
+501,Lalitpur Tiny Temple,No,No,No,No,3
+501,Lalitpur Tiny Temple,No,No,No,No,3
+502,Langtang Upper Trek,No,No,No,No,3
+502,Langtang Upper Trek,No,No,No,No,3
+502,Langtang Upper Trek,No,No,No,No,3
+503,Rasuwa,No,No,No,No,3
+503,Rasuwa,No,No,No,No,3
+503,Rasuwa,No,No,No,No,3
+504,Kathmandu,Trisara,Durbarmarg,3.8,Mid: $25–$45,3
+504,Kathmandu,Walnut Bistro,Durbarmarg,4,Low: $12–$25,3
+504,Kathmandu,Nepalaya Rooftop Restaurant,"Inside Hotel Nepalaya, Thamel, Kwabahal-17",3.7,High: $40–$70,3
+505,Chitwan,No,No,No,No,3
+505,Chitwan,No,No,No,No,3
+505,Chitwan,No,No,No,No,3
+506,Lalitpur / Chapagaun,No,No,No,No,3
+506,Lalitpur / Chapagaun,No,No,No,No,3
+506,Lalitpur / Chapagaun,No,No,No,No,3
+507,Nuwakot,No,No,No,No,3
+507,Nuwakot,No,No,No,No,3
+507,Nuwakot,No,No,No,No,3
+508,Dhading,No,No,No,No,3
+508,Dhading,No,No,No,No,3
+508,Dhading,No,No,No,No,3
+509,Patan,No,No,No,No,3
+509,Patan,No,No,No,No,3
+509,Patan,No,No,No,No,3
+510,Bhrikutimandap,Blueberry Kitchen,Bhrikutimandap,4.2,Mid: $25–$45,3
+510,Bhrikutimandap,Drishya Lounge,Bhrikutimandap,4,Low: $12–$25,3
+510,Bhrikutimandap,Apricus Garden Restaurant,Bhrikutimandap,4,High: $40–$70,3
+511,Thamel,Jasper Restaurant,Thamel,4.1,Mid: $25–$45,3
+511,Thamel,Thai Casa En Thamel,Thamel,4,Low: $12–$25,3
+511,Thamel,Forest & Plate,Thamel,3.9,High: $40–$70,3
+512,Bharatpur,Fine Diners,Bharatpur,4.1,Mid: $25–$45,3
+512,Bharatpur,High Five Restaurant and Bar,Bharatpur,4.2,Low: $12–$25,3
+512,Bharatpur,The Great Father Restaurant,Bharatpur,4.3,High: $40–$70,3
+513,Jayamangala (Ratnanagar area),No,No,No,No,3
+513,Jayamangala (Ratnanagar area),No,No,No,No,3
+513,Jayamangala (Ratnanagar area),No,No,No,No,3
+514,Krishna Pranami Temple,No,No,No,No,3
+514,Krishna Pranami Temple,No,No,No,No,3
+514,Krishna Pranami Temple,No,No,No,No,3
+515,Panchakanya Mandir,No,No,No,No,3
+515,Panchakanya Mandir,No,No,No,No,3
+515,Panchakanya Mandir,No,No,No,No,3
+516,Chisapani Mandir,No,No,No,No,3
+516,Chisapani Mandir,No,No,No,No,3
+516,Chisapani Mandir,No,No,No,No,3
+517,Ratnanagar,No,No,No,No,3
+517,Ratnanagar,No,No,No,No,3
+517,Ratnanagar,No,No,No,No,3
+518,Khairahani,No,No,No,No,3
+518,Khairahani,No,No,No,No,3
+518,Khairahani,No,No,No,No,3
+519,Korak,No,No,No,No,3
+519,Korak,No,No,No,No,3
+519,Korak,No,No,No,No,3
+520,Bandipur,No,No,No,No,3
+520,Bandipur,No,No,No,No,3
+520,Bandipur,No,No,No,No,3
+521,Nilkantha,No,No,No,No,3
+521,Nilkantha,No,No,No,No,3
+521,Nilkantha,No,No,No,No,3
+522,Dhuwakot,No,No,No,No,3
+522,Dhuwakot,No,No,No,No,3
+522,Dhuwakot,No,No,No,No,3
+523,Deurali Danda,No,No,No,No,3
+523,Deurali Danda,No,No,No,No,3
+523,Deurali Danda,No,No,No,No,3
+524,Vagerachuli,No,No,No,No,3
+524,Vagerachuli,No,No,No,No,3
+524,Vagerachuli,No,No,No,No,3
+525,Semjong,No,No,No,No,3
+525,Semjong,No,No,No,No,3
+525,Semjong,No,No,No,No,3
+526,Barsunchet,No,No,No,No,3
+526,Barsunchet,No,No,No,No,3
+526,Barsunchet,No,No,No,No,3
+527,Bungtang,No,No,No,No,3
+527,Bungtang,No,No,No,No,3
+527,Bungtang,No,No,No,No,3
+528,Deurali,No,No,No,No,3
+528,Deurali,No,No,No,No,3
+528,Deurali,No,No,No,No,3
+529,Tupche,No,No,No,No,3
+529,Tupche,No,No,No,No,3
+529,Tupche,No,No,No,No,3
+530,Chappthoke,No,No,No,No,3
+530,Chappthoke,No,No,No,No,3
+530,Chappthoke,No,No,No,No,3
+531,Pokhari Gaun,No,No,No,No,3
+531,Pokhari Gaun,No,No,No,No,3
+531,Pokhari Gaun,No,No,No,No,3
+532,Champani Gaun,No,No,No,No,3
+532,Champani Gaun,No,No,No,No,3
+532,Champani Gaun,No,No,No,No,3
+533,Yarsa,No,No,No,No,3
+533,Yarsa,No,No,No,No,3
+533,Yarsa,No,No,No,No,3
+534,Urleni (Helambu area),No,No,No,No,3
+534,Urleni (Helambu area),No,No,No,No,3
+534,Urleni (Helambu area),No,No,No,No,3
+535,Shikharbesi (Nuwakot),No,No,No,No,3
+535,Shikharbesi (Nuwakot),No,No,No,No,3
+535,Shikharbesi (Nuwakot),No,No,No,No,3
+536,Ghyangphedi,No,No,No,No,3
+536,Ghyangphedi,No,No,No,No,3
+536,Ghyangphedi,No,No,No,No,3
+537,Helambu,No,No,No,No,3
+537,Helambu,No,No,No,No,3
+537,Helambu,No,No,No,No,3
+538,Bhotang,No,No,No,No,3
+538,Bhotang,No,No,No,No,3
+538,Bhotang,No,No,No,No,3
+539,Pachpokhari,No,No,No,No,3
+539,Pachpokhari,No,No,No,No,3
+539,Pachpokhari,No,No,No,No,3
+540,Phurbi Chyachu,No,No,No,No,3
+540,Phurbi Chyachu,No,No,No,No,3
+540,Phurbi Chyachu,No,No,No,No,3
+541,Tatopani (Sindhupalchok),No,No,No,No,3
+541,Tatopani (Sindhupalchok),No,No,No,No,3
+541,Tatopani (Sindhupalchok),No,No,No,No,3
+542,Kodari,No,No,No,No,3
+542,Kodari,No,No,No,No,3
+542,Kodari,No,No,No,No,3
+543,Phulpingkatti,No,No,No,No,3
+543,Phulpingkatti,No,No,No,No,3
+543,Phulpingkatti,No,No,No,No,3
+544,Bigu,No,No,No,No,3
+544,Bigu,No,No,No,No,3
+544,Bigu,No,No,No,No,3
+545,Singati,No,No,No,No,3
+545,Singati,No,No,No,No,3
+545,Singati,No,No,No,No,3
+546,Suri,No,No,No,No,3
+546,Suri,No,No,No,No,3
+546,Suri,No,No,No,No,3
+547,Gorpang,No,No,No,No,3
+547,Gorpang,No,No,No,No,3
+547,Gorpang,No,No,No,No,3
+548,Lamidada,No,No,No,No,3
+548,Lamidada,No,No,No,No,3
+548,Lamidada,No,No,No,No,3
+549,Jiri,No,No,No,No,3
+549,Jiri,No,No,No,No,3
+549,Jiri,No,No,No,No,3
+550,Rasnalu,No,No,No,No,3
+550,Rasnalu,No,No,No,No,3
+550,Rasnalu,No,No,No,No,3
+551,Gupteshwor (Ramechhap),No,No,No,No,3
+551,Gupteshwor (Ramechhap),No,No,No,No,3
+551,Gupteshwor (Ramechhap),No,No,No,No,3
+552,Ramechhap (HQ),No,No,No,No,3
+552,Ramechhap (HQ),No,No,No,No,3
+552,Ramechhap (HQ),No,No,No,No,3
+553,Rampur (Ramechhap),No,No,No,No,3
+553,Rampur (Ramechhap),No,No,No,No,3
+553,Rampur (Ramechhap),No,No,No,No,3
+554,Himganga,No,No,No,No,3
+554,Himganga,No,No,No,No,3
+554,Himganga,No,No,No,No,3
+555,Melamchi,No,No,No,No,3
+555,Melamchi,No,No,No,No,3
+555,Melamchi,No,No,No,No,3
+556,Sipalkavre,No,No,No,No,3
+556,Sipalkavre,No,No,No,No,3
+556,Sipalkavre,No,No,No,No,3
+557,Chhiku,No,No,No,No,3
+557,Chhiku,No,No,No,No,3
+557,Chhiku,No,No,No,No,3
+558,Sindurche,No,No,No,No,3
+558,Sindurche,No,No,No,No,3
+558,Sindurche,No,No,No,No,3
+559,Gunsakot,No,No,No,No,3
+559,Gunsakot,No,No,No,No,3
+559,Gunsakot,No,No,No,No,3
+560,Golche,No,No,No,No,3
+560,Golche,No,No,No,No,3
+560,Golche,No,No,No,No,3
+561,Pangtang,No,No,No,No,3
+561,Pangtang,No,No,No,No,3
+561,Pangtang,No,No,No,No,3
+562,Nampha,No,No,No,No,3
+562,Nampha,No,No,No,No,3
+562,Nampha,No,No,No,No,3
+563,Budhanilkantha,Farm to Table,Budhanilkantha,4,Mid: $25–$45,3
+563,Budhanilkantha,Dream Garden Resort,Budhanilkantha,3.9,Low: $12–$25,3
+563,Budhanilkantha,Hengbok Korean restaurant,Budhanilkantha,4.1,High: $40–$70,3
+564,Gokarneshwor,No,Gokarneshwor,4.2,Mid: $25–$45,3
+564,Gokarneshwor,No,Gokarneshwor,3.8,Low: $12–$25,3
+564,Gokarneshwor,No,Gokarneshwor,4.1,High: $40–$70,3
+565,Bajrayogini Temple,No,Bajrayogini,4,Mid: $25–$45,3
+565,Bajrayogini Temple,No,Bajrayogini,3.9,Low: $12–$25,3
+565,Bajrayogini Temple,No,Bajrayogini,4.2,High: $40–$70,3
+566,Sundarijal Waterfall,Lama Restaurant and Guest House,Sundarijal,4,Mid: $25–$45,3
+566,Sundarijal Waterfall,Chwassa Jhol Mo:mo,Sundarijal,3.8,Low: $12–$25,3
+566,Sundarijal Waterfall,No,No,No,No,3
+567,Salinadi Temple,Salinadi Tandoori house,Salinadi,4,Mid: $25–$45,3
+567,Salinadi Temple,Saanjh SPOT,Salinadi,3.7,Low: $12–$25,3
+567,Salinadi Temple,Habibi Haze,Salinadi,4,High: $40–$70,3
+568,Banepa,MOMO AND CHILL,Banepa,4.2,Mid: $25–$45,3
+568,Banepa,The Spicy Chicken And Restro,10 Banepa-Panauti-Khopasi Road,4,Low: $12–$25,3
+568,Banepa,Bajeko Momo,Banepa -7,4,High: $40–$70,3
+569,Dhulikhel,No,No,No,No,3
+569,Dhulikhel,No,No,No,No,3
+569,Dhulikhel,No,No,No,No,3
+570,Namobuddha,ME TIME CAFE,Namobuddha,3.7,Mid: $25–$45,3
+570,Namobuddha,Namo Buddha,Namobuddha Road HHFM+467 Simalchaur Syampati,4.1,Low: $12–$25,3
+570,Namobuddha,Hotel Swornim Namobuddha,dhulikhel,4,High: $40–$70,3
+571,Dapcha Chhatrebangh,No,No,No,No,3
+571,Dapcha Chhatrebangh,No,No,No,No,3
+571,Dapcha Chhatrebangh,No,No,No,No,3
+572,Panchkhal,Gaurishankar Rest Home,Araniko highway Panchkhal 6,4,Mid: $25–$45,3
+572,Panchkhal,Panchkhal View Point,JJJ4+56F,4.1,Low: $12–$25,3
+572,Panchkhal,Pachkhal Thakali Bhojanalaya,Panchkhal Municipality-03,4.2,High: $40–$70,3
+573,Dolalghat,THE DOLALGHAT RESTRO & BAR,JPQ4+W2F,3.9,Mid: $25–$45,3
+573,Dolalghat,Jharana Cottage,Dolalghat,4,Low: $12–$25,3
+573,Dolalghat,Ghumti Rest And Restaurant,Panchkhal,4.1,High: $40–$70,3
+574,Phalate (Bhumlu),No,No,No,No,3
+574,Phalate (Bhumlu),No,No,No,No,3
+574,Phalate (Bhumlu),No,No,No,No,3
+575,Bhumlutar,No,No,No,No,3
+575,Bhumlutar,No,No,No,No,3
+575,Bhumlutar,No,No,No,No,3
+576,Saping,No,No,No,No,3
+576,Saping,No,No,No,No,3
+576,Saping,No,No,No,No,3
+577,Kalika (Kavre),No,No,No,No,3
+577,Kalika (Kavre),No,No,No,No,3
+577,Kalika (Kavre),No,No,No,No,3
+578,Sunkhani,No,No,No,No,3
+578,Sunkhani,No,No,No,No,3
+578,Sunkhani,No,No,No,No,3
+579,Timure,No,No,No,No,3
+579,Timure,No,No,No,No,3
+579,Timure,No,No,No,No,3
+580,Chitlang,No,No,No,No,3
+580,Chitlang,No,No,No,No,3
+580,Chitlang,No,No,No,No,3
+581,Markhu,No,No,No,No,3
+581,Markhu,No,No,No,No,3
+581,Markhu,No,No,No,No,3
+582,Fakhel,No,No,No,No,3
+582,Fakhel,No,No,No,No,3
+582,Fakhel,No,No,No,No,3
+583,Dakshinkali,No,No,No,No,3
+583,Dakshinkali,No,No,No,No,3
+583,Dakshinkali,No,No,No,No,3
+584,Bungamati,No,No,No,No,3
+584,Bungamati,No,No,No,No,3
+584,Bungamati,No,No,No,No,3
+585,Chhampi,No,No,No,No,3
+585,Chhampi,No,No,No,No,3
+585,Chhampi,No,No,No,No,3
+586,Tahakhel,No,No,No,No,3
+586,Tahakhel,No,No,No,No,3
+586,Tahakhel,No,No,No,No,3
+587,Maneshwor Mahadev Temple,No,No,No,No,3
+587,Maneshwor Mahadev Temple,No,No,No,No,3
+587,Maneshwor Mahadev Temple,No,No,No,No,3
+588,Dandagaun,No,No,No,No,3
+588,Dandagaun,No,No,No,No,3
+588,Dandagaun,No,No,No,No,3
+589,Badikhel,No,No,No,No,3
+589,Badikhel,No,No,No,No,3
+589,Badikhel,No,No,No,No,3
+590,Godawari,Corner Hotel Restro,Godawari,4,Mid: $25–$45,3
+590,Godawari,Evanaz Restaurant,Godawari way to Godawari Kunda,4,Low: $12–$25,3
+590,Godawari,Cafe Chiya Chautari Restro and Bar,Godawari,3.9,High: $40–$70,3
+591,Chapakharka,No,No,No,No,3
+591,Chapakharka,No,No,No,No,3
+591,Chapakharka,No,No,No,No,3
+592,Ryale,No,No,No,No,3
+592,Ryale,No,No,No,No,3
+592,Ryale,No,No,No,No,3
+593,Mahendrajyoti,No,No,No,No,3
+593,Mahendrajyoti,No,No,No,No,3
+593,Mahendrajyoti,No,No,No,No,3
+594,Ugratara Janagal,No,No,No,No,3
+594,Ugratara Janagal,No,No,No,No,3
+594,Ugratara Janagal,No,No,No,No,3
+595,Nala Ugrachandi,No,No,No,No,3
+595,Nala Ugrachandi,No,No,No,No,3
+595,Nala Ugrachandi,No,No,No,No,3
+596,Devitar,No,No,No,No,3
+596,Devitar,No,No,No,No,3
+596,Devitar,No,No,No,No,3
+597,Nakhipot,No,No,No,No,3
+597,Nakhipot,No,No,No,No,3
+597,Nakhipot,No,No,No,No,3
+598,Madhyapur Thimi,No,No,No,No,3
+598,Madhyapur Thimi,No,No,No,No,3
+598,Madhyapur Thimi,No,No,No,No,3
+599,Mulpani,No,No,No,No,3
+599,Mulpani,No,No,No,No,3
+599,Mulpani,No,No,No,No,3
+600,Nayapati,No,No,No,No,3
+600,Nayapati,No,No,No,No,3
+600,Nayapati,No,No,No,No,3
+601,Aalapot,No,No,No,No,3
+601,Aalapot,No,No,No,No,3
+601,Aalapot,No,No,No,No,3
+602,Mulkharka,No,No,No,No,3
+602,Mulkharka,No,No,No,No,3
+602,Mulkharka,No,No,No,No,3
+603,Dhunche,No,No,No,No,3
+603,Dhunche,No,No,No,No,3
+603,Dhunche,No,No,No,No,3
+604,Bharkhu,No,No,No,No,3
+604,Bharkhu,No,No,No,No,3
+604,Bharkhu,No,No,No,No,3
+605,Chandanbari,No,No,No,No,3
+605,Chandanbari,No,No,No,No,3
+605,Chandanbari,No,No,No,No,3
+606,Mukharka,No,No,No,No,3
+606,Mukharka,No,No,No,No,3
+606,Mukharka,No,No,No,No,3
+607,Sherpagaon,No,No,No,No,3
+607,Sherpagaon,No,No,No,No,3
+607,Sherpagaon,No,No,No,No,3
+608,Khangjim,No,No,No,No,3
+608,Khangjim,No,No,No,No,3
+608,Khangjim,No,No,No,No,3
+609,Bhalche,No,No,No,No,3
+609,Bhalche,No,No,No,No,3
+609,Bhalche,No,No,No,No,3
+610,Fikuri,No,No,No,No,3
+610,Fikuri,No,No,No,No,3
+610,Fikuri,No,No,No,No,3
+611,Archale,No,No,No,No,3
+611,Archale,No,No,No,No,3
+611,Archale,No,No,No,No,3
+612,Laharepauwa,No,No,No,No,3
+612,Laharepauwa,No,No,No,No,3
+612,Laharepauwa,No,No,No,No,3
+613,Kumpur,No,No,No,No,3
+613,Kumpur,No,No,No,No,3
+613,Kumpur,No,No,No,No,3
+614,Adamtar,No,No,No,No,3
+614,Adamtar,No,No,No,No,3
+614,Adamtar,No,No,No,No,3
+615,Belinitar,No,No,No,No,3
+615,Belinitar,No,No,No,No,3
+615,Belinitar,No,No,No,No,3
+616,Bhutiya,No,No,No,No,3
+616,Bhutiya,No,No,No,No,3
+616,Bhutiya,No,No,No,No,3
+617,Archale,No,No,No,No,3
+617,Archale,No,No,No,No,3
+617,Archale,No,No,No,No,3
+618,Laharepauwa,No,No,No,No,3
+618,Laharepauwa,No,No,No,No,3
+618,Laharepauwa,No,No,No,No,3
+619,Kumpur,No,No,No,No,3
+619,Kumpur,No,No,No,No,3
+619,Kumpur,No,No,No,No,3
+620,Adamtar,No,No,No,No,3
+620,Adamtar,No,No,No,No,3
+620,Adamtar,No,No,No,No,3
+621,Belinitar,No,No,No,No,3
+621,Belinitar,No,No,No,No,3
+621,Belinitar,No,No,No,No,3
+622,Bhutiya,No,No,No,No,3
+622,Bhutiya,No,No,No,No,3
+622,Bhutiya,No,No,No,No,3
+623,Taruka,No,No,No,No,3
+623,Taruka,No,No,No,No,3
+623,Taruka,No,No,No,No,3
+624,Gorsyang,No,No,No,No,3
+624,Gorsyang,No,No,No,No,3
+624,Gorsyang,No,No,No,No,3
+625,Charghare,No,No,No,No,3
+625,Charghare,No,No,No,No,3
+625,Charghare,No,No,No,No,3
+626,Gerkhu,No,No,No,No,3
+626,Gerkhu,No,No,No,No,3
+626,Gerkhu,No,No,No,No,3
+627,Haldekalika,No,No,No,No,3
+627,Haldekalika,No,No,No,No,3
+627,Haldekalika,No,No,No,No,3
+628,Hiramanitar,No,No,No,No,3
+628,Hiramanitar,No,No,No,No,3
+628,Hiramanitar,No,No,No,No,3
+629,Ramche,No,No,No,No,3
+629,Ramche,No,No,No,No,3
+629,Ramche,No,No,No,No,3
+630,Thuman,No,No,No,No,3
+630,Thuman,No,No,No,No,3
+630,Thuman,No,No,No,No,3
+631,Rasuwa,No,No,No,No,3
+631,Rasuwa,No,No,No,No,3
+631,Rasuwa,No,No,No,No,3
+632,Rasuwagadhi,No,No,No,No,3
+632,Rasuwagadhi,No,No,No,No,3
+632,Rasuwagadhi,No,No,No,No,3
+633,Tempu – Helambu Trek,No,No,No,No,3
+633,Tempu – Helambu Trek,No,No,No,No,3
+633,Tempu – Helambu Trek,No,No,No,No,3
+634,Chilime,No,No,No,No,3
+634,Chilime,No,No,No,No,3
+634,Chilime,No,No,No,No,3
+635,Saramthali,No,No,No,No,3
+635,Saramthali,No,No,No,No,3
+635,Saramthali,No,No,No,No,3
+636,Doglang,No,No,No,No,3
+636,Doglang,No,No,No,No,3
+636,Doglang,No,No,No,No,3
+637,Old Langtang Village,No,No,No,No,3
+637,Old Langtang Village,No,No,No,No,3
+637,Old Langtang Village,No,No,No,No,3
+638,Tsangbu Ri,No,No,No,No,3
+638,Tsangbu Ri,No,No,No,No,3
+638,Tsangbu Ri,No,No,No,No,3
+639,Raksirang,No,No,No,No,3
+639,Raksirang,No,No,No,No,3
+639,Raksirang,No,No,No,No,3
+640,Bharta Pundyadevi,No,No,No,No,3
+640,Bharta Pundyadevi,No,No,No,No,3
+640,Bharta Pundyadevi,No,No,No,No,3
+641,Gogane,No,No,No,No,3
+641,Gogane,No,No,No,No,3
+641,Gogane,No,No,No,No,3
+642,Agara,No,No,No,No,3
+642,Agara,No,No,No,No,3
+642,Agara,No,No,No,No,3
+643,Tasarpu,No,No,No,No,3
+643,Tasarpu,No,No,No,No,3
+643,Tasarpu,No,No,No,No,3
+644,Kewalpur,No,No,No,No,3
+644,Kewalpur,No,No,No,No,3
+644,Kewalpur,No,No,No,No,3
+645,Jeewanpur,No,No,No,No,3
+645,Jeewanpur,No,No,No,No,3
+645,Jeewanpur,No,No,No,No,3
+646,Chhatre Deurali,No,No,No,No,3
+646,Chhatre Deurali,No,No,No,No,3
+646,Chhatre Deurali,No,No,No,No,3
+647,Mudkhu,No,No,No,No,3
+647,Mudkhu,No,No,No,No,3
+647,Mudkhu,No,No,No,No,3
+648,Okharpauwa,No,No,No,No,3
+648,Okharpauwa,No,No,No,No,3
+648,Okharpauwa,No,No,No,No,3
+649,Kakani,No,No,No,No,3
+649,Kakani,No,No,No,No,3
+649,Kakani,No,No,No,No,3
+650,Bhadratar,No,No,No,No,3
+650,Bhadratar,No,No,No,No,3
+650,Bhadratar,No,No,No,No,3
+651,Kharanitar,No,No,No,No,3
+651,Kharanitar,No,No,No,No,3
+651,Kharanitar,No,No,No,No,3
+652,Likhu,No,No,No,No,3
+652,Likhu,No,No,No,No,3
+652,Likhu,No,No,No,No,3
+653,Talakhu,No,No,No,No,3
+653,Talakhu,No,No,No,No,3
+653,Talakhu,No,No,No,No,3
+654,Gajuri,No,No,No,No,3
+654,Gajuri,No,No,No,No,3
+654,Gajuri,No,No,No,No,3
+655,Chuwabote Gaun,No,No,No,No,3
+655,Chuwabote Gaun,No,No,No,No,3
+655,Chuwabote Gaun,No,No,No,No,3
+656,Jyamrung,No,No,No,No,3
+656,Jyamrung,No,No,No,No,3
+656,Jyamrung,No,No,No,No,3
+657,Katunge,No,No,No,No,3
+657,Katunge,No,No,No,No,3
+657,Katunge,No,No,No,No,3
+658,Gokarneshwor Temple,No,No,No,No,3
+658,Gokarneshwor Temple,No,No,No,No,3
+658,Gokarneshwor Temple,No,No,No,No,3
+659,Tripureswor,No,No,No,No,3
+659,Tripureswor,No,No,No,No,3
+659,Tripureswor,No,No,No,No,3
+660,Salyankot,No,No,No,No,3
+660,Salyankot,No,No,No,No,3
+660,Salyankot,No,No,No,No,3
+661,Mahavir,No,No,No,No,3
+661,Mahavir,No,No,No,No,3
+661,Mahavir,No,No,No,No,3
+662,Vharse Pokhari,No,No,No,No,3
+662,Vharse Pokhari,No,No,No,No,3
+662,Vharse Pokhari,No,No,No,No,3
+663,Gangajamuna,No,No,No,No,3
+663,Gangajamuna,No,No,No,No,3
+663,Gangajamuna,No,No,No,No,3
+664,Gumdi,No,No,No,No,3
+664,Gumdi,No,No,No,No,3
+664,Gumdi,No,No,No,No,3
+665,Khaniyanbas,No,No,No,No,3
+665,Khaniyanbas,No,No,No,No,3
+665,Khaniyanbas,No,No,No,No,3
+666,Satyadevi Mandir,No,No,No,No,3
+666,Satyadevi Mandir,No,No,No,No,3
+666,Satyadevi Mandir,No,No,No,No,3
+667,Kintang,No,No,No,No,3
+667,Kintang,No,No,No,No,3
+667,Kintang,No,No,No,No,3
+668,Salme,No,No,No,No,3
+668,Salme,No,No,No,No,3
+668,Salme,No,No,No,No,3
+669,Bhalche,No,No,No,No,3
+669,Bhalche,No,No,No,No,3
+669,Bhalche,No,No,No,No,3
+670,Kaule,No,No,No,No,3
+670,Kaule,No,No,No,No,3
+670,Kaule,No,No,No,No,3
+671,Fikuri,No,No,No,No,3
+671,Fikuri,No,No,No,No,3
+671,Fikuri,No,No,No,No,3
+672,Jibjibe,No,No,No,No,3
+672,Jibjibe,No,No,No,No,3
+672,Jibjibe,No,No,No,No,3
+673,Bhorle,No,No,No,No,3
+673,Bhorle,No,No,No,No,3
+673,Bhorle,No,No,No,No,3
+674,Jharlang,No,No,No,No,3
+674,Jharlang,No,No,No,No,3
+674,Jharlang,No,No,No,No,3
+675,Hetauda,No,No,No,No,3
+675,Hetauda,No,No,No,No,3
+675,Hetauda,No,No,No,No,3
+676,Sukaura,No,No,No,No,3
+676,Sukaura,No,No,No,No,3
+676,Sukaura,No,No,No,No,3
+677,Lattaramveshwar Mahadev Temple,No,No,No,No,3
+677,Lattaramveshwar Mahadev Temple,No,No,No,No,3
+677,Lattaramveshwar Mahadev Temple,No,No,No,No,3
+678,Ichankhu Narayan,No,No,No,No,3
+678,Ichankhu Narayan,No,No,No,No,3
+678,Ichankhu Narayan,No,No,No,No,3
+679,Harnamadi,No,No,No,No,3
+679,Harnamadi,No,No,No,No,3
+679,Harnamadi,No,No,No,No,3
+680,Shreepur Chhatiwan,No,No,No,No,3
+680,Shreepur Chhatiwan,No,No,No,No,3
+680,Shreepur Chhatiwan,No,No,No,No,3
+681,Gundu,No,No,No,No,3
+681,Gundu,No,No,No,No,3
+681,Gundu,No,No,No,No,3
+682,Manthali,No,No,No,No,3
+682,Manthali,No,No,No,No,3
+682,Manthali,No,No,No,No,3
+683,Asrang,No,No,No,No,3
+683,Asrang,No,No,No,No,3
+683,Asrang,No,No,No,No,3
+684,Chamere Cave,No,No,No,No,3
+684,Chamere Cave,No,No,No,No,3
+684,Chamere Cave,No,No,No,No,3
+685,Gotikhel,No,No,No,No,3
+685,Gotikhel,No,No,No,No,3
+685,Gotikhel,No,No,No,No,3
+686,Koteshwor,No,No,No,No,3
+686,Koteshwor,No,No,No,No,3
+686,Koteshwor,No,No,No,No,3
+687,Chyamrang Besi,No,No,No,No,3
+687,Chyamrang Besi,No,No,No,No,3
+687,Chyamrang Besi,No,No,No,No,3
+688,Tin Tale Waterfall,No,No,No,No,3
+688,Tin Tale Waterfall,No,No,No,No,3
+688,Tin Tale Waterfall,No,No,No,No,3
+689,Manikhel,No,No,No,No,3
+689,Manikhel,No,No,No,No,3
+689,Manikhel,No,No,No,No,3
+690,Kalanti,No,No,No,No,3
+690,Kalanti,No,No,No,No,3
+690,Kalanti,No,No,No,No,3
+691,Malpi,No,No,No,No,3
+691,Malpi,No,No,No,No,3
+691,Malpi,No,No,No,No,3
+692,KapalKot,No,No,No,No,3
+692,KapalKot,No,No,No,No,3
+692,KapalKot,No,No,No,No,3
+693,Mahendrajyoti,No,No,No,No,3
+693,Mahendrajyoti,No,No,No,No,3
+693,Mahendrajyoti,No,No,No,No,3
+694,Baramchi,No,No,No,No,3
+694,Baramchi,No,No,No,No,3
+694,Baramchi,No,No,No,No,3
+695,Mankha,No,No,No,No,3
+695,Mankha,No,No,No,No,3
+695,Mankha,No,No,No,No,3
+696,Baneshwor,No,No,No,No,3
+696,Baneshwor,No,No,No,No,3
+696,Baneshwor,No,No,No,No,3
+697,Yalmu Waterfall,No,No,No,No,3
+697,Yalmu Waterfall,No,No,No,No,3
+697,Yalmu Waterfall,No,No,No,No,3
+698,Gathi,No,No,No,No,3
+698,Gathi,No,No,No,No,3
+698,Gathi,No,No,No,No,3
+699,Marming,No,No,No,No,3
+699,Marming,No,No,No,No,3
+699,Marming,No,No,No,No,3
+700,Dhuskun,No,No,No,No,3
+700,Dhuskun,No,No,No,No,3
+700,Dhuskun,No,No,No,No,3
+701,Chaukati,No,No,No,No,3
+701,Chaukati,No,No,No,No,3
+701,Chaukati,No,No,No,No,3
+702,Ghorthali,No,No,No,No,3
+702,Ghorthali,No,No,No,No,3
+702,Ghorthali,No,No,No,No,3
+703,Bigu,No,No,No,No,3
+703,Bigu,No,No,No,No,3
+703,Bigu,No,No,No,No,3
+704,Deudhunga Dada,No,No,No,No,3
+704,Deudhunga Dada,No,No,No,No,3
+704,Deudhunga Dada,No,No,No,No,3
+705,Seti Mata,No,No,No,No,3
+705,Seti Mata,No,No,No,No,3
+705,Seti Mata,No,No,No,No,3
+706,Kalinchowk Bhagawati Temple,No,No,No,No,3
+706,Kalinchowk Bhagawati Temple,No,No,No,No,3
+706,Kalinchowk Bhagawati Temple,No,No,No,No,3
+707,Gairabari,No,No,No,No,3
+707,Gairabari,No,No,No,No,3
+707,Gairabari,No,No,No,No,3
+708,Betechhap,No,No,No,No,3
+708,Betechhap,No,No,No,No,3
+708,Betechhap,No,No,No,No,3
+709,Lisankhu,No,No,No,No,3
+709,Lisankhu,No,No,No,No,3
+709,Lisankhu,No,No,No,No,3
+710,Attarpur,No,No,No,No,3
+710,Attarpur,No,No,No,No,3
+710,Attarpur,No,No,No,No,3
+711,Baghkhor,No,No,No,No,3
+711,Baghkhor,No,No,No,No,3
+711,Baghkhor,No,No,No,No,3
+712,Aahaldanda,No,No,No,No,3
+712,Aahaldanda,No,No,No,No,3
+712,Aahaldanda,No,No,No,No,3
+713,Jiri,No,No,No,No,3
+713,Jiri,No,No,No,No,3
+713,Jiri,No,No,No,No,3
+714,Chuchure,No,No,No,No,3
+714,Chuchure,No,No,No,No,3
+714,Chuchure,No,No,No,No,3
+715,Harisiddhi,No,No,No,No,3
+715,Harisiddhi,No,No,No,No,3
+715,Harisiddhi,No,No,No,No,3
+716,Siddhipur,No,No,No,No,3
+716,Siddhipur,No,No,No,No,3
+716,Siddhipur,No,No,No,No,3
+717,Lubhu,No,No,No,No,3
+717,Lubhu,No,No,No,No,3
+717,Lubhu,No,No,No,No,3
+718,Dadhikot,No,No,No,No,3
+718,Dadhikot,No,No,No,No,3
+718,Dadhikot,No,No,No,No,3
+719,Gundu Chaur,No,No,No,No,3
+719,Gundu Chaur,No,No,No,No,3
+719,Gundu Chaur,No,No,No,No,3
+720,Ranikot,No,No,No,No,3
+720,Ranikot,No,No,No,No,3
+720,Ranikot,No,No,No,No,3
+721,Sirandada,No,No,No,No,3
+721,Sirandada,No,No,No,No,3
+721,Sirandada,No,No,No,No,3
+722,Ghyampe Danda,No,No,No,No,3
+722,Ghyampe Danda,No,No,No,No,3
+722,Ghyampe Danda,No,No,No,No,3
+723,Nangkhel,No,No,No,No,3
+723,Nangkhel,No,No,No,No,3
+723,Nangkhel,No,No,No,No,3
+724,Bhainsepati,No,No,No,No,3
+724,Bhainsepati,No,No,No,No,3
+773,Bhainsepati,No,No,No,No,3
+725,Dhunkharka,No,No,No,No,3
+725,Dhunkharka,No,No,No,No,3
+725,Dhunkharka,No,No,No,No,3
+726,Tindhare Jharana,No,No,No,No,3
+726,Tindhare Jharana,No,No,No,No,3
+726,Tindhare Jharana,No,No,No,No,3
+727,Patlekhet,No,No,No,No,3
+727,Patlekhet,No,No,No,No,3
+727,Patlekhet,No,No,No,No,3
+728,TinPiple,No,No,No,No,3
+728,TinPiple,No,No,No,No,3
+728,TinPiple,No,No,No,No,3
+729,Dulalthok,No,No,No,No,3
+729,Dulalthok,No,No,No,No,3
+729,Dulalthok,No,No,No,No,3
+730,Panchkhal,No,No,No,No,3
+730,Panchkhal,No,No,No,No,3
+730,Panchkhal,No,No,No,No,3
+731,Jyamdi Mandan,No,No,No,No,3
+731,Jyamdi Mandan,No,No,No,No,3
+731,Jyamdi Mandan,No,No,No,No,3
+732,Phalante,No,No,No,No,3
+732,Phalante,No,No,No,No,3
+732,Phalante,No,No,No,No,3
+733,Panichaur,No,No,No,No,3
+733,Panichaur,No,No,No,No,3
+733,Panichaur,No,No,No,No,3
+734,Bethan,No,No,No,No,3
+734,Bethan,No,No,No,No,3
+734,Bethan,No,No,No,No,3
+735,Madan Kundari,No,No,No,No,3
+735,Madan Kundari,No,No,No,No,3
+735,Madan Kundari,No,No,No,No,3
+736,Gunsi Bhadaure,No,No,No,No,3
+736,Gunsi Bhadaure,No,No,No,No,3
+736,Gunsi Bhadaure,No,No,No,No,3
+737,Tokarpur,No,No,No,No,3
+737,Tokarpur,No,No,No,No,3
+737,Tokarpur,No,No,No,No,3
+738,Katakuti,No,No,No,No,3
+738,Katakuti,No,No,No,No,3
+738,Katakuti,No,No,No,No,3
+739,Bhusapheda,No,No,No,No,3
+739,Bhusapheda,No,No,No,No,3
+739,Bhusapheda,No,No,No,No,3
+740,Marming,No,No,No,No,3
+740,Marming,No,No,No,No,3
+740,Marming,No,No,No,No,3
+741,Tauthali,No,No,No,No,3
+741,Tauthali,No,No,No,No,3
+741,Tauthali,No,No,No,No,3
+742,Piskar,No,No,No,No,3
+742,Piskar,No,No,No,No,3
+742,Piskar,No,No,No,No,3
+743,Kharidhunga,No,No,No,No,3
+743,Kharidhunga,No,No,No,No,3
+743,Kharidhunga,No,No,No,No,3
+744,Nalang,No,No,No,No,3
+744,Nalang,No,No,No,No,3
+744,Nalang,No,No,No,No,3
+745,Bungchung,No,No,No,No,3
+745,Bungchung,No,No,No,No,3
+745,Bungchung,No,No,No,No,3
+746,Dovantar,No,No,No,No,3
+746,Dovantar,No,No,No,No,3
+746,Dovantar,No,No,No,No,3
+747,Sasaha,No,No,No,No,3
+747,Sasaha,No,No,No,No,3
+747,Sasaha,No,No,No,No,3
+748,Murali Bhanjyang,No,No,No,No,3
+748,Murali Bhanjyang,No,No,No,No,3
+748,Murali Bhanjyang,No,No,No,No,3
+749,Aansi Khola Motorable Bridge,No,No,No,No,3
+749,Aansi Khola Motorable Bridge,No,No,No,No,3
+749,Aansi Khola Motorable Bridge,No,No,No,No,3
+750,Sunkhani,No,No,No,No,3
+750,Sunkhani,No,No,No,No,3
+750,Sunkhani,No,No,No,No,3
+751,Golabhanjyang,No,No,No,No,3
+751,Golabhanjyang,No,No,No,No,3
+751,Golabhanjyang,No,No,No,No,3
+752,Jyamrung,No,No,No,No,3
+752,Jyamrung,No,No,No,No,3
+752,Jyamrung,No,No,No,No,3
+753,Katunge,No,No,No,No,3
+753,Katunge,No,No,No,No,3
+753,Katunge,No,No,No,No,3
+754,Phulkharka,No,No,No,No,3
+754,Phulkharka,No,No,No,No,3
+754,Phulkharka,No,No,No,No,3
+755,Budhathum,No,No,No,No,3
+755,Budhathum,No,No,No,No,3
+755,Budhathum,No,No,No,No,3
+756,Mulpani,No,No,No,No,3
+756,Mulpani,No,No,No,No,3
+756,Mulpani,No,No,No,No,3
+757,Sangkosh,No,No,No,No,3
+757,Sangkosh,No,No,No,No,3
+757,Sangkosh,No,No,No,No,3
+758,Sertung,No,No,No,No,3
+758,Sertung,No,No,No,No,3
+758,Sertung,No,No,No,No,3
+759,Babil Waterfall,No,No,No,No,3
+759,Babil Waterfall,No,No,No,No,3
+759,Babil Waterfall,No,No,No,No,3
+760,Borang,No,No,No,No,3
+760,Borang,No,No,No,No,3
+760,Borang,No,No,No,No,3
+761,Kalo Daha Mhane,No,No,No,No,3
+761,Kalo Daha Mhane,No,No,No,No,3
+761,Kalo Daha Mhane,No,No,No,No,3
+762,Pusu Wala Kharka,No,No,No,No,3
+762,Pusu Wala Kharka,No,No,No,No,3
+762,Pusu Wala Kharka,No,No,No,No,3
+763,Pabil,No,No,No,No,3
+763,Pabil,No,No,No,No,3
+763,Pabil,No,No,No,No,3
+764,Dhunche,No,No,No,No,3
+764,Dhunche,No,No,No,No,3
+764,Dhunche,No,No,No,No,3
+765,Chandanbari,No,No,No,No,3
+765,Chandanbari,No,No,No,No,3
+765,Chandanbari,No,No,No,No,3
+766,Lauri Binayak,No,No,No,No,3
+766,Lauri Binayak,No,No,No,No,3
+766,Lauri Binayak,No,No,No,No,3
+767,Gaunkharka,No,No,No,No,3
+767,Gaunkharka,No,No,No,No,3
+767,Gaunkharka,No,No,No,No,3
+768,Sursing Waterfall,No,No,No,No,3
+768,Sursing Waterfall,No,No,No,No,3
+768,Sursing Waterfall,No,No,No,No,3
+769,MaginGoth,No,No,No,No,3
+769,MaginGoth,No,No,No,No,3
+769,MaginGoth,No,No,No,No,3
+770,Thakani,No,No,No,No,3
+770,Thakani,No,No,No,No,3
+770,Thakani,No,No,No,No,3
+771,Talramarang,No,No,No,No,3
+771,Talramarang,No,No,No,No,3
+771,Talramarang,No,No,No,No,3
+772,Dubachaur,No,No,No,No,3
+772,Dubachaur,No,No,No,No,3
+772,Dubachaur,No,No,No,No,3
+773,Tipeni,No,No,No,No,3
+773,Tipeni,No,No,No,No,3
+773,Tipeni,No,No,No,No,3
+774,Sikharpur,No,No,No,No,3
+774,Sikharpur,No,No,No,No,3
+774,Sikharpur,No,No,No,No,3
+775,Dolalghat,No,No,No,No,3
+775,Dolalghat,No,No,No,No,3
+775,Dolalghat,No,No,No,No,3
+776,Phalate Bhumlu,No,No,No,No,3
+776,Phalate Bhumlu,No,No,No,No,3
+776,Phalate Bhumlu,No,No,No,No,3
+777,Chaubas,No,No,No,No,3
+777,Chaubas,No,No,No,No,3
+777,Chaubas,No,No,No,No,3
+778,Sanowangthali,No,No,No,No,3
+778,Sanowangthali,No,No,No,No,3
+778,Sanowangthali,No,No,No,No,3
+779,Bangthali,No,No,No,No,3
+779,Bangthali,No,No,No,No,3
+779,Bangthali,No,No,No,No,3
+780,Dhumthang,No,No,No,No,3
+780,Dhumthang,No,No,No,No,3
+780,Dhumthang,No,No,No,No,3
+781,Nitya Chandeshwor,No,No,No,No,3
+781,Nitya Chandeshwor,No,No,No,No,3
+781,Nitya Chandeshwor,No,No,No,No,3
+782,Mahendrajyoti,No,No,No,No,3
+782,Mahendrajyoti,No,No,No,No,3
+782,Mahendrajyoti,No,No,No,No,3
+783,Gairi Gaun,No,No,No,No,3
+783,Gairi Gaun,No,No,No,No,3
+783,Gairi Gaun,No,No,No,No,3
+784,Kursi Dada,No,No,No,No,3
+784,Kursi Dada,No,No,No,No,3
+784,Kursi Dada,No,No,No,No,3
+785,Batase Dada,No,No,No,No,3
+785,Batase Dada,No,No,No,No,3
+785,Batase Dada,No,No,No,No,3
+786,Rolling Batase Hills,No,No,No,No,3
+786,Rolling Batase Hills,No,No,No,No,3
+786,Rolling Batase Hills,No,No,No,No,3
+787,Judlee,No,No,No,No,3
+787,Judlee,No,No,No,No,3
+787,Judlee,No,No,No,No,3
+788,Satdobato,No,No,No,No,3
+788,Satdobato,No,No,No,No,3
+788,Satdobato,No,No,No,No,3
+789,Fulchoki Mandir (Basnet Gau),No,No,No,No,3
+789,Fulchoki Mandir (Basnet Gau),No,No,No,No,3
+789,Fulchoki Mandir (Basnet Gau),No,No,No,No,3
+790,Sansari Devi Temple,No,No,No,No,3
+790,Sansari Devi Temple,No,No,No,No,3
+790,Sansari Devi Temple,No,No,No,No,3
+791,Dhaneshwor,No,No,No,No,3
+791,Dhaneshwor,No,No,No,No,3
+791,Dhaneshwor,No,No,No,No,3
+792,Nagai Dhunga,No,No,No,No,3
+792,Nagai Dhunga,No,No,No,No,3
+792,Nagai Dhunga,No,No,No,No,3
+793,Dhaneshwor Mahadev Temple,No,No,No,No,3
+793,Dhaneshwor Mahadev Temple,No,No,No,No,3
+793,Dhaneshwor Mahadev Temple,No,No,No,No,3
+794,Bogati Gaun,No,No,No,No,3
+794,Bogati Gaun,No,No,No,No,3
+794,Bogati Gaun,No,No,No,No,3
+795,Shreekhandpur,No,No,No,No,3
+795,Shreekhandpur,No,No,No,No,3
+795,Shreekhandpur,No,No,No,No,3
+796,Devisthan (Laa Than Pata),No,No,No,No,3
+796,Devisthan (Laa Than Pata),No,No,No,No,3
+796,Devisthan (Laa Than Pata),No,No,No,No,3
+797,Shrikhandapur Bindhabasini Temple,No,No,No,No,3
+797,Shrikhandapur Bindhabasini Temple,No,No,No,No,3
+797,Shrikhandapur Bindhabasini Temple,No,No,No,No,3
+798,Salle Panuati,No,No,No,No,3
+798,Salle Panuati,No,No,No,No,3
+798,Salle Panuati,No,No,No,No,3
+799,Talu Dadha,No,No,No,No,3
+799,Talu Dadha,No,No,No,No,3
+799,Talu Dadha,No,No,No,No,3
+800,Chature Village,No,No,No,No,3
+800,Chature Village,No,No,No,No,3
+800,Chature Village,No,No,No,No,3
+801,Lukeko Dada,No,No,No,No,3
+801,Lukeko Dada,No,No,No,No,3
+801,Lukeko Dada,No,No,No,No,3
+802,Ashapuri Mahadev,No,No,No,No,3
+802,Ashapuri Mahadev,No,No,No,No,3
+802,Ashapuri Mahadev,No,No,No,No,3
+803,Dhad Gaun,No,No,No,No,3
+803,Dhad Gaun,No,No,No,No,3
+803,Dhad Gaun,No,No,No,No,3
+804,Seti Devi,No,No,No,No,3
+804,Seti Devi,No,No,No,No,3
+804,Seti Devi,No,No,No,No,3
+805,Kotthumka,No,No,No,No,3
+805,Kotthumka,No,No,No,No,3
+805,Kotthumka,No,No,No,No,3
+806,Raut Gaun,No,No,No,No,3
+806,Raut Gaun,No,No,No,No,3
+806,Raut Gaun,No,No,No,No,3
+807,Chittapol,No,No,No,No,3
+807,Chittapol,No,No,No,No,3
+807,Chittapol,No,No,No,No,3
+808,Soche,No,No,No,No,3
+808,Soche,No,No,No,No,3
+808,Soche,No,No,No,No,3
+809,Kakhbari,No,No,No,No,3
+809,Kakhbari,No,No,No,No,3
+809,Kakhbari,No,No,No,No,3
+810,Bairikhel,No,No,No,No,3
+810,Bairikhel,No,No,No,No,3
+810,Bairikhel,No,No,No,No,3
+811,Ghyampe Danda Mountain Bike Trails,No,No,No,No,3
+811,Ghyampe Danda Mountain Bike Trails,No,No,No,No,3
+811,Ghyampe Danda Mountain Bike Trails,No,No,No,No,3
+812,Pilot Baba Ashram,No,No,No,No,3
+812,Pilot Baba Ashram,No,No,No,No,3
+812,Pilot Baba Ashram,No,No,No,No,3
+813,Field of Green,No,No,No,No,3
+813,Field of Green,No,No,No,No,3
+813,Field of Green,No,No,No,No,3
+814,Tarakeshwor Mahadev Temple,No,No,No,No,3
+814,Tarakeshwor Mahadev Temple,No,No,No,No,3
+814,Tarakeshwor Mahadev Temple,No,No,No,No,3
+815,Samakhusi,No,No,No,No,3
+815,Samakhusi,No,No,No,No,3
+815,Samakhusi,No,No,No,No,3
+816,Boharatar,No,No,No,No,3
+816,Boharatar,No,No,No,No,3
+816,Boharatar,No,No,No,No,3
+817,Jamacho Gumba,No,No,No,No,3
+817,Jamacho Gumba,No,No,No,No,3
+817,Jamacho Gumba,No,No,No,No,3
+818,Ichangunarayan,No,No,No,No,3
+818,Ichangunarayan,No,No,No,No,3
+818,Ichangunarayan,No,No,No,No,3
+819,Mudkhu,No,No,No,No,3
+819,Mudkhu,No,No,No,No,3
+819,Mudkhu,No,No,No,No,3
+820,Bhubaneshwori Temple,No,No,No,No,3
+820,Bhubaneshwori Temple,No,No,No,No,3
+820,Bhubaneshwori Temple,No,No,No,No,3
+821,Okharpauwa,No,No,No,No,3
+821,Okharpauwa,No,No,No,No,3
+821,Okharpauwa,No,No,No,No,3
+822,Kakani,No,No,No,No,3
+822,Kakani,No,No,No,No,3
+822,Kakani,No,No,No,No,3
+823,Lauke Waterfall,No,No,No,No,3
+823,Lauke Waterfall,No,No,No,No,3
+823,Lauke Waterfall,No,No,No,No,3
+824,Nuwakot,No,No,No,No,3
+824,Nuwakot,No,No,No,No,3
+824,Nuwakot,No,No,No,No,3
+825,Bidur,No,No,No,No,3
+825,Bidur,No,No,No,No,3
+825,Bidur,No,No,No,No,3
+826,Duipipal,No,No,No,No,3
+826,Duipipal,No,No,No,No,3
+826,Duipipal,No,No,No,No,3
+827,Chepang Gaun,No,No,No,No,3
+827,Chepang Gaun,No,No,No,No,3
+827,Chepang Gaun,No,No,No,No,3
+828,Baglung Bazaar,No,No,No,No,3
+828,Baglung Bazaar,No,No,No,No,3
+828,Baglung Bazaar,No,No,No,No,3
+829,Panchakot,No,No,No,No,3
+829,Panchakot,No,No,No,No,3
+829,Panchakot,No,No,No,No,3
+830,Bihun,No,No,No,No,3
+830,Bihun,No,No,No,No,3
+830,Bihun,No,No,No,No,3
+831,Nishi,No,No,No,No,3
+831,Nishi,No,No,No,No,3
+831,Nishi,No,No,No,No,3
+832,Bhakunde,No,No,No,No,3
+832,Bhakunde,No,No,No,No,3
+832,Bhakunde,No,No,No,No,3
+833,Arthar Dandakharka,No,No,No,No,3
+833,Arthar Dandakharka,No,No,No,No,3
+833,Arthar Dandakharka,No,No,No,No,3
+834,Lekhphant,No,No,No,No,3
+834,Lekhphant,No,No,No,No,3
+834,Lekhphant,No,No,No,No,3
+835,Kusma,No,No,No,No,3
+835,Kusma,No,No,No,No,3
+835,Kusma,No,No,No,No,3
+836,Pokhara,Moondance Restaurant & Bar,No,No,No,4
+836,Pokhara,Welcome Restaurant,No,No,No,4
+836,Pokhara,Local Sukuti Restaurant,No,No,No,4
+837,Sarangkot,Crony Cottage,No,No,No,4
+837,Sarangkot,Green View Restaurant,No,No,No,4
+837,Sarangkot,Namaste hotel and resturant,No,No,No,4
+838,Ghandruk,Moon Rising Restaurant,No,No,No,4
+838,Ghandruk,Open Sky Restaurant & Camping,No,No,No,4
+838,Ghandruk,Ishtuti Mo:Mo Restaurant,No,No,No,4
+839,Dhampus,Namaste restaurant,No,No,No,4
+839,Dhampus,Amit guest house & Restaurant,No,No,No,4
+839,Dhampus,TRANING POINT VIEW RESTAURANT & LODGE Mountain view restaurant,No,No,No,4
+840,Lwang Ghalel,No,No,No,No,4
+840,Lwang Ghalel,No,No,No,No,4
+840,Lwang Ghalel,No,No,No,No,4
+841,Ghale Gaun,Rina,No,No,No,4
+841,Ghale Gaun,No,No,No,No,4
+841,Ghale Gaun,No,No,No,No,4
+842,Bhujung,No,No,No,No,4
+842,Bhujung,No,No,No,No,4
+842,Bhujung,No,No,No,No,4
+843,Rainaskot,Dreamland restaurant,"Syaule Danda, Syaule Bazar 45306",4,High (~$90+),4
+843,Rainaskot,Friendship restaurant,"Unnamed Road, 33600",4.2,Low (~$10–20),4
+843,Rainaskot,Divyan Restaurant &Lunch Bar,"4C8M+78J, Tarkughat 33600",4,Medium (~$35–60),4
+844,Lamjung Himal Viewpoint,Aayan Kitchen & Guest House,"CR3C+XXH, Ghandruk 33700",3.9,High (~$90+),4
+844,Lamjung Himal Viewpoint,Namita Resturent,"9RQC+MHX, Ghandruk 33700",3.8,Low (~$10–20),4
+844,Lamjung Himal Viewpoint,hotel Himalayan Front,"9RFF+QR2, Lumle 33700",4,Medium (~$35–60),4
+845,Gorkha Bazaar,Holidays Bar & Restro,"XJXF+389 Bus Station, Abukhaireni-Gorkha Hwy, Gorkha 34000",4.1,High (~$90+),4
+845,Gorkha Bazaar,Govinda Chatpat Gorkhar,"XJXC+JX4, Gorkha 34000",4,Low (~$10–20),4
+845,Gorkha Bazaar,Juju the newa restaurant,Gorkha 34000,3.7,Medium (~$35–60),4
+846,Manakamana,Nanu’s Kitchen,"Cable Car Nepal, Cable Car, 33500",4.1,High (~$90+),4
+846,Manakamana,Q. Thakali Bhansa Ghar and Resort Pvt.Ltd,Darechok 44200,3.8,Low (~$10–20),4
+846,Manakamana,Thee GO: E-Stop- Kurintar,Darechok 44200,4,Medium (~$35–60),4
+847,Barpak,No,No,No,No,4
+847,Barpak,No,No,No,No,4
+847,Barpak,No,No,No,No,4
+848,Laprak,No,No,No,No,4
+848,Laprak,No,No,No,No,4
+848,Laprak,No,No,No,No,4
+849,Manang Bazaar,No,No,No,No,4
+849,Manang Bazaar,No,No,No,No,4
+849,Manang Bazaar,No,No,No,No,4
+850,Bhraka,Solukhumbu Sherpa Restaurant,"J3X3+P73, Bhraka 33500",4.2,High (~$90+),4
+850,Bhraka,NAMASTE RESTAURANT,"J3X3+3R4, Bhraka 33500",4.2,Low (~$10–20),4
+850,Bhraka,Peaceful Hotel,"J4X3+82J, Ngawal 33500",4.1,Medium (~$35–60),4
+851,Khangsar,Sunny restaurant,"MX9F+RHX, Khangsar 33500",4,High (~$90+),4
+851,Khangsar,Tibetan kitchen Manang,"M28F+955, Tanki Manang 33500",4.2,Low (~$10–20),4
+851,Khangsar,Annapurna Restaurant Cafe & Bar,Manang 3540,4.1,Medium (~$35–60),4
+852,Jomsom,"Beautiful THINI Restaurant, Thini","QPCG+MMC, Jomsom 33100",4,High (~$90+),4
+852,Jomsom,Solukhumbu momo restaurant,"QPMH+H53, Jomsom 33100",4,Low (~$10–20),4
+852,Jomsom,Bagaicha Cafe and Garden Restaurant,"Kali Gandaki Corridor, Jomsom 33100",4.1,Medium (~$35–60),4
+853,Lo Manthang,mount Kailash guest house and restaurant,Lo Manthang 33100,3.9,High (~$90+),4
+853,Lo Manthang,Angel Restaurant & Guest House,"6X9F+JVM, Chhoser 33100",4.2,Low (~$10–20),4
+853,Lo Manthang,Pasang Restaurant & Lodge,"Village, Dhakmar 33100",3.9,Medium (~$35–60),4
+854,Muktinath,Brothers restaurant,Muktinath 33100,4,High (~$90+),4
+854,Muktinath,Phedi Restaurant,"RV6V+X9X, Muktinath 33100",4,Low (~$10–20),4
+854,Muktinath,Pema Restaurant,"VQ2M+2R5, Kagbeni 33100",4.1,Medium (~$35–60),4
+855,Kagbeni,Pulchowk Restaurant,"QP95+VCF, Jomsom 33100",3.7,High (~$90+),4
+855,Kagbeni,Hotel Eagle Claw View Point Resturant,"QPJC+26Q, Jomsom 33100",4.2,Low (~$10–20),4
+855,Kagbeni,Himalayan Fast Food,"QPJC+JV3, F042, Jomsom 33100",4,Medium (~$35–60),4
+856,Marpha,Ramechhap sherpa momo restaurant,"QM2P+7F4, F042, Marpha 33100",4.1,High (~$90+),4
+856,Marpha,Tserok Namgyaling restaurant,"PMQM+G75, Marpha 33100",4.3,Low (~$10–20),4
+856,Marpha,Sherpa Guest House and Restaurant,"PJ6X+M98, Tukuche 33100",4.1,Medium (~$35–60),4
+857,Beni Bazaar,GGmomo,"08 Ganesh tole, Beni 33200",4.2,High (~$90+),4
+857,Beni Bazaar,Hotel chulho,"8HW8+8G5, Beni 33200",4.3,Low (~$10–20),4
+857,Beni Bazaar,Poon Nan House & Resturant,"8HW8+RW8, Beni 33200",4.3,Medium (~$35–60),4
+858,Tatopani,DONUT MOMO Restaurant,"WXW2+VC9, Kodari 45301",4.1,High (~$90+),4
+858,Tatopani,No,No,No,No,4
+858,Tatopani,No,No,No,No,4
+859,Babiyachaur,No,No,No,No,4
+859,Babiyachaur,No,No,No,No,4
+859,Babiyachaur,No,No,No,No,4
+860,Dhorpatan,Kanchhi Hotel and Restuarant,"C33G+QHM, serabang 8",4,High (~$90+),4
+860,Dhorpatan,New Badighat Dhorpatan Hotel & Restaurant,"Dhorpatan Valley, Syalpakhe 33300",3.9,Low (~$10–20),4
+860,Dhorpatan,Chhantyal Restaurant,"84W3+F5G, Devisthan 33300",3.8,Medium (~$35–60),4
+861,Devghat,No,No,No,No,4
+861,Devghat,No,No,No,No,4
+861,Devghat,No,No,No,No,4
+862,Kawasoti,Ganga Tanduri,"J4WH+QMX, Kawasoti 33000",4,High (~$90+),4
+862,Kawasoti,Manna Restaurant and Tandoori,"Rampur Highway, Devachuli 33000",4,Low (~$10–20),4
+862,Kawasoti,Gori Restaurant,"P4CM+WF, Kawasoti 33000",3.9,Medium (~$35–60),4
+863,Hupsekot,Sarina and Radhika khaja-ghar,"MXP2+7F3, Duwarda - Arunkhola Rd, Naya Belhani 33000",4.1,High (~$90+),4
+863,Hupsekot,Rabin Restaurant,"M3Q6+PX4, Danda Jhyalbas Rd, Deurali 33000",4,Low (~$10–20),4
+863,Hupsekot,Hello and Hi Restaurant,"M478+3Q, Kawasoti 33000",3.8,Medium (~$35–60),4
+864,Bandipur,The Samay Baji,"WCQ4+4VC, Bandipur 33904",4.1,High (~$90+),4
+864,Bandipur,Pratiksha Restaurant & Sweet House,Bandipur 33904,4,Low (~$10–20),4
+864,Bandipur,Bandipur Caveret Restaurant,"WCP4+R7V, Dumre-Bandipur Rd, Bandipur 33904",4.1,Medium (~$35–60),4
+865,Bhimad,KUNADHARA RESTAURANT,"X3MH+3P4, Bhimad",4.2,High (~$90+),4
+865,Bhimad,Hot & Spicy kitchen,"X3HP+326, Bimad-Rishing Patan Rd, Bhimad",4.2,Low (~$10–20),4
+865,Bhimad,Paltyang Lafa Restaurant,"X3HM+4V6, Bhimad",4.1,Medium (~$35–60),4
+866,Ghalechowk,No,No,No,No,4
+866,Ghalechowk,No,No,No,No,4
+866,Ghalechowk,No,No,No,No,4
+867,Damauli,The Maulik.,"X7PV+97Q, Byas",4,High (~$90+),4
+867,Damauli,Vistaar Restaurant,"Balmandir Line, Byas 33900",4.1,Low (~$10–20),4
+867,Damauli,Transit Restaurant Damauli,"Balmandir Line, Byas 00977",4,Medium (~$35–60),4
+868,Arjunchaupari,K.C Restaurant fedhi,"2QX2+289, Arjun Chaupari 33800",4,High (~$90+),4
+868,Arjunchaupari,Lafa Restaurant,"2QPC+WF9, Khilung Deurali 33801",4.2,Low (~$10–20),4
+868,Arjunchaupari,Danfe Food And Cafe,Darsing Dahathum 33801,4,Medium (~$35–60),4
+869,Pelkachaur,The Roadside Cafe,"The Roadside Cafe, 11 Siddhartha Rajmarg, Putalibazar 33800",4,High (~$90+),4
+869,Pelkachaur,Sunlight Restaurant and Tandoori,"3R55+QM5, H10, Putalibazar 33800",4.1,Low (~$10–20),4
+869,Pelkachaur,Raniraha restaurant,"2QXW+4FJ, H10, Putalibazar 33800",4,Medium (~$35–60),4
+870,Putalibazar,WELCOME RESTAURANT,"4V5J+GHW, Putalibazar 33800",4,High (~$90+),4
+870,Putalibazar,Simsar Cafe & Restaurant,"4V3C+MQ4, Putalibazar 33800",3.9,Low (~$10–20),4
+870,Putalibazar,Khand Restaurant,Putalibazar 33800,4,Medium (~$35–60),4
+871,Amppipal,Solti Hotel / Vandari Khaja Ghar,"3GFR+388, Palungtar",3.8,High (~$90+),4
+871,Amppipal,Tara didi khaja ghar,"3HM4+2JW, Harmi",4.2,Low (~$10–20),4
+871,Amppipal,Barabesa kadali bazaar,"3FGQ+77H, Palungtar",4,Medium (~$35–60),4
+872,Makaikhola,No,No,No,No,4
+872,Makaikhola,No,No,No,No,4
+872,Makaikhola,No,No,No,No,4
+873,Chongur (Chhyokhar),No,No,No,No,4
+873,Chongur (Chhyokhar),No,No,No,No,4
+873,Chongur (Chhyokhar),No,No,No,No,4
+874,Tangbe,No,No,No,No,4
+874,Tangbe,No,No,No,No,4
+874,Tangbe,No,No,No,No,4
+875,Majibari,No,No,No,No,4
+875,Majibari,No,No,No,No,4
+875,Majibari,No,No,No,No,4
+876,Dhakmar,Pasang Restaurant & Lodge,"Village, Dhakmar 33100",4.1,High (~$90+),4
+876,Dhakmar,No,No,No,No,4
+876,Dhakmar,No,No,No,No,4
+877,Tsarang / Charang,"The Kailash Hotel, Tsarang, Mustang, Nepal","3WVH+JQ5, Kali Gandaki Corridor, Jomsom 33100",4,High (~$90+),4
+877,Tsarang / Charang,No,No,No,No,4
+877,Tsarang / Charang,No,No,No,No,4
+878,Yara (Yara Ghara area),No,No,No,No,4
+878,Yara (Yara Ghara area),No,No,No,No,4
+878,Yara (Yara Ghara area),No,No,No,No,4
+879,Luri Gompa,No,No,No,No,4
+879,Luri Gompa,No,No,No,No,4
+879,Luri Gompa,No,No,No,No,4
+880,Chhusang,Hotel sweet dream,"WRJG+PPH, Chele Lomanthang Rd, Chhusang 33100",4,High (~$90+),4
+880,Chhusang,No,No,No,No,4
+880,Chhusang,No,No,No,No,4
+881,Lumbini Village Lesser Temples,No,No,No,No,5
+881,Lumbini Village Lesser Temples,No,No,No,No,5
+881,Lumbini Village Lesser Temples,No,No,No,No,5
+882,Tansen,Biju Restaurant,"RGVW+9VW, Tansen 32500",3.9,High (~$90+),5
+882,Tansen,Cozy Restro And Bar,"10 H, Tansen 32500",4,Low (~$10–20),5
+882,Tansen,Rambha Devi Restaurant,"VH53+CCG, Tansen 32500",4.1,Medium (~$35–60),5
+883,Khaireni Hill Viewpoint,Bhetghat khaja ghar,"WG3Q+H22, Aanbu Khaireni",4,High (~$90+),4
+883,Khaireni Hill Viewpoint,Shree Restaurant and Cafe,"WG2P+FJ9, Abukhaireni-Gorkha Hwy, Aanbu Khaireni",4.3,Low (~$10–20),4
+883,Khaireni Hill Viewpoint,Thakali Guest House & Bhancha Ghar,"WG2P+4VM, Aanbu Khaireni",4.2,Medium (~$35–60),4
+884,Dang Valley Minor Viewpoints,No,No,No,No,5
+884,Dang Valley Minor Viewpoints,No,No,No,No,5
+884,Dang Valley Minor Viewpoints,No,No,No,No,5
+885,Buddha Statue Viewpoint,No,No,No,No,5
+885,Buddha Statue Viewpoint,No,No,No,No,5
+885,Buddha Statue Viewpoint,No,No,No,No,5
+886,Majhgaon Hill Lesser Viewpoints,No,No,No,No,5
+886,Majhgaon Hill Lesser Viewpoints,No,No,No,No,5
+886,Majhgaon Hill Lesser Viewpoints,No,No,No,No,5
+887,Dang Offbeat Hilltop,No,No,No,No,5
+887,Dang Offbeat Hilltop,No,No,No,No,5
+887,Dang Offbeat Hilltop,No,No,No,No,5
+888,Jagatnagar Village,No,No,No,No,5
+888,Jagatnagar Village,No,No,No,No,5
+888,Jagatnagar Village,No,No,No,No,5
+889,Rupandehi Traditional Villages,No,No,No,No,5
+889,Rupandehi Traditional Villages,No,No,No,No,5
+889,Rupandehi Traditional Villages,No,No,No,No,5
+890,Ghodaghodi Lesser Villages,No,No,No,No,5
+890,Ghodaghodi Lesser Villages,No,No,No,No,5
+890,Ghodaghodi Lesser Villages,No,No,No,No,5
+891,Syangja Waterfall,No,No,No,No,4
+891,Syangja Waterfall,No,No,No,No,4
+891,Syangja Waterfall,No,No,No,No,4
+892,Mahendra Cave,Gring Restro and Bar,"VG6V+QP8, Tansen 32500",4,High (~$90+),4
+892,Mahendra Cave,No,No,No,No,4
+892,Mahendra Cave,No,No,No,No,4
+893,Siddha Cave,No,No,No,No,5
+893,Siddha Cave,No,No,No,No,5
+893,Siddha Cave,No,No,No,No,5
+894,Pyuthan Micro Viewpoint,No,No,No,No,5
+894,Pyuthan Micro Viewpoint,No,No,No,No,5
+894,Pyuthan Micro Viewpoint,No,No,No,No,5
+895,Pyuthan,Blue Paradise Restaurant & Bar,"3RWR+PC2, Pyuthan 22300",4,High (~$90+),5
+895,Pyuthan,Welcome Hotel&Lodge,"4V33+9PC, Pyuthan 22300",4,Low (~$10–20),5
+895,Pyuthan,The Golden Hut Family Restaurant & Cottage,Pyuthan 22311,4.1,Medium (~$35–60),5
+896,Bardiya,Karuwa Restaurant & Bar,"F62V+FJR, Thakudwara 21800",4,High (~$90+),5
+896,Bardiya,The Food Restaurant & Bar,"J7RH+GJ7, Chisapani 21800",4.2,Low (~$10–20),5
+896,Bardiya,Khanena Restaurant & Family Bar,"G4MC+3M, 1 Hospital road, Tikapur 10901",4,Medium (~$35–60),5
+897,Dang,Karahi Event Spot,"479V+CH5, Tulsipur 22412",3.8,High (~$90+),5
+897,Dang,Rostar restaurant,"48GJ+JG3, Tulsipur 22412",3.9,Low (~$10–20),5
+897,Dang,Dovan Restaurant,"48P2+5QQ, Tulsipur 22412",4,Medium (~$35–60),5
+898,Kothi River,No,No,No,No,5
+898,Kothi River,No,No,No,No,5
+898,Kothi River,No,No,No,No,5
+899,Gaidahawa Lake,No,No,No,No,5
+899,Gaidahawa Lake,No,No,No,No,5
+899,Gaidahawa Lake,No,No,No,No,5
+900,Kothi Minor Temples,No,No,No,No,5
+900,Kothi Minor Temples,No,No,No,No,5
+900,Kothi Minor Temples,No,No,No,No,5
+901,Ghodaghodi Lake,No,No,No,No,5
+901,Ghodaghodi Lake,No,No,No,No,5
+901,Ghodaghodi Lake,Hangout cafe,Dhangadi 10900,4.2,Medium (~$35–60),5
+902,Devdaha Ancient Monuments Minor Sites,No,No,No,No,5
+902,Devdaha Ancient Monuments Minor Sites,No,No,No,No,5
+902,Devdaha Ancient Monuments Minor Sites,No,No,No,No,5
+903,Tansen Lesser Waterfalls,No,No,No,No,5
+903,Tansen Lesser Waterfalls,No,No,No,No,5
+903,Tansen Lesser Waterfalls,No,No,No,No,5
+904,Arghakhanchi,No,No,No,No,5
+904,Arghakhanchi,No,No,No,No,5
+904,Arghakhanchi,No,No,No,No,5
+905,Kapilvastu,New Paudel Restaurant,"G3R2+W9, Kapilvastu 32800",4,High (~$90+),5
+905,Kapilvastu,Luscious Lounge & Restro,"h335+5g4, Kapilvastu 32800",4,Low (~$10–20),5
+905,Kapilvastu,No,No,No,No,5
+906,Rupandehi,No,No,No,No,5
+906,Rupandehi,No,No,No,No,5
+906,Rupandehi,No,No,No,No,5
+907,Palpa (Tansen),Biju Restaurant,"RGVW+9VW, Tansen 32500",4,Low (~$10–20),5
+907,Palpa (Tansen),Cozy Restro And Bar,"10 H, Tansen 32500",4.2,Medium (~$25–50),5
+907,Palpa (Tansen),Rambha Devi Restaurant,"VH53+CCG, Tansen 32500",4.3,High (~$75+),5
+908,Bardiya Tiny Shrine (Bardiya area),No,No,No,No,5
+908,Bardiya Tiny Shrine (Bardiya area),No,No,No,No,5
+908,Bardiya Tiny Shrine (Bardiya area),No,No,No,No,5
+909,Dang Minor Temple (Dang district),No,No,No,No,5
+909,Dang Minor Temple (Dang district),No,No,No,No,5
+909,Dang Minor Temple (Dang district),No,No,No,No,5
+910,Siddha Baba Temple (Butwal area),No,No,No,No,5
+910,Siddha Baba Temple (Butwal area),No,No,No,No,5
+910,Siddha Baba Temple (Butwal area),No,No,No,No,5
+911,Tila Village (Rupandehi rural tourism example),No,No,No,No,5
+911,Tila Village (Rupandehi rural tourism example),No,No,No,No,5
+911,Tila Village (Rupandehi rural tourism example),No,No,No,No,5
+912,Rupandehi Cultural Sites (Siddharthanagar),No,No,No,No,5
+912,Rupandehi Cultural Sites (Siddharthanagar),No,No,No,No,5
+912,Rupandehi Cultural Sites (Siddharthanagar),No,No,No,No,5
+913,Kapilvastu (Tilaurakot),New Paudel Restaurant,"G3R2+W9, Kapilvastu 32800",4,Low (~$10–20),5
+913,Kapilvastu (Tilaurakot),Luscious Lounge & Restro,"h335+5g4, Kapilvastu 32800",4.2,Medium (~$30–50),5
+913,Kapilvastu (Tilaurakot),No,No,No,No,5
+914,Bardiya National Park,Karuwa Restaurant & Bar,"F62V+FJR, Thakudwara 21800",4.1,Low (~$15–25),5
+914,Bardiya National Park,The Food Restaurant & Bar,"J7RH+GJ7, Chisapani 21800",4,Medium (~$40–70),5
+914,Bardiya National Park,Khanena Restaurant & Family Bar,"G4MC+3M, 1 Hospital road, Tikapur 10901",4,High (~$120–200),5
+915,Tansen (Palpa),Biju Restaurant,"RGVW+9VW, Tansen 32500",4,Low (~$10–20),5
+915,Tansen (Palpa),Cozy Restro And Bar,"10 H, Tansen 32500",4.5,Medium (~$30–60),5
+915,Tansen (Palpa),Rambha Devi Restaurant,"VH53+CCG, Tansen 32500",4.1,High (~$80–120),5
+916,Lumbini (Mayadevi Temple),Bhaktapure Newari Chulo & Sekuwa Corner Lumbini,Lumbini Sanskritik 32900,4.2,Low (~$15–25),5
+916,Lumbini (Mayadevi Temple),The Doko Restaurant & Bar,"F7CM+4H5, Lumbini Sanskritik 32900",4,Medium (~$40–60),5
+916,Lumbini (Mayadevi Temple),Special Thakali Kitchen Nischal Restaurant,Lumbini Sanskritik 32900,4.1,High (~$100–180),5
+917,Lumbini Sacred Garden,No,No,No,No,5
+917,Lumbini Sacred Garden,No,No,No,No,5
+917,Lumbini Sacred Garden,No,No,No,No,5
+918,Ramgram Stupa,No,No,No,No,5
+918,Ramgram Stupa,No,No,No,No,5
+918,Ramgram Stupa,No,No,No,No,5
+919,Devdaha Minor Monuments,No,No,No,No,5
+919,Devdaha Minor Monuments,No,No,No,No,5
+919,Devdaha Minor Monuments,No,No,No,No,5
+920,Lumbini (general),No,No,No,No,5
+920,Lumbini (general),No,No,No,No,5
+920,Lumbini (general),No,No,No,No,5
+921,Majhgaon Waterfall,No,No,No,No,5
+921,Majhgaon Waterfall,No,No,No,No,5
+921,Majhgaon Waterfall,No,No,No,No,5
+922,Tilaurakot Palace Ruins,No,No,No,No,5
+922,Tilaurakot Palace Ruins,No,No,No,No,5
+922,Tilaurakot Palace Ruins,No,No,No,No,5
+923,Chitwan Riverbank Minor Spots (assume near Chitwan but still in Lumbini Province border),No,No,No,No,5
+923,Chitwan Riverbank Minor Spots,No,No,No,No,5
+923,Chitwan Riverbank Minor Spots,No,No,No,No,5
+924,Barahi Temple (assuming area in Bardiya or Lumbini region),No,No,No,No,5
+924,Barahi Temple,No,No,No,No,5
+924,Barahi Temple,No,No,No,No,5
+925,"Tinau River (Butwal area, riverside)",Ghimire Nasta Pasal,"JC38+VMQ, Sauraha Pharsatikar 32900",4,Low (~$15-25),5
+925,Tinau River,Tinau Restaurant,"Amuwa, Butwal",4,Medium (~$30-55),5
+925,Tinau River,Restaurant,"JC6C+V35, Sauraha Pharsatikar 32900",4,High (~$70+),5
+926,Butwal Cultural Area,No,No,No,No,5
+926,Butwal Cultural Area,No,No,No,No,5
+926,Butwal Cultural Area,No,No,No,No,5
+927,Maya Devi Temple,Bhaktapure Newari Chulo & Sekuwa Corner Lumbini,Lumbini Sanskritik 32900,4,Low (~$20-30),5
+927,Maya Devi Temple,The Doko Restaurant & Bar,"F7CM+4H5, Lumbini Sanskritik 32900",3.9,Medium (~$35-60),5
+927,Maya Devi Temple,Special Thakali Kitchen Nischal Restaurant,Lumbini Sanskritik 32900,4,High (~$150+),5
+928,Puskarni Pond (Sacred Garden),No,No,No,No,5
+928,Puskarni Pond,No,No,No,No,5
+928,Puskarni Pond,No,No,No,No,5
+929,Arghakhanchi,No,No,No,No,5
+929,Arghakhanchi,No,No,No,No,5
+929,Arghakhanchi,No,No,No,No,5
+930,Barahi Temple,No,No,No,No,5
+930,Barahi Temple,No,No,No,No,5
+930,Barahi Temple,No,No,No,No,5
+931,Bardiya,Karuwa Restaurant & Bar,"F62V+FJR, Thakudwara 21800",4,Low (~$20-30),5
+931,Bardiya,The Food Restaurant & Bar,"J7RH+GJ7, Chisapani 21800",3.9,Medium (~$40-70),5
+931,Bardiya,Khanena Restaurant & Family Bar,"G4MC+3M, 1 Hospital road, Tikapur 10901",4,High (~$100+),5
+932,Bardiya National Park,Karuwa Restaurant & Bar,"F62V+FJR, Thakudwara 21800",4.1,Low (~$20-35),5
+932,Bardiya National Park,The Food Restaurant & Bar,"J7RH+GJ7, Chisapani 21800",4,Medium (~$40-80),5
+932,Bardiya National Park,Khanena Restaurant & Family Bar,"G4MC+3M, 1 Hospital road, Tikapur 10901",4,High (~$120+),5
+933,Bardiya Tiny Shrine,No,No,No,No,5
+933,Bardiya Tiny Shrine,No,No,No,No,5
+933,Bardiya Tiny Shrine,No,No,No,No,5
+934,Buddha Statue Viewpoint,No,No,No,No,5
+934,Buddha Statue Viewpoint,No,No,No,No,5
+934,Buddha Statue Viewpoint,No,No,No,No,5
+935,Butwal Cultural Area,No,No,No,No,5
+935,Butwal Cultural Area,No,No,No,No,5
+935,Butwal Cultural Area,No,No,No,No,5
+936,Chitwan Riverbank Minor Spots,No,No,No,No,5
+936,Chitwan Riverbank Minor Spots,No,No,No,No,5
+936,Chitwan Riverbank Minor Spots,No,No,No,No,5
+937,Dang,Karahi Event Spot,"479V+CH5, Tulsipur 22412",3.9,Low (~$15-25),5
+937,Dang,Rostar restaurant,"48GJ+JG3, Tulsipur 22412",4,Medium (~$30-50),5
+937,Dang,Dovan Restaurant,"48P2+5QQ, Tulsipur 22412",4.2,High (~$70+),5
+938,Dang Minor Temple,No,No,No,No,5
+938,Dang Minor Temple,No,No,No,No,5
+938,Dang Minor Temple,No,No,No,No,5
+939,Dang Offbeat Hilltop,No,No,No,No,5
+939,Dang Offbeat Hilltop,No,No,No,No,5
+939,Dang Offbeat Hilltop,No,No,No,No,5
+940,Dang Valley Minor Viewpoints,No,No,No,No,5
+940,Dang Valley Minor Viewpoints,No,No,No,No,5
+940,Dang Valley Minor Viewpoints,No,No,No,No,5
+941,Devdaha Ancient Monuments Minor Sites,No,No,No,No,5
+941,Devdaha Ancient Monuments Minor Sites,No,No,No,No,5
+941,Devdaha Ancient Monuments Minor Sites,No,No,No,No,5
+942,Devdaha Minor Monuments,No,No,No,No,5
+942,Devdaha Minor Monuments,No,No,No,No,5
+942,Devdaha Minor Monuments,No,No,No,No,5
+943,Gaidahawa Lake,No,No,No,No,5
+943,Gaidahawa Lake,No,No,No,No,5
+943,Gaidahawa Lake,No,No,No,No,5
+944,Ghodaghodi Lake,No,No,No,No,5
+944,Ghodaghodi Lake,No,No,No,No,5
+944,Ghodaghodi Lake,No,No,No,No,5
+945,Ghodaghodi Lesser Villages,No,No,No,No,7
+945,Ghodaghodi Lesser Villages,No,No,No,No,7
+945,Ghodaghodi Lesser Villages,No,No,No,No,7
+946,Jagatnagar Village,No,No,No,No,5
+946,Jagatnagar Village,No,No,No,No,5
+946,Jagatnagar Village,No,No,No,No,5
+947,Kapilvastu ,New Paudel Restaurant,"G3R2+W9, Kapilvastu 32800",4.2,Low (~$15‑25),5
+947,Kapilvastu ,Luscious Lounge & Restro,"h335+5g4, Kapilvastu 32800",3.9,Medium (~$30‑55),5
+947,Kapilvastu ,No,No,No,No,5
+948,Tilaurakot (in Kapilvastu),No,No,No,No,5
+948,Tilaurakot (Kapilvastu),No,No,No,No,5
+948,Tilaurakot (Kapilvastu),No,No,No,No,5
+949,Khaireni Hill Viewpoint,No,No,No,No,5
+949,Khaireni Hill Viewpoint,No,No,No,No,5
+949,Khaireni Hill Viewpoint,No,No,No,No,5
+950,Kothi Minor Temples,No,No,No,No,5
+950,Kothi Minor Temples,No,No,No,No,5
+950,Kothi Minor Temples,No,No,No,No,5
+951,Kothi River,No,No,No,No,5
+951,Kothi River,No,No,No,No,5
+951,Kothi River,No,No,No,No,5
+952,Lumbini (general),No,No,No,No,5
+952,Lumbini (general),No,No,No,No,5
+952,Lumbini (general),No,No,No,No,5
+953,Lumbini Sacred Garden,No,No,No,No,5
+953,Lumbini Sacred Garden,No,No,No,No,5
+953,Lumbini Sacred Garden,No,No,No,No,5
+954,Lumbini Village Lesser Temples,No,No,No,No,5
+954,Lumbini Village Lesser Temples,No,No,No,No,5
+954,Lumbini Village Lesser Temples,No,No,No,No,5
+955,Mahendra Cave,No,No,No,No,5
+955,Mahendra Cave,No,No,No,No,5
+955,Mahendra Cave,No,No,No,No,5
+956,Majhgaon Hill Lesser Viewpoints,No,No,No,No,5
+956,Majhgaon Hill Lesser Viewpoints,No,No,No,No,5
+956,Majhgaon Hill Lesser Viewpoints,No,No,No,No,5
+957,Majhgaon Waterfall,No,No,No,No,5
+957,Majhgaon Waterfall,No,No,No,No,5
+957,Majhgaon Waterfall,No,No,No,No,5
+958,Maya Devi Temple,Bhaktapure Newari Chulo & Sekuwa Corner Lumbini,Lumbini Sanskritik 32900,3.9,Low (~$20–30),5
+958,Maya Devi Temple,The Doko Restaurant & Bar,"F7CM+4H5, Lumbini Sanskritik 32900",4,Medium (~$35–60),5
+958,Maya Devi Temple,Special Thakali Kitchen Nischal Restaurant,Lumbini Sanskritik 32900,4.2,High (~$150+),5
+959,Palpa,No,No,No,No,5
+959,Palpa,No,No,No,No,5
+959,Palpa,No,No,No,No,5
+960,Puskharni Pond,No,No,No,No,5
+960,Puskharni Pond,No,No,No,No,5
+960,Puskharni Pond,No,No,No,No,5
+961,Ramgram Stupa,The Haveli Restaurant,Ramgram 33007,4,Low (~$15–25),5
+961,Ramgram Stupa,No,No,No,No,5
+961,Ramgram Stupa,No,No,No,No,5
+962,Rupa Lake,No,No,No,No,5
+962,Rupa Lake,No,No,No,No,5
+962,Rupa Lake,No,No,No,No,5
+963,Rupandehi,No,No,No,No,5
+963,Rupandehi,No,No,No,No,5
+963,Rupandehi,No,No,No,No,5
+964,Rupandehi Cultural Sites (Siddharthanagar),No,No,No,No,5
+964,Rupandehi Cultural Sites,No,No,No,No,5
+964,Rupandehi Cultural Sites,No,No,No,No,5
+965,Rupandehi Traditional Villages,No,No,No,No,5
+965,Rupandehi Traditional Villages,No,No,No,No,5
+965,Rupandehi Traditional Villages,No,No,No,No,5
+966,Siddha Baba Temple (Butwal area),No,No,No,No,5
+966,Siddha Baba Temple,No,No,No,No,5
+966,Siddha Baba Temple,No,No,No,No,5
+967,Siddha Cave,No,No,No,No,5
+967,Siddha Cave,No,No,No,No,5
+967,Siddha Cave,No,No,No,No,5
+968,Syangja Waterfall,No,No,No,No,5
+968,Syangja Waterfall,No,No,No,No,5
+968,Syangja Waterfall,No,No,No,No,5
+969,Tansen,Rambha Devi Restaurant,"VH53+CCG, Tansen 32500",4.2,Low (~$15–25),5
+969,Tansen,Biju Restaurant,"RGVW+9VW, Tansen 32500",3.9,Medium (~$30–60),5
+969,Tansen,No,No,No,No,5
+970,Tansen Lesser Waterfalls,No,No,No,No,5
+970,Tansen Lesser Waterfalls,No,No,No,No,5
+970,Tansen Lesser Waterfalls,No,No,No,No,5
+971,Tila Village (Rupandehi rural tourism example),No,No,No,No,5
+971,Tila Village,No,No,No,No,5
+971,Tila Village,No,No,No,No,5
+972,Tilaurakot Palace Ruins,No,No,No,No,5
+972,Tilaurakot Palace Ruins,No,No,No,No,5
+972,Tilaurakot Palace Ruins,No,No,No,No,5
+973,Tinau River,Ghimire Nasta Pasal,"JC38+VMQ, Sauraha Pharsatikar 32900",4.3,Mid: $25–$45,5
+973,Tinau River,Tinau Restaurant,"Amuwa, Butwal",4,Low: $12–$25,5
+973,Tinau River,Restaurant,"JC6C+V35, Sauraha Pharsatikar 32900",4.4,High: $40–$70,5
+974,Kamal Pokhari,No,No,No,No,5
+974,Kamal Pokhari,No,No,No,No,5
+974,Kamal Pokhari,No,No,No,No,5
+975,Kamal Dah,No,No,No,No,5
+975,Kamal Dah,No,No,No,No,5
+975,Kamal Dah,No,No,No,No,5
+976,Deurali Cave,No,No,No,No,5
+976,Deurali Cave,No,No,No,No,5
+976,Deurali Cave,No,No,No,No,5
+977,Jogidanda,No,No,No,No,5
+977,Jogidanda,No,No,No,No,5
+977,Jogidanda,No,No,No,No,5
+978,Rangsi,No,No,No,No,5
+978,Rangsi,No,No,No,No,5
+978,Rangsi,No,No,No,No,5
+979,Jang,No,No,No,No,5
+979,Jang,No,No,No,No,5
+979,Jang,No,No,No,No,5
+980,Hukam,No,No,No,No,5
+980,Hukam,No,No,No,No,5
+980,Hukam,No,No,No,No,5
+981,Sundah,No,No,No,No,5
+981,Sundah,No,No,No,No,5
+981,Sundah,No,No,No,No,5
+982,Sisne,No,No,No,No,5
+982,Sisne,No,No,No,No,5
+982,Sisne,No,No,No,No,5
+983,Thawang,No,No,No,No,5
+983,Thawang,No,No,No,No,5
+983,Thawang,No,No,No,No,5
+984,Rujikhola,No,No,No,No,5
+984,Rujikhola,No,No,No,No,5
+984,Rujikhola,No,No,No,No,5
+985,Naribang,No,No,No,No,5
+985,Naribang,No,No,No,No,5
+985,Naribang,No,No,No,No,5
+986,Tulsipur,Meet & Eat Restaurant,Sakura road,4.3,Mid: $25–$45,5
+986,Tulsipur,Good Luck Restaurant,"H 11, Tulsipur 22412",4.2,Low: $12–$25,5
+986,Tulsipur,Cloud The Family Restaurant,"Corner, chowk Kha Line, Tulsipur 22412",4.3,High: $40–$70,5
+987,Beljhundi,Radisson,Bijauri 22412,4.3,Mid: $25–$45,5
+987,Beljhundi,Hem Jyoti Cottage,Bijauri 22412,4.4,Low: $12–$25,5
+987,Beljhundi,Sandhya khaja ghar and restaurant,"485W+J7G, Bijauri 22412",4.2,High: $40–$70,5
+988,Dudhras,No,No,No,No,5
+988,Dudhras,No,No,No,No,5
+988,Dudhras,No,No,No,No,5
+989,Khaira,No,No,No,No,5
+989,Khaira,No,No,No,No,5
+989,Khaira,No,No,No,No,5
+990,Bangaun,No,No,No,No,5
+990,Bangaun,No,No,No,No,5
+990,Bangaun,No,No,No,No,5
+991,Narayanpur,No,No,No,No,5
+991,Narayanpur,No,No,No,No,5
+991,Narayanpur,No,No,No,No,5
+992,Nayagaun,No,No,No,No,5
+992,Nayagaun,No,No,No,No,5
+992,Nayagaun,No,No,No,No,5
+993,Okharkot,No,No,No,No,5
+993,Okharkot,No,No,No,No,5
+993,Okharkot,No,No,No,No,5
+994,Bandikot,Anzila fast food cottage,"42WG+QG9, Bandikot 22300",4.4,Mid: $25–$45,5
+994,Bandikot,Purkot daha,"43R7+J59, Purkotdaha 32600",4.2,Low: $12–$25,5
+994,Bandikot,Amrita restaurant,"42FG+89F, Wangemarkot 22300",4.3,High: $40–$70,5
+995,Mayalpokhari,No,No,No,No,5
+995,Mayalpokhari,No,No,No,No,5
+995,Mayalpokhari,No,No,No,No,5
+996,Sirseni,No,No,No,No,5
+996,Sirseni,No,No,No,No,5
+996,Sirseni,No,No,No,No,5
+997,Dhamir,No,No,No,No,5
+997,Dhamir,No,No,No,No,5
+997,Dhamir,No,No,No,No,5
+998,Arje,No,No,No,No,5
+998,Arje,No,No,No,No,5
+998,Arje,No,No,No,No,5
+999,Chhapahile,No,No,No,No,5
+999,Chhapahile,No,No,No,No,5
+999,Chhapahile,No,No,No,No,5
+1000,Neta,Jackson restaurant khaular,"66QF+P75, Heel 32600",4.3,Mid: $25–$45,5
+1000,Neta,Manisha hotel & khaja ghar,"66QF+6J9, Heel 32600",4.4,Low: $12–$25,5
+1000,Neta,No,No,No,No,5
+1001,Gwalichaur,River point restaurant,"Burtibang Rd, 32600",4.3,Mid: $25–$45,5
+1001,Gwalichaur,No,No,No,No,5
+1001,Gwalichaur,No,No,No,No,5
+1002,Malagiri,No,No,No,No,5
+1002,Malagiri,No,No,No,No,5
+1002,Malagiri,No,No,No,No,5
+1003,Narikot,No,No,No,No,5
+1003,Narikot,No,No,No,No,5
+1003,Narikot,No,No,No,No,5
+1004,Majhakot,No,No,No,No,5
+1004,Majhakot,No,No,No,No,5
+1004,Majhakot,No,No,No,No,5
+1005,Loharpani,Bijay hotel and restaurant,"2J4H+V75, Loharpani 22400",4.3,Mid: $25–$45,5
+1005,Loharpani,No,No,No,No,5
+1005,Loharpani,No,No,No,No,5
+1006,Syuja,No,No,No,No,5
+1006,Syuja,No,No,No,No,5
+1006,Syuja,No,No,No,No,5
+1007,Tripur,No,No,No,No,5
+1007,Tripur,No,No,No,No,5
+1007,Tripur,No,No,No,No,5
+1008,Manpur,No,No,No,No,5
+1008,Manpur,No,No,No,No,5
+1008,Manpur,No,No,No,No,5
+1009,Phulbari,Chaudhary Restaurant,"11 H, Phulbari 22412",3.9,Mid: $25–$45,5
+1009,Phulbari,River Side Khaja Ghar,"11 H, Tulsipur 22412",4,Low: $12–$25,5
+1009,Phulbari,Fulbari Katej,"शितलपुर - गोलताकुरी सडक, Phulbari 22412",4.2,High: $40–$70,5
+1010,Goltakuri,No,No,No,No,5
+1010,Goltakuri,No,No,No,No,5
+1010,Goltakuri,No,No,No,No,5
+1011,Bejapur,No,No,No,No,5
+1011,Bejapur,No,No,No,No,5
+1011,Bejapur,No,No,No,No,5
+1012,Narainapur,No,No,No,No,5
+1012,Narainapur,No,No,No,No,5
+1012,Narainapur,No,No,No,No,5
+1013,Matahiya,No,No,No,No,5
+1013,Matahiya,No,No,No,No,5
+1013,Matahiya,No,No,No,No,5
+1014,Gangapur,No,No,No,No,5
+1014,Gangapur,No,No,No,No,5
+1014,Gangapur,No,No,No,No,5
+1015,Holiya,No,No,No,No,5
+1015,Holiya,No,No,No,No,5
+1015,Holiya,No,No,No,No,5
+1016,Betahani,Rapti restaurant,"Puraina - Betahani Rd, Betahani 21900",4,Mid: $25–$45,5
+1016,Betahani,No,No,No,No,5
+1016,Betahani,No,No,No,No,5
+1017,Puraina,No,No,No,No,5
+1017,Puraina,No,No,No,No,5
+1017,Puraina,No,No,No,No,5
+1018,Nepalgunj,The Brothers Restaurant,"3J28+JCG Setu BK Chowk, Nepalgunj 21900",4.2,Mid: $25–$45,5
+1018,Nepalgunj,BARAHSINGHE,"Ratna Rajmarg H12 (Nepalganj-Surkhet Road), Nepalgunj 21900",3.9,Low: $12–$25,5
+1018,Nepalgunj,Himalayan Bites & Brews (Restaurant & Cafe),"Himalayan Bites & Brews, New Rd, Nepalgunj 21900",4,High: $40–$70,5
+1019,Kalika,No,No,No,No,5
+1019,Kalika,No,No,No,No,5
+1019,Kalika,No,No,No,No,5
+1020,Munalbasti,No,No,No,No,5
+1020,Munalbasti,No,No,No,No,5
+1020,Munalbasti,No,No,No,No,5
+1021,Ganeshpur,No,No,No,No,5
+1021,Ganeshpur,No,No,No,No,5
+1021,Ganeshpur,No,No,No,No,5
+1022,Mahamadpur,No,No,No,No,5
+1022,Mahamadpur,No,No,No,No,5
+1022,Mahamadpur,No,No,No,No,5
+1023,Gulariya,Lotus Garden/Hotel/Restaurant/Nepali Thali/Food,"Behind Karnali Bank, Gulariya",4.2,Mid: $25–$45,5
+1023,Gulariya,Madhu Sudhan Leg Peice restaurant,"67XW+4W7, Gulariya 21800",4.2,Low: $12–$25,5
+1023,Gulariya,Pokheral Leg Piece Centre,"Gulariya -1, Khairapur",4,High: $40–$70,5
+1024,Aashapur Pakadia,No,No,No,No,5
+1024,Aashapur Pakadia,No,No,No,No,5
+1024,Aashapur Pakadia,No,No,No,No,5
+1025,Bansagadhi,Janabhawana Cafe and Restaurant,"6GV8+RCM, Bansagadhi 21800",4.3,Low: $10–$20,5
+1025,Bansagadhi,LakeSide Restaurant and Sekuwa Corner,Bansagadhi 21800,4,Mid: $25–$45,5
+1025,Bansagadhi,Pahuna Restaurant and Lodge,"Mahendra Hwy, 21800",4.4,High: $70–$120,5
+1026,Baniyabhar,No,No,No,No,5
+1026,Baniyabhar,No,No,No,No,5
+1026,Baniyabhar,No,No,No,No,5
+1027,Padanaha,No,No,No,No,5
+1027,Padanaha,No,No,No,No,5
+1027,Padanaha,No,No,No,No,5
+1028,Bela,No,No,No,No,5
+1028,Bela,No,No,No,No,5
+1028,Bela,No,No,No,No,5
+1029,Dhodhari,Daiko momo bar,"87R8+4VG, Sanoshree Taratal 21800",4.2,Mid: $25–$45,5
+1029,Dhodhari,No,No,No,No,5
+1029,Dhodhari,No,No,No,No,5
+1030,Suryapatawa,No,No,No,No,5
+1030,Suryapatawa,No,No,No,No,5
+1030,Suryapatawa,No,No,No,No,5
+1031,Khairi Chandanpur,Ichha hotel,"95GV+RXG, Khairi Chandanpur 21800",4.2,Mid: $25–$45,5
+1031,Khairi Chandanpur,Hamro Mijhini Ghar,"95MR+X55, Khairi Chandanpur 21800",3.9,Low: $12–$25,5
+1031,Khairi Chandanpur,ANUJ NASTA PASAL,"95QM+V53, Rajapur 21800",4,High: $40–$70,5
+1032,Manau,No,No,No,No,5
+1032,Manau,No,No,No,No,5
+1032,Manau,No,No,No,No,5
+1033,Kohalpur,Bhandari restaurant,Kohalpur 11,4.2,Mid: $25–$45,5
+1033,Kohalpur,Aroma Restro & Bar,"5MXP+53P, Kohalpur 21904",3.9,Low: $12–$25,5
+1033,Kohalpur,GOOD DAYS,"Bheri Seet Bhandar, Medical College Road, Kohalpur 21904",4,High: $40–$70,5
+1034,Babai,Bipin nasta pasal,"Bipin nasta pasal, Bansagadhi 21800",4.2,Mid: $25–$45,5
+1034,Babai,charbany chok,"9P38+V53, Bansagadhi 21800",3.9,Low: $12–$25,5
+1034,Babai,chaurjahari kc hotel,"9P47+9MX, Bansagadhi 21800",4,High: $40–$70,5
+1035,Kabhrechaur,No,No,No,No,5
+1035,Kabhrechaur,No,No,No,No,5
+1035,Kabhrechaur,No,No,No,No,5
+1036,Sahare,No,No,No,No,5
+1036,Sahare,No,No,No,No,5
+1036,Sahare,No,No,No,No,5
+1037,Dasarathpur,No,No,No,No,5
+1037,Dasarathpur,No,No,No,No,5
+1037,Dasarathpur,No,No,No,No,5
+1038,Ramghat,No,No,No,No,5
+1038,Ramghat,No,No,No,No,5
+1038,Ramghat,No,No,No,No,5
+1039,Satakhani,New Fishtail Cottage and restaurent,"GQ8H+XFP, Dashrathpur 21700",4.3,Mid: $25–$45,5
+1039,Satakhani,chhantel hotel ,"GP9J+7M3, Satakhani 21700",4,Low: $12–$25,5
+1039,Satakhani,No,No,No,No,5
+1040,Uttarganga,No,No,No,No,5
+1040,Uttarganga,No,No,No,No,5
+1040,Uttarganga,No,No,No,No,5
+1041,Hariharpur,No,No,No,No,5
+1041,Hariharpur,No,No,No,No,5
+1041,Hariharpur,No,No,No,No,5
+1042,Ranighat,No,No,No,No,5
+1042,Ranighat,No,No,No,No,5
+1042,Ranighat,No,No,No,No,5
+1043,Sunwal,Khursani Restaurant & Bar Sunwal,"JJ5P+5QM Turiya bridge & Lumbini Sugar Mill, E - W Hwy, Near Turiya Bridge, Sunwal-4 Near, Sunwal 33000",4.2,Mid: $25–$45,5
+1043,Sunwal,No,No,No,No,5
+1043,Sunwal,No,No,No,No,5
+1044,Siddharthanagar,Annapurna Heritage Restaurant and banquet pvt.ltd,Siddharthanagar 00977,4.5,Mid: $25–$45,5
+1044,Siddharthanagar,New Palpa Restaurant,"Kalikasthan-12, Siddharthanagar 32900",4.2,Low: $12–$25,5
+1044,Siddharthanagar,"Santosh Fish Restaurant, Bhairahawa","GF44+6QG, Siddharthanagar 32900",4.3,High: $40–$70,5
+1045,Bisunpura,Gopal Restaurant,"Unnamed Road, Bisunpura 32900",4.2,Mid: $25–$45,5
+1045,Bisunpura,Food Restaurant,"H8C2+5QM, Sainamaina 32900",3.9,Low: $12–$25,5
+1045,Bisunpura,New Bishal Restaurant And Lodge,Bisunpura 32900,4,High: $40–$70,5
+1046,Rudrapur,No,No,No,No,5
+1046,Rudrapur,No,No,No,No,5
+1046,Rudrapur,No,No,No,No,5
+1047,Balarampur,No,No,No,No,5
+1047,Balarampur,No,No,No,No,5
+1047,Balarampur,No,No,No,No,5
+1048,Limi,No,No,No,No,6
+1048,Limi,No,No,No,No,6
+1048,Limi,No,No,No,No,6
+1049,Hepka,No,No,No,No,6
+1049,Hepka,No,No,No,No,6
+1049,Hepka,No,No,No,No,6
+1050,Muchu,No,No,No,No,6
+1050,Muchu,No,No,No,No,6
+1050,Muchu,No,No,No,No,6
+1051,Simikot,Sim Valley Hotel and cafe,"XRC9+WGW, Simikot 21000",4.2,Mid: $25–$45,6
+1051,Simikot,Sanibar,Simkot-4,4.2,Low: $12–$25,6
+1051,Simikot,Highland Roadhouse,"XRPM+G89, Simikot 21000",4,High: $40–$70,6
+1052,Raha,No,No,No,No,6
+1052,Raha,No,No,No,No,6
+1052,Raha,No,No,No,No,6
+1053,Bhandarlek,No,No,No,No,6
+1053,Bhandarlek,No,No,No,No,6
+1053,Bhandarlek,No,No,No,No,6
+1054,Kharpunath,No,No,No,No,6
+1054,Kharpunath,No,No,No,No,6
+1054,Kharpunath,No,No,No,No,6
+1055,Mangri,No,No,No,No,6
+1055,Mangri,No,No,No,No,6
+1055,Mangri,No,No,No,No,6
+1056,Mugu,No,No,No,No,6
+1056,Mugu,No,No,No,No,6
+1056,Mugu,No,No,No,No,6
+1057,Shreenagar,Gopal Home and Hotel,"G5X4+5V2 ward no 8 jhayari, Shreenagar 21100",4.2,Mid: $25–$45,6
+1057,Shreenagar,No,No,No,No,6
+1057,Shreenagar,No,No,No,No,6
+1058,Maila,No,No,No,No,6
+1058,Maila,No,No,No,No,6
+1058,Maila,No,No,No,No,6
+1059,Birat,No,No,No,No,6
+1059,Birat,No,No,No,No,6
+1059,Birat,No,No,No,No,6
+1060,Kalai,No,No,No,No,6
+1060,Kalai,No,No,No,No,6
+1060,Kalai,No,No,No,No,6
+1061,Rara,No,No,No,No,6
+1061,Rara,No,No,No,No,6
+1061,Rara,No,No,No,No,6
+1062,Chandannath,Hotel khadka ji,"Tudikhel, Chamdannath -6, Chandannath 21200",4,Mid: $25–$45,6
+1062,Chandannath,Hotel mountain rooftop,"75GM+43J, Chandannath 21200",4.5,Low: $12–$25,6
+1062,Chandannath,SIDDHARTHA HOTEL AND LODGE,"4 marga, Chandannath 21200",4.1,High: $40–$70,6
+1063,Shey Phoksundo NP,No,No,No,No,6
+1063,Shey Phoksundo NP,No,No,No,No,6
+1063,Shey Phoksundo NP,No,No,No,No,6
+1064,Kanjeralwa,No,No,No,No,6
+1064,Kanjeralwa,No,No,No,No,6
+1064,Kanjeralwa,No,No,No,No,6
+1065,Phoksundo,No,No,No,No,6
+1065,Phoksundo,No,No,No,No,6
+1065,Phoksundo,No,No,No,No,6
+1066,Dho,No,No,No,No,6
+1066,Dho,No,No,No,No,6
+1066,Dho,No,No,No,No,6
+1067,Lawan,No,No,No,No,6
+1067,Lawan,No,No,No,No,6
+1067,Lawan,No,No,No,No,6
+1068,Jufai,No,No,No,No,6
+1068,Jufai,No,No,No,No,6
+1068,Jufai,No,No,No,No,6
+1069,Dunai,Rabin Budha,Dunai 21400,4.2,Mid: $25–$45,6
+1069,Dunai,Hotel Murmur and Garden Restaurant,"Mool Baato, Dunai 21400",4,Low: $12–$25,6
+1069,Dunai,OJMAN RESTAURANT,"XV2V+WWJ, Mool Baato, Dunai 21400",4.1,High: $40–$70,6
+1070,Hiunchuli,No,No,No,No,6
+1070,Hiunchuli,No,No,No,No,6
+1070,Hiunchuli,No,No,No,No,6
+1071,Sakala,No,No,No,No,6
+1071,Sakala,No,No,No,No,6
+1071,Sakala,No,No,No,No,6
+1072,Guthichaur,No,No,No,No,6
+1072,Guthichaur,No,No,No,No,6
+1072,Guthichaur,No,No,No,No,6
+1073,Manma,Hotel Kotdurbar,"4JV7+FQ4, Manma 21300",4.1,Mid: $25–$45,6
+1073,Manma,Bajeko sekuwa cornar,"4JX7+JCF, Manma 21300",4.1,Low: $12–$25,6
+1073,Manma,Amideep hotel,"5J25+FF4, Bazar Bato, Manma 21300",4,High: $40–$70,6
+1074,Saldang,No,No,No,No,6
+1074,Saldang,No,No,No,No,6
+1074,Saldang,No,No,No,No,6
+1075,Tinje,No,No,No,No,6
+1075,Tinje,No,No,No,No,6
+1075,Tinje,No,No,No,No,6
+1076,Bhalu Lek,Aama Restaurant & Guest House,"V7WH+JR7, Sakala 21500",4.1,Mid: $25–$45,6
+1076,Bhalu Lek,No,No,No,No,6
+1076,Bhalu Lek,No,No,No,No,6
+1077,Dullu,Hotel Dullu Darbar Pvt.Ltd.,"VH2W+R56, Dullu 21600",4.3,Mid: $25–$45,6
+1077,Dullu,No,No,No,No,6
+1077,Dullu,No,No,No,No,6
+1078,Narayan Municipality,sugam restaurant,"RPR5+9XP, Narayan Municipality 21600",4,Mid: $25–$45,6
+1078,Narayan Municipality,Devi Hotel,"RPQ5+455, Narayan Municipality 21600",4,Low: $12–$25,6
+1078,Narayan Municipality,kishor hotel,"RPR5+9W2, Narayan Municipality 21600",4.5,High: $40–$70,6
+1079,Daha,Matribhumi family kitchen,"RPR5+5WP, Narayan Municipality 21600",4.1,Mid: $25–$45,6
+1079,Daha,BALLU KO BHANSA GHAR,"VP5G+92, Narayan Municipality 21600",4.2,Low: $12–$25,6
+1079,Daha,Adhikari Hotel,"RPPC+3MR, Narayan Municipality 21600",4,High: $40–$70,6
+1080,Hiunchuli Patan,No,No,No,No,6
+1080,Hiunchuli Patan,No,No,No,No,6
+1080,Hiunchuli Patan,No,No,No,No,6
+1081,Khalanga,No,No,No,No,6
+1081,Khalanga,No,No,No,No,6
+1081,Khalanga,No,No,No,No,6
+1082,Jhula,No,No,No,No,6
+1082,Jhula,No,No,No,No,6
+1082,Jhula,No,No,No,No,6
+1083,Sima,No,No,No,No,6
+1083,Sima,No,No,No,No,6
+1083,Sima,No,No,No,No,6
+1084,Birendranagar,Sammy foodland restaurant and bar,"Unnamed Road, Birendranagar 21700",4,Mid: $25–$45,6
+1084,Birendranagar,Gokul cottage,Birendranagar 21700,4,Low: $12–$25,6
+1084,Birendranagar,Zeyana Restaurant & Bar,"HJX8+52C, High School Road, Birendranagar 21700",4.5,High: $40–$70,6
+1085,Babiyachaur,Sapkota hotel,"RC26+XC2, Babiyachaur 21700",4.1,Mid: $25–$45,6
+1085,Babiyachaur,Jajura hotal,"Q9VM+6XX, Babiyachaur 21700",4.2,Low: $12–$25,6
+1085,Babiyachaur,R C fast food,"QCR7+8WF, Salkot 21700",4,High: $40–$70,6
+1086,Sharada,No,No,No,No,6
+1086,Sharada,No,No,No,No,6
+1086,Sharada,No,No,No,No,6
+1087,Bulbule Lake,No,No,No,No,6
+1087,Bulbule Lake,No,No,No,No,6
+1087,Bulbule Lake,No,No,No,No,6
+1088,Sinja Valley,No,No,No,No,6
+1088,Sinja Valley,No,No,No,No,6
+1088,Sinja Valley,No,No,No,No,6
+1089,Panchakoshi Area,The Family Restro,"HJR7+2FX, Birendranagar 21700",4,Mid: $25–$45,6
+1089,Panchakoshi Area,Kaushik Garden Restaurant,Birendranagar 21700,4.1,Low: $12–$25,6
+1089,Panchakoshi Area,Maya Thakali Restaurant And Cafe,"HJRF+M9W, Birendranagar 21700",4.1,High: $40–$70,6
+1090,Kakrebihar,No,No,No,No,6
+1090,Kakrebihar,No,No,No,No,6
+1090,Kakrebihar,No,No,No,No,6
+1091,Bheri River,No,No,No,No,6
+1091,Bheri River,No,No,No,No,6
+1091,Bheri River,No,No,No,No,6
+1092,Chhayanath Rara,Hotel Didi Bahini,"G4WG+77C, Karkibada 21100",4.2,Mid: $25–$45,6
+1092,Chhayanath Rara,Royal Restaurant & Bar / Prithbi medical Hall,"G5W4+VXM, गमगडी सडक, Shreenagar 21100",4.1,Low: $12–$25,6
+1092,Chhayanath Rara,Milan guest house,"G5X4+959, गमगडी सडक, Shreenagar 21100",4,High: $40–$70,6
+1093,Mount Kanjiroba,No,No,No,No,6
+1093,Mount Kanjiroba,No,No,No,No,6
+1093,Mount Kanjiroba,No,No,No,No,6
+1094,Putha Hiunchuli,No,No,No,No,6
+1094,Putha Hiunchuli,No,No,No,No,6
+1094,Putha Hiunchuli,No,No,No,No,6
+1095,Kande Hiun Chuli,No,No,No,No,6
+1095,Kande Hiun Chuli,No,No,No,No,6
+1095,Kande Hiun Chuli,No,No,No,No,6
+1096,Chankheli Peak,No,No,No,No,6
+1096,Chankheli Peak,No,No,No,No,6
+1096,Chankheli Peak,No,No,No,No,6
+1097,Changdi (Lalung),Shey saldang zambhala hotel and lodge,"C4JR+R39, Saldang 21400",4,Mid: $25–$45,6
+1097,Changdi (Lalung),Tinje nepal,"68VR+JQ, Tinje 21400",4,Low: $12–$25,6
+1097,Changdi (Lalung),No,No,No,No,6
+1098,Kubi Gangri,No,No,No,No,6
+1098,Kubi Gangri,No,No,No,No,6
+1098,Kubi Gangri,No,No,No,No,6
+1099,Fimkof,No,No,No,No,6
+1099,Fimkof,No,No,No,No,6
+1099,Fimkof,No,No,No,No,6
+1100,Phoksundo,Anu Khaja Ghar,"4V8P+R74, Phoksundo 21400",4,Mid: $25–$45,6
+1100,Phoksundo,No,No,No,No,6
+1100,Phoksundo,No,No,No,No,6
+1101,Kanjiroba,Basnet Hotel & Hukka Center,"4HH6+G3H, Rimi 21400",4.5,Mid: $25–$45,6
+1101,Kanjiroba,No,No,No,No,6
+1101,Kanjiroba,No,No,No,No,6
+1102,Patmara,Hotel Snowland,"75FJ+RR3, Chandannath 21200",4,Mid: $25–$45,6
+1102,Patmara,Honeyster Resturant & hotel Lodge,Chandannath 21200,4.1,Low: $12–$25,6
+1102,Patmara,Pooja Hotel,"863H+CWJ, Patmara 21200",4.1,High: $40–$70,6
+1103,Mugu,Sayapattri Hotel & Restaurant,"G5X3+5X6, Shreenagar 21100",4,Mid: $25–$45,6
+1103,Mugu,Hotel karnali,"94XR+FG6, Nyaurighat 21200",4,Low: $12–$25,6
+1103,Mugu,"Bhupu sainik hotel, Bhulbhule, Jumla",Bhulbhule 21200,3.9,High: $40–$70,6
+1104,Rara,No,No,No,No,6
+1104,Rara,No,No,No,No,6
+1104,Rara,No,No,No,No,6
+1105,Chhoti Hill Viewpoint,No,No,No,No,7
+1105,Chhoti Hill Viewpoint,No,No,No,No,7
+1105,Chhoti Hill Viewpoint,No,No,No,No,7
+1106,Bajhang Offbeat Villages,Anil Hotel And Loz,"H7HR+9RX, Bhatekhola 10500",4.1,Mid: $25–$45,7
+1106,Bajhang Offbeat Villages,Sangita Hotel,"G5XX+RM4, Jayaprithvi 10500",4,Low: $12–$25,7
+1106,Bajhang Offbeat Villages,Woodland Khaja Ghar,"H622+J4C, Jayaprithvi 10500",4,High: $40–$70,7
+1107,Malika Historical Sites,No,No,No,No,7
+1107,Malika Historical Sites,No,No,No,No,7
+1107,Malika Historical Sites,No,No,No,No,7
+1108,Jhulaghat Small Temples,No,No,No,No,7
+1108,Jhulaghat Small Temples,No,No,No,No,7
+1108,Jhulaghat Small Temples,No,No,No,No,7
+1109,Chhoti Shivalaya Temple,No,No,No,No,7
+1109,Chhoti Shivalaya Temple,No,No,No,No,7
+1109,Chhoti Shivalaya Temple,No,No,No,No,7
+1110,Gauriganga Waterfall,No,No,No,No,7
+1110,Gauriganga Waterfall,No,No,No,No,7
+1110,Gauriganga Waterfall,No,No,No,No,7
+1111,Doti Hidden Trails,No,No,No,No,7
+1111,Doti Hidden Trails,No,No,No,No,7
+1111,Doti Hidden Trails,No,No,No,No,7
+1112,Rauteli Lake,No,No,No,No,7
+1112,Rauteli Lake,No,No,No,No,7
+1112,Rauteli Lake,No,No,No,No,7
+1113,Kailali / Rupandehi,No,No,No,No,7
+1113,Kailali / Rupandehi,No,No,No,No,7
+1113,Kailali / Rupandehi,No,No,No,No,7
+1114,Doti,Gatani Dubka Restaurant,"3H4Q+RW, Chhatiwan 10900",4.4,Mid: $25–$45,7
+1114,Doti,Bashu Sweets and Vegetarian Restaurant,"XJ38+CJ, Attariya 10900",4.2,Low: $12–$25,7
+1114,Doti,New hometown cafe & family restaurant,Attariya 10900,4.1,High: $40–$70,7
+1115,Bajhang,Prajol Restaurant and Bar,10500,4,Mid: $25–$45,7
+1115,Bajhang,No,No,No,No,7
+1115,Bajhang,No,No,No,No,7
+1116,Baitadi,Baitadi dasharath chand municiplity thaligada,"GF99+CGM, Khalanga 10200",4.1,Mid: $25–$45,7
+1116,Baitadi,No,No,No,No,7
+1116,Baitadi,No,No,No,No,7
+1117,Khaptad Baba Ashram,No,No,No,No,7
+1117,Khaptad Baba Ashram,No,No,No,No,7
+1117,Khaptad Baba Ashram,No,No,No,No,7
+1118,Jhulaghat (Mechinagar border area),No,No,No,No,7
+1118,Jhulaghat (Mechinagar border area),No,No,No,No,7
+1118,Jhulaghat (Mechinagar border area),No,No,No,No,7
+1119,Ghodaghodi Tal,Hangout cafe,Dhangadi 10900,4.1,Mid: $25–$45,7
+1119,Ghodaghodi Tal,Hotel Krishna restaurant and lodg,"MXF4+CCJ, Ghodaghodi 10900",4,Low: $12–$25,7
+1119,Ghodaghodi Tal,Diamond Restaurant,"MXG5+79R, Ghodaghodi 10900",4,High: $40–$70,7
+1120,Ninglashaini Temple,No,No,No,No,7
+1120,Ninglashaini Temple,No,No,No,No,7
+1120,Ninglashaini Temple,No,No,No,No,7
+1121,Badimalika Temple,No,No,No,No,7
+1121,Badimalika Temple,No,No,No,No,7
+1121,Badimalika Temple,No,No,No,No,7
+1122,Khaptad Top View,No,No,No,No,7
+1122,Khaptad Top View,No,No,No,No,7
+1122,Khaptad Top View,No,No,No,No,7
+1123,Jhulaghat River Viewpoint,No,No,No,No,7
+1123,Jhulaghat River Viewpoint,No,No,No,No,7
+1123,Jhulaghat River Viewpoint,No,No,No,No,7
+1124,Mahakali River Minor Spots,No,No,No,No,7
+1124,Mahakali River Minor Spots,No,No,No,No,7
+1124,Mahakali River Minor Spots,No,No,No,No,7
+1125,Doti Tiny Hilltop Viewpoint,No,No,No,No,7
+1125,Doti Tiny Hilltop Viewpoint,No,No,No,No,7
+1125,Doti Tiny Hilltop Viewpoint,No,No,No,No,7
+1126,Gauriganga River Upper Trek Sites,No,No,No,No,7
+1126,Gauriganga River Upper Trek Sites,No,No,No,No,7
+1126,Gauriganga River Upper Trek Sites,No,No,No,No,7
+1127,Bajhang Hidden Stream,No,No,No,No,7
+1127,Bajhang Hidden Stream,No,No,No,No,7
+1127,Bajhang Hidden Stream,No,No,No,No,7
+1128,Far Western Cultural Circuit (Doti/Accham sites),No,No,No,No,7
+1128,Far Western Cultural Circuit (Doti/Accham sites),No,No,No,No,7
+1128,Far Western Cultural Circuit (Doti/Accham sites),No,No,No,No,7
+1129,Api Nampa Conservation Area,Aarukhod,"WVPX+GFJ Api, 1Aarukhod 10100",4.1,Mid: $25–$45,7
+1129,Api Nampa Conservation Area,No,No,No,No,7
+1129,Api Nampa Conservation Area,No,No,No,No,7
+1130,Shuklaphanta National Park,Green Spice Restaurant,"W85Q+H2C, झलारीपिपलाडी 10400",4,Mid: $25–$45,7
+1130,Shuklaphanta National Park,"Darshan restaurant,Bar& lodge","W86P+3XQ Bansamiti Kasroul, kalapani road, Bansamiti 10400",4.4,Low: $12–$25,7
+1130,Shuklaphanta National Park,THE THIRD HEAVEN,"W85Q+4P3, Mahendra Hwy, झलारीपिपलाडी 10400",4.2,High: $40–$70,7
+1131,Khaptad National Park (western edge),No,No,No,No,7
+1131,Khaptad National Park (western edge),No,No,No,No,7
+1131,Khaptad National Park (western edge),No,No,No,No,7
+1132,Api Himal Base Camp,No,No,No,No,7
+1132,Api Himal Base Camp,No,No,No,No,7
+1132,Api Himal Base Camp,No,No,No,No,7
+1133,Baitadi Micro Temple,No,No,No,No,7
+1133,Baitadi Micro Temple,No,No,No,No,7
+1133,Baitadi Micro Temple,No,No,No,No,7
+1134,Lesser Tributaries & Streams,No,No,No,No,7
+1134,Lesser Tributaries & Streams,No,No,No,No,7
+1134,Lesser Tributaries & Streams,No,No,No,No,7
+1135,Tripura Sundari Temple,No,No,No,No,7
+1135,Tripura Sundari Temple,No,No,No,No,7
+1135,Tripura Sundari Temple,No,No,No,No,7
+1136,Ramaroshan,No,No,No,No,7
+1136,Ramaroshan,No,No,No,No,7
+1136,Ramaroshan,No,No,No,No,7
+1137,Khaptad Waterfalls,No,No,No,No,7
+1137,Khaptad Waterfalls,No,No,No,No,7
+1137,Khaptad Waterfalls,No,No,No,No,7
+1138,Dhangadhi,NIKO Restaurant Chaulani,Dhangadhi 10900,4,Mid: $25–$45,7
+1138,Dhangadhi,Lekali restaurant and tanduri,"PH4G+969, Uttarbehandi Road, Dhangadhi 10900",4.1,Low: $12–$25,7
+1138,Dhangadhi,Everest Resto & Bar,"Prithvi narayan chowk, Dhangadhi 10900",4.1,High: $40–$70,7
+1139,Api Himal Base Camp,No,No,No,No,7
+1139,Api Himal Base Camp,No,No,No,No,7
+1139,Api Himal Base Camp,No,No,No,No,7
+1140,Api Nampa Conservation Area,No,No,No,No,7
+1140,Api Nampa Conservation Area,No,No,No,No,7
+1140,Api Nampa Conservation Area,No,No,No,No,7
+1141,Badimalika Temple,No,No,No,No,7
+1141,Badimalika Temple,No,No,No,No,7
+1141,Badimalika Temple,No,No,No,No,7
+1142,Baitadi,No,No,No,No,7
+1142,Baitadi,No,No,No,No,7
+1142,Baitadi,No,No,No,No,7
+1143,Baitadi Minor Temples,No,No,No,No,7
+1143,Baitadi Minor Temples,No,No,No,No,7
+1143,Baitadi Minor Temples,No,No,No,No,7
+1144,Bajhang,No,No,No,No,7
+1144,Bajhang,No,No,No,No,7
+1144,Bajhang,No,No,No,No,7
+1145,Chhoti Hill Viewpoint,No,No,No,No,7
+1145,Chhoti Hill Viewpoint,No,No,No,No,7
+1145,Chhoti Hill Viewpoint,No,No,No,No,7
+1146,Chhoti Shivalaya Temple,No,No,No,No,7
+1146,Chhoti Shivalaya Temple,No,No,No,No,7
+1146,Chhoti Shivalaya Temple,No,No,No,No,7
+1147,Dhangadhi,No,No,No,No,7
+1147,Dhangadhi,No,No,No,No,7
+1147,Dhangadhi,No,No,No,No,7
+1148,Doti Tiny Hilltop Viewpoint,No,No,No,No,7
+1148,Doti Tiny Hilltop Viewpoint,No,No,No,No,7
+1148,Doti Tiny Hilltop Viewpoint,No,No,No,No,7
+1149,Far Western Cultural Circuit,No,No,No,No,7
+1149,Far Western Cultural Circuit,No,No,No,No,7
+1149,Far Western Cultural Circuit,No,No,No,No,7
+1150,Gauriganga River Upper Trek Sites,No,No,No,No,7
+1150,Gauriganga River Upper Trek Sites,No,No,No,No,7
+1150,Gauriganga River Upper Trek Sites,No,No,No,No,7
+1151,Gauriganga Waterfall,No,No,No,No,7
+1151,Gauriganga Waterfall,No,No,No,No,7
+1151,Gauriganga Waterfall,No,No,No,No,7
+1152,Ghodaghodi Tal,No,No,No,No,7
+1152,Ghodaghodi Tal,No,No,No,No,7
+1152,Ghodaghodi Tal,No,No,No,No,7
+1153,Jhulaghat (Mechinagar border area),No,No,No,No,7
+1153,Jhulaghat (Mechinagar border area),No,No,No,No,7
+1153,Jhulaghat (Mechinagar border area),No,No,No,No,7
+1154,Jhulaghat River Viewpoint,No,No,No,No,7
+1154,Jhulaghat River Viewpoint,No,No,No,No,7
+1154,Jhulaghat River Viewpoint,No,No,No,No,7
+1155,Jhulaghat Small Temples,No,No,No,No,7
+1155,Jhulaghat Small Temples,No,No,No,No,7
+1155,Jhulaghat Small Temples,No,No,No,No,7
+1156,Kailali / Rupandehi,No,No,No,No,7
+1156,Kailali / Rupandehi,No,No,No,No,7
+1156,Kailali / Rupandehi,No,No,No,No,7
+1157,Khaptad Baba Ashram,No,No,No,No,7
+1157,Khaptad Baba Ashram,No,No,No,No,7
+1157,Khaptad Baba Ashram,No,No,No,No,7
+1158,Khaptad National Park,No,No,No,No,7
+1158,Khaptad National Park,No,No,No,No,7
+1158,Khaptad National Park,No,No,No,No,7
+1159,Khaptad Top View,No,No,No,No,7
+1159,Khaptad Top View,No,No,No,No,7
+1159,Khaptad Top View,No,No,No,No,7
+1160,Khaptad Waterfalls,No,No,No,No,7
+1160,Khaptad Waterfalls,No,No,No,No,7
+1160,Khaptad Waterfalls,No,No,No,No,7
+1161,Lesser Tributaries & Streams,No,No,No,No,7
+1161,Lesser Tributaries & Streams,No,No,No,No,7
+1161,Lesser Tributaries & Streams,No,No,No,No,7
+1162,Mahakali River,No,No,No,No,7
+1162,Mahakali River,No,No,No,No,7
+1162,Mahakali River,No,No,No,No,7
+1163,Malika Historical Sites,No,No,No,No,7
+1163,Malika Historical Sites,No,No,No,No,7
+1163,Malika Historical Sites,No,No,No,No,7
+1164,Ninglashaini Temple,No,No,No,No,7
+1164,Ninglashaini Temple,No,No,No,No,7
+1164,Ninglashaini Temple,No,No,No,No,7
+1165,Ramaroshan,No,No,No,No,7
+1165,Ramaroshan,No,No,No,No,7
+1165,Ramaroshan,No,No,No,No,7
+1166,Rauteli Lake,No,No,No,No,7
+1166,Rauteli Lake,No,No,No,No,7
+1166,Rauteli Lake,No,No,No,No,7
+1167,Shuklaphanta National Park,No,No,No,No,7
+1167,Shuklaphanta National Park,No,No,No,No,7
+1167,Shuklaphanta National Park,No,No,No,No,7
+1168,Tripura Sundari Temple,No,No,No,No,7
+1168,Tripura Sundari Temple,No,No,No,No,7
+1168,Tripura Sundari Temple,No,No,No,No,7
+1169,Dipayal Silgadhi,No,No,No,No,7
+1169,Dipayal Silgadhi,No,No,No,No,7
+1169,Dipayal Silgadhi,No,No,No,No,7
+1170,Gobghat Bazaar,No,No,No,No,7
+1170,Gobghat Bazaar,No,No,No,No,7
+1170,Gobghat Bazaar,No,No,No,No,7
+1171,Mathbora,No,No,No,No,7
+1171,Mathbora,No,No,No,No,7
+1171,Mathbora,No,No,No,No,7
+1172,Latamandau,No,No,No,No,7
+1172,Latamandau,No,No,No,No,7
+1172,Latamandau,No,No,No,No,7
+1173,Banedugri Sain,No,No,No,No,7
+1173,Banedugri Sain,No,No,No,No,7
+1173,Banedugri Sain,No,No,No,No,7
+1174,Moi,No,No,No,No,7
+1174,Moi,No,No,No,No,7
+1174,Moi,No,No,No,No,7
+1175,Kailpalmandu,No,No,No,No,7
+1175,Kailpalmandu,No,No,No,No,7
+1175,Kailpalmandu,No,No,No,No,7
+1176,Ganeshpur,No,No,No,No,7
+1176,Ganeshpur,No,No,No,No,7
+1176,Ganeshpur,No,No,No,No,7
+1177,Malma,No,No,No,No,7
+1177,Malma,No,No,No,No,7
+1177,Malma,No,No,No,No,7
+1178,Amargadhi,Yatri Hotel,"7HXQ+5MF, H14, Amargadhi 10300",4.1,Mid: $25–$45,7
+1178,Amargadhi,Hotel Tuphandada Hight,"8H2Q+R73, Amargadhi 10300",4.1,Low: $12–$25,7
+1178,Amargadhi,The Burgerhouse & Crunchy Fried Chicken,"8H3R+4RC, Amargadhi 10300",4,High: $40–$70,7
+1179,Bhadrapur,The Hidden Hut Restaurants & Bar,"H36H+QW8, Bhadrapur 00977",4,Mid: $25–$45,7
+1179,Bhadrapur,Himalaya food land,"H398+HF2, Bhadrapur 57200",4.4,Low: $12–$25,7
+1179,Bhadrapur,Classic Restaurant,"Birtamod-Chandragadhi Road, Bhadrapur 57200",4.2,High: $40–$70,7
+1180,Chipur,No,No,No,No,7
+1180,Chipur,No,No,No,No,7
+1180,Chipur,No,No,No,No,7
+1181,Mahakali,No,No,No,No,7
+1181,Mahakali,No,No,No,No,7
+1181,Mahakali,No,No,No,No,7
+1182,Pancheshwar,No,No,No,No,7
+1182,Pancheshwar,No,No,No,No,7
+1182,Pancheshwar,No,No,No,No,7
+1183,Kailpal Temple,No,No,No,No,7
+1183,Kailpal Temple,No,No,No,No,7
+1183,Kailpal Temple,No,No,No,No,7
+1184,Shibanath,No,No,No,No,7
+1184,Shibanath,No,No,No,No,7
+1184,Shibanath,No,No,No,No,7
+1185,Saipal,No,No,No,No,7
+1185,Saipal,No,No,No,No,7
+1185,Saipal,No,No,No,No,7
+1186,Khunka Daha,BAJURA,"M8RR+JR3, Devkota Sadak, Kathmandu 44600",4,Mid: $25–$45,7
+1186,Khunka Daha,No,No,No,No,7
+1186,Khunka Daha,No,No,No,No,7
+1187,Badimalika Temple,No,No,No,No,7
+1187,Badimalika Temple,No,No,No,No,7
+1187,Badimalika Temple,No,No,No,No,7
+1188,Kalapani,No,No,No,No,7
+1188,Kalapani,No,No,No,No,7
+1188,Kalapani,No,No,No,No,7
+1189,Om Parvat Viewpoint,No,No,No,No,7
+1189,Om Parvat Viewpoint,No,No,No,No,7
+1189,Om Parvat Viewpoint,No,No,No,No,7
+1190,Vyas Cave,No,No,No,No,7
+1190,Vyas Cave,No,No,No,No,7
+1190,Vyas Cave,No,No,No,No,7
